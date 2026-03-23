@@ -1,0 +1,821 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HG Calendar — Heavenly Greens</title>
+<style>
+  :root {
+    --bg: #1a1a2e;
+    --surface: #16213e;
+    --surface2: #0f3460;
+    --text: #e0e0e0;
+    --text-dim: #8892a4;
+    --border: #2a3a5c;
+    --accent: #4fc3f7;
+    --green: #4caf50;
+    --blue: #42a5f5;
+    --purple: #ab47bc;
+    --pink: #ef5350;
+    --yellow: #fdd835;
+    --teal: #26a69a;
+    --orange: #ff9800;
+    --olive: #9e9d24;
+    --row-alt: rgba(255,255,255,0.02);
+    --today-line: #ff5252;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    overflow-x: auto;
+  }
+
+  /* ---- HEADER ---- */
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 20px;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .header-left {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  .header h1 {
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--accent);
+  }
+  .date-display {
+    font-size: 22px;
+    font-weight: 600;
+  }
+  .nav-btns {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .nav-btns button, .view-btns button, .filter-btns button {
+    background: var(--surface2);
+    color: var(--text);
+    border: 1px solid var(--border);
+    padding: 6px 14px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 13px;
+    transition: all 0.15s;
+  }
+  .nav-btns button:hover, .view-btns button:hover, .filter-btns button:hover {
+    background: var(--border);
+  }
+  .filter-btns button.active {
+    background: var(--accent);
+    color: #000;
+    border-color: var(--accent);
+    font-weight: 600;
+  }
+  .header-right {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .view-btns { display: flex; gap: 4px; }
+  .view-btns button.active {
+    background: var(--accent);
+    color: #000;
+    border-color: var(--accent);
+  }
+  .refresh-btn {
+    background: none !important;
+    border: none !important;
+    color: var(--accent) !important;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 6px 10px !important;
+  }
+  .refresh-btn:hover { opacity: 0.7; }
+  .last-updated {
+    font-size: 11px;
+    color: var(--text-dim);
+  }
+
+  /* ---- SUBHEADER / FILTERS ---- */
+  .subheader {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 20px;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+  }
+  .filter-btns { display: flex; gap: 4px; }
+  .stats {
+    font-size: 12px;
+    color: var(--text-dim);
+  }
+
+  /* ---- CALENDAR GRID ---- */
+  .calendar-container {
+    display: flex;
+    position: relative;
+    min-height: calc(100vh - 100px);
+  }
+
+  /* Resource column (left) */
+  .resource-col {
+    min-width: 180px;
+    max-width: 180px;
+    background: var(--surface);
+    border-right: 1px solid var(--border);
+    position: sticky;
+    left: 0;
+    z-index: 50;
+  }
+  .resource-col .time-header {
+    height: 36px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    padding: 0 12px;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--text-dim);
+  }
+  .resource-row {
+    height: 56px;
+    display: flex;
+    align-items: center;
+    padding: 0 12px;
+    border-bottom: 1px solid var(--border);
+    font-size: 13px;
+    font-weight: 500;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .resource-row:nth-child(even) { background: var(--row-alt); }
+  .resource-row .category-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-right: 8px;
+    flex-shrink: 0;
+  }
+  .resource-row .category-dot.sales { background: var(--blue); }
+  .resource-row .category-dot.installation { background: var(--green); }
+  .resource-row .category-dot.service { background: var(--teal); }
+
+  /* Section dividers in resource column */
+  .section-header {
+    height: 32px;
+    display: flex;
+    align-items: center;
+    padding: 0 12px;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--accent);
+    background: rgba(79,195,247,0.08);
+    border-bottom: 1px solid var(--border);
+  }
+
+  /* Time grid (right) */
+  .time-grid {
+    flex: 1;
+    position: relative;
+    overflow-x: auto;
+  }
+  .time-header-row {
+    display: flex;
+    height: 36px;
+    border-bottom: 1px solid var(--border);
+    position: sticky;
+    top: 0;
+    background: var(--surface);
+    z-index: 40;
+  }
+  .time-slot-header {
+    min-width: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    color: var(--text-dim);
+    border-right: 1px solid rgba(42,58,92,0.5);
+  }
+  .time-slot-header.hour { font-weight: 600; color: var(--text); }
+
+  .grid-body { position: relative; }
+
+  .grid-row {
+    height: 56px;
+    position: relative;
+    border-bottom: 1px solid var(--border);
+  }
+  .grid-row:nth-child(even) { background: var(--row-alt); }
+
+  /* Section spacer in grid */
+  .grid-section-header {
+    height: 32px;
+    background: rgba(79,195,247,0.08);
+    border-bottom: 1px solid var(--border);
+  }
+
+  /* Time grid lines */
+  .grid-lines {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    z-index: 1;
+  }
+  .grid-line {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background: rgba(42,58,92,0.3);
+  }
+  .grid-line.hour { background: rgba(42,58,92,0.6); }
+
+  /* Now indicator */
+  .now-line {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: var(--today-line);
+    z-index: 30;
+    pointer-events: none;
+  }
+  .now-line::before {
+    content: '';
+    position: absolute;
+    top: -4px;
+    left: -4px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--today-line);
+  }
+
+  /* Event blocks */
+  .event-block {
+    position: absolute;
+    top: 4px;
+    height: 48px;
+    border-radius: 4px;
+    padding: 4px 8px;
+    font-size: 11px;
+    line-height: 1.3;
+    overflow: hidden;
+    cursor: pointer;
+    z-index: 10;
+    transition: opacity 0.15s, transform 0.1s;
+    border-left: 3px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .event-block:hover {
+    opacity: 0.85;
+    transform: translateY(-1px);
+    z-index: 20;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+  }
+  .event-block .event-time {
+    font-weight: 700;
+    font-size: 10px;
+    opacity: 0.9;
+  }
+  .event-block .event-label {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  /* Category colors */
+  .event-block.sales {
+    background: rgba(66,165,245,0.25);
+    border-left-color: var(--blue);
+    color: #bbdefb;
+  }
+  .event-block.customer-meeting {
+    background: rgba(66,165,245,0.3);
+    border-left-color: var(--blue);
+    color: #bbdefb;
+  }
+  .event-block.sales-presentation {
+    background: rgba(158,157,36,0.3);
+    border-left-color: var(--olive);
+    color: #f0f4c3;
+  }
+  .event-block.installation {
+    background: rgba(76,175,80,0.25);
+    border-left-color: var(--green);
+    color: #c8e6c9;
+  }
+  .event-block.service {
+    background: rgba(38,166,154,0.25);
+    border-left-color: var(--teal);
+    color: #b2dfdb;
+  }
+  .event-block.time_off {
+    background: rgba(171,71,188,0.3);
+    border-left-color: var(--purple);
+    color: #e1bee7;
+  }
+  .event-block.costco {
+    background: rgba(239,83,80,0.25);
+    border-left-color: var(--pink);
+    color: #ffcdd2;
+  }
+
+  /* Tooltip */
+  .tooltip {
+    display: none;
+    position: fixed;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 12px 16px;
+    font-size: 13px;
+    z-index: 200;
+    max-width: 350px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+    pointer-events: none;
+  }
+  .tooltip.visible { display: block; }
+  .tooltip .tt-subject { font-weight: 700; font-size: 14px; margin-bottom: 6px; }
+  .tooltip .tt-row { margin: 3px 0; color: var(--text-dim); }
+  .tooltip .tt-row span { color: var(--text); }
+
+  /* Loading */
+  .loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+    font-size: 18px;
+    color: var(--text-dim);
+  }
+  .loading .spinner {
+    width: 24px; height: 24px;
+    border: 3px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin-right: 12px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* Legend */
+  .legend {
+    display: flex;
+    gap: 16px;
+    padding: 8px 20px;
+    background: var(--surface);
+    border-top: 1px solid var(--border);
+    font-size: 12px;
+  }
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .legend-dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 3px;
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-left">
+    <h1>HG Calendar</h1>
+    <div class="nav-btns">
+      <button id="btn-prev">&lt;</button>
+      <button id="btn-today">Today</button>
+      <button id="btn-next">&gt;</button>
+    </div>
+    <div class="date-display" id="date-display"></div>
+  </div>
+  <div class="header-right">
+    <div class="view-btns">
+      <button data-view="day" class="active">Day</button>
+      <button data-view="week">Week</button>
+    </div>
+    <button class="refresh-btn" id="btn-refresh" title="Refresh">Refresh</button>
+    <span class="last-updated" id="last-updated"></span>
+  </div>
+</div>
+
+<div class="subheader">
+  <div class="filter-btns">
+    <button data-filter="all" class="active">All</button>
+    <button data-filter="sales">Sales</button>
+    <button data-filter="installation">Installation</button>
+    <button data-filter="service">Service</button>
+  </div>
+  <div class="stats" id="stats"></div>
+</div>
+
+<div id="calendar-root">
+  <div class="loading"><div class="spinner"></div>Loading calendar data...</div>
+</div>
+
+<div class="legend">
+  <div class="legend-item"><div class="legend-dot" style="background:var(--blue)"></div>Customer Meeting</div>
+  <div class="legend-item"><div class="legend-dot" style="background:var(--olive)"></div>Sales Presentation</div>
+  <div class="legend-item"><div class="legend-dot" style="background:var(--green)"></div>Installation</div>
+  <div class="legend-item"><div class="legend-dot" style="background:var(--teal)"></div>Service</div>
+  <div class="legend-item"><div class="legend-dot" style="background:var(--purple)"></div>Time Off</div>
+  <div class="legend-item"><div class="legend-dot" style="background:var(--pink)"></div>Costco</div>
+</div>
+
+<div class="tooltip" id="tooltip"></div>
+
+<script>
+// ---------------------------------------------------------------------------
+// Configuration
+// ---------------------------------------------------------------------------
+const HOURS_START = 6;  // 6 AM
+const HOURS_END = 20;   // 8 PM
+const SLOT_WIDTH = 120; // pixels per hour
+const HALF_SLOT = SLOT_WIDTH / 2;
+const TIMEZONE = 'America/Los_Angeles'; // PT
+
+// Data URL — will be replaced by Modal endpoint
+let DATA_URL = 'data.json';
+
+// State
+let currentDate = new Date();
+let currentView = 'day';
+let currentFilter = 'all';
+let calendarData = null;
+
+// ---------------------------------------------------------------------------
+// Date Helpers
+// ---------------------------------------------------------------------------
+function formatDateISO(d) {
+  return d.getFullYear() + '-' +
+    String(d.getMonth()+1).padStart(2,'0') + '-' +
+    String(d.getDate()).padStart(2,'0');
+}
+
+function formatDateDisplay(d) {
+  const days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+  const months = ['January','February','March','April','May','June',
+                   'July','August','September','October','November','December'];
+  return `${days[d.getDay()]}, ${months[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()}`;
+}
+
+function parseEventTime(isoStr) {
+  // Parse ISO string and convert to PT
+  const d = new Date(isoStr);
+  return d;
+}
+
+function getHoursInPT(d) {
+  // Get hours as decimal in Pacific Time
+  const ptStr = d.toLocaleString('en-US', { timeZone: TIMEZONE, hour12: false,
+    hour: '2-digit', minute: '2-digit' });
+  const [h, m] = ptStr.split(':').map(Number);
+  return h + m / 60;
+}
+
+function formatTimePT(d) {
+  return d.toLocaleString('en-US', {
+    timeZone: TIMEZONE, hour: 'numeric', minute: '2-digit', hour12: true
+  }).toLowerCase();
+}
+
+// ---------------------------------------------------------------------------
+// Event classification helpers
+// ---------------------------------------------------------------------------
+function getEventColorClass(event) {
+  if (event.category === 'time_off') return 'time_off';
+  if (event.category === 'installation') return 'installation';
+  if (event.category === 'service') return 'service';
+
+  // Sales sub-types
+  const sub = (event.subject || '').toLowerCase();
+  const loc = (event.location || '').toLowerCase();
+  const contact = (event.contact_name || '').toLowerCase();
+  const related = (event.related_name || '').toLowerCase();
+
+  // Costco indicator
+  if (loc.includes('costco') || contact.includes('costco') || related.includes('costco')) {
+    return 'costco';
+  }
+  if (sub.includes('sales presentation')) return 'sales-presentation';
+  if (sub.includes('customer meeting')) return 'customer-meeting';
+  return 'sales';
+}
+
+// ---------------------------------------------------------------------------
+// Render
+// ---------------------------------------------------------------------------
+function render() {
+  if (!calendarData) return;
+
+  const root = document.getElementById('calendar-root');
+  const dateStr = formatDateISO(currentDate);
+  document.getElementById('date-display').textContent = formatDateDisplay(currentDate);
+
+  // Filter events for this date
+  let events = calendarData.events.filter(e => {
+    const startDate = formatDateISO(new Date(e.start));
+    const endDate = formatDateISO(new Date(e.end));
+    return startDate <= dateStr && endDate >= dateStr;
+  });
+
+  // Apply category filter
+  if (currentFilter !== 'all') {
+    events = events.filter(e => {
+      if (currentFilter === 'sales') return e.category === 'sales' || e.category === 'time_off';
+      return e.category === currentFilter;
+    });
+  }
+
+  // Build resource list based on filter
+  let resources = [];
+  const allResources = calendarData.resources;
+
+  if (currentFilter === 'all' || currentFilter === 'installation') {
+    if (currentFilter === 'all') resources.push({ type: 'section', label: 'Installation Crews' });
+    allResources.installation.forEach(r => resources.push({ type: 'resource', name: r, category: 'installation' }));
+  }
+  if (currentFilter === 'all' || currentFilter === 'sales') {
+    if (currentFilter === 'all') resources.push({ type: 'section', label: 'Sales' });
+    allResources.sales.forEach(r => resources.push({ type: 'resource', name: r, category: 'sales' }));
+  }
+  if (currentFilter === 'all' || currentFilter === 'service') {
+    if (currentFilter === 'all') resources.push({ type: 'section', label: 'Service' });
+    allResources.service.forEach(r => resources.push({ type: 'resource', name: r, category: 'service' }));
+  }
+
+  // Stats
+  const salesCount = events.filter(e => e.category === 'sales').length;
+  const installCount = events.filter(e => e.category === 'installation').length;
+  const serviceCount = events.filter(e => e.category === 'service').length;
+  const offCount = events.filter(e => e.category === 'time_off').length;
+  document.getElementById('stats').textContent =
+    `${events.length} events | ${salesCount} sales | ${installCount} install | ${serviceCount} service | ${offCount} off`;
+
+  // Build time headers (6 AM to 8 PM)
+  let timeHeaders = '';
+  for (let h = HOURS_START; h <= HOURS_END; h++) {
+    const label = h === 0 ? '12am' : h < 12 ? `${h}am` : h === 12 ? '12pm' : `${h-12}pm`;
+    timeHeaders += `<div class="time-slot-header hour" style="min-width:${HALF_SLOT}px">${label}</div>`;
+    timeHeaders += `<div class="time-slot-header" style="min-width:${HALF_SLOT}px">30</div>`;
+  }
+  const totalWidth = (HOURS_END - HOURS_START + 1) * SLOT_WIDTH;
+
+  // Build resource rows
+  let resourceHTML = '<div class="time-header">Resource</div>';
+  let gridRowsHTML = '';
+
+  resources.forEach((r, idx) => {
+    if (r.type === 'section') {
+      resourceHTML += `<div class="section-header">${r.label}</div>`;
+      gridRowsHTML += `<div class="grid-section-header"></div>`;
+      return;
+    }
+
+    const dotClass = r.category;
+    resourceHTML += `
+      <div class="resource-row">
+        <div class="category-dot ${dotClass}"></div>
+        ${r.name}
+      </div>`;
+
+    // Find events for this resource
+    const rowEvents = events.filter(e => {
+      if (r.category === 'sales') {
+        // Sales resources also show their time_off events
+        return e.resource === r.name || (e.category === 'time_off' && e.resource === r.name);
+      }
+      return e.resource === r.name;
+    });
+
+    let eventsHTML = '';
+    rowEvents.forEach(ev => {
+      const startTime = parseEventTime(ev.start);
+      const endTime = parseEventTime(ev.end);
+      let startH = getHoursInPT(startTime);
+      let endH = getHoursInPT(endTime);
+
+      // Clamp to visible range
+      if (startH < HOURS_START) startH = HOURS_START;
+      if (endH > HOURS_END + 1) endH = HOURS_END + 1;
+      if (endH <= startH) return;
+
+      const left = (startH - HOURS_START) * SLOT_WIDTH;
+      const width = Math.max((endH - startH) * SLOT_WIDTH, 30);
+      const colorClass = getEventColorClass(ev);
+      const timeLabel = formatTimePT(startTime);
+
+      // Build compact label
+      let displayParts = [];
+      if (ev.category === 'time_off') {
+        displayParts.push('Time Off');
+      } else if (ev.category === 'sales') {
+        if (ev.contact_name) displayParts.push(ev.contact_name);
+        if (ev.location) displayParts.push(ev.location);
+      } else if (ev.category === 'installation') {
+        if (ev.related_name) displayParts.push(ev.related_name);
+        if (ev.location) displayParts.push(ev.location);
+      } else if (ev.category === 'service') {
+        if (ev.related_name) displayParts.push(ev.related_name);
+        if (ev.location) displayParts.push(ev.location);
+      }
+
+      const displayLabel = displayParts.join(' | ');
+
+      eventsHTML += `
+        <div class="event-block ${colorClass}"
+             style="left:${left}px; width:${width}px"
+             data-event-id="${ev.id}"
+             data-subject="${(ev.subject||'').replace(/"/g,'&quot;')}"
+             data-location="${(ev.location||'').replace(/"/g,'&quot;')}"
+             data-contact="${(ev.contact_name||'').replace(/"/g,'&quot;')}"
+             data-related="${(ev.related_name||'').replace(/"/g,'&quot;')}"
+             data-start="${formatTimePT(startTime)}"
+             data-end="${formatTimePT(endTime)}"
+             data-category="${ev.category}">
+          <div class="event-time">${timeLabel}</div>
+          <div class="event-label">${ev.subject}${displayLabel ? ' | ' + displayLabel : ''}</div>
+        </div>`;
+    });
+
+    gridRowsHTML += `<div class="grid-row" style="width:${totalWidth}px">${eventsHTML}</div>`;
+  });
+
+  // Grid lines
+  let gridLines = '';
+  for (let h = HOURS_START; h <= HOURS_END; h++) {
+    const x = (h - HOURS_START) * SLOT_WIDTH;
+    gridLines += `<div class="grid-line hour" style="left:${x}px"></div>`;
+    gridLines += `<div class="grid-line" style="left:${x + HALF_SLOT}px"></div>`;
+  }
+
+  // Now line
+  const now = new Date();
+  const nowH = getHoursInPT(now);
+  let nowLineHTML = '';
+  if (formatDateISO(now) === dateStr && nowH >= HOURS_START && nowH <= HOURS_END + 1) {
+    const nowX = (nowH - HOURS_START) * SLOT_WIDTH;
+    nowLineHTML = `<div class="now-line" style="left:${nowX}px"></div>`;
+  }
+
+  root.innerHTML = `
+    <div class="calendar-container">
+      <div class="resource-col">${resourceHTML}</div>
+      <div class="time-grid">
+        <div class="time-header-row">${timeHeaders}</div>
+        <div class="grid-body" style="position:relative">
+          <div class="grid-lines" style="width:${totalWidth}px">${gridLines}${nowLineHTML}</div>
+          ${gridRowsHTML}
+        </div>
+      </div>
+    </div>`;
+
+  // Attach tooltip handlers
+  document.querySelectorAll('.event-block').forEach(el => {
+    el.addEventListener('mouseenter', showTooltip);
+    el.addEventListener('mouseleave', hideTooltip);
+    el.addEventListener('mousemove', moveTooltip);
+  });
+}
+
+// ---------------------------------------------------------------------------
+// Tooltip
+// ---------------------------------------------------------------------------
+function showTooltip(e) {
+  const el = e.currentTarget;
+  const tt = document.getElementById('tooltip');
+  tt.innerHTML = `
+    <div class="tt-subject">${el.dataset.subject}</div>
+    <div class="tt-row">Time: <span>${el.dataset.start} - ${el.dataset.end}</span></div>
+    ${el.dataset.location ? `<div class="tt-row">Location: <span>${el.dataset.location}</span></div>` : ''}
+    ${el.dataset.contact ? `<div class="tt-row">Contact: <span>${el.dataset.contact}</span></div>` : ''}
+    ${el.dataset.related ? `<div class="tt-row">Related: <span>${el.dataset.related}</span></div>` : ''}
+    <div class="tt-row">Type: <span>${el.dataset.category}</span></div>
+  `;
+  tt.classList.add('visible');
+}
+function hideTooltip() {
+  document.getElementById('tooltip').classList.remove('visible');
+}
+function moveTooltip(e) {
+  const tt = document.getElementById('tooltip');
+  tt.style.left = (e.clientX + 16) + 'px';
+  tt.style.top = (e.clientY + 16) + 'px';
+}
+
+// ---------------------------------------------------------------------------
+// Navigation & Controls
+// ---------------------------------------------------------------------------
+document.getElementById('btn-prev').addEventListener('click', () => {
+  currentDate.setDate(currentDate.getDate() - 1);
+  loadData();
+});
+document.getElementById('btn-next').addEventListener('click', () => {
+  currentDate.setDate(currentDate.getDate() + 1);
+  loadData();
+});
+document.getElementById('btn-today').addEventListener('click', () => {
+  currentDate = new Date();
+  loadData();
+});
+document.getElementById('btn-refresh').addEventListener('click', () => loadData());
+
+// View buttons
+document.querySelectorAll('.view-btns button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.view-btns button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    currentView = btn.dataset.view;
+    render();
+  });
+});
+
+// Filter buttons
+document.querySelectorAll('.filter-btns button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.filter-btns button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    currentFilter = btn.dataset.filter;
+    render();
+  });
+});
+
+// ---------------------------------------------------------------------------
+// Data loading
+// ---------------------------------------------------------------------------
+async function loadData() {
+  const dateStr = formatDateISO(currentDate);
+  try {
+    const resp = await fetch(`${DATA_URL}?date=${dateStr}&_=${Date.now()}`);
+    if (resp.ok) {
+      calendarData = await resp.json();
+      document.getElementById('last-updated').textContent =
+        'Updated: ' + new Date().toLocaleTimeString();
+      render();
+    } else {
+      console.error('Failed to load data:', resp.status);
+    }
+  } catch(err) {
+    console.error('Data load error:', err);
+    // Try loading static file as fallback
+    try {
+      const resp = await fetch('data.json');
+      if (resp.ok) {
+        calendarData = await resp.json();
+        document.getElementById('last-updated').textContent =
+          'Updated: ' + new Date().toLocaleTimeString() + ' (cached)';
+        render();
+      }
+    } catch(e) {
+      document.getElementById('calendar-root').innerHTML =
+        '<div class="loading">Failed to load calendar data. Check connection.</div>';
+    }
+  }
+}
+
+// Auto-refresh every 5 minutes
+setInterval(loadData, 5 * 60 * 1000);
+
+// Update now-line every minute
+setInterval(() => {
+  const nowLine = document.querySelector('.now-line');
+  if (nowLine) {
+    const now = new Date();
+    const nowH = getHoursInPT(now);
+    if (nowH >= HOURS_START && nowH <= HOURS_END + 1) {
+      nowLine.style.left = ((nowH - HOURS_START) * SLOT_WIDTH) + 'px';
+    }
+  }
+}, 60000);
+
+// Initial load
+loadData();
+</script>
+</body>
+</html>
