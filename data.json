@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-24T18:30:19.404322Z",
+  "generated": "2026-03-24T18:35:18.610770Z",
   "date_range": {
     "start": "2026-03-24",
     "end": "2026-03-24"
@@ -225,20 +225,6 @@
       "event_type": "Assessment"
     },
     {
-      "id": "00URb00000Nm4aOMAR",
-      "category": "sales",
-      "resource": "Chris Loeswick",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Madelyn Elias | San Francisco",
-      "location": "San Francisco",
-      "start": "2026-03-24T17:00:00.000+0000",
-      "end": "2026-03-24T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Madelyn Elias",
-      "related_name": "Madelyn Elias-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000NpqIfMAJ",
       "category": "sales",
       "resource": "Tim Duggan",
@@ -309,6 +295,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000Nm4aOMAR",
+      "category": "sales",
+      "resource": "Chris Loeswick",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Madelyn Elias | San Francisco",
+      "location": "San Francisco",
+      "start": "2026-03-24T19:00:00.000+0000",
+      "end": "2026-03-24T21:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Madelyn Elias",
+      "related_name": "Madelyn Elias-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000N0jnzMAB",
       "category": "time_off",
       "resource": "Chris Loeswick",
@@ -320,6 +320,20 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000NjhuoMAB",
+      "category": "sales",
+      "resource": "Ray Richards",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Katie Hunt | Concord",
+      "location": "Concord",
+      "start": "2026-03-24T20:00:00.000+0000",
+      "end": "2026-03-24T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Katie Hunt",
+      "related_name": "Katie Hunt-",
       "event_type": null
     },
     {
@@ -337,17 +351,17 @@
       "event_type": "Service"
     },
     {
-      "id": "00URb00000NjhuoMAB",
+      "id": "00URb00000NWP67MAH",
       "category": "sales",
-      "resource": "Ray Richards",
+      "resource": "Anthony Hall",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Katie Hunt | Concord",
-      "location": "Concord",
-      "start": "2026-03-24T20:00:00.000+0000",
-      "end": "2026-03-24T22:00:00.000+0000",
+      "label": "Sales Presentation | Ginger and Toribio Peterson | Gilroy-Anthony-Costco",
+      "location": "Gilroy-Anthony-Costco",
+      "start": "2026-03-24T21:00:00.000+0000",
+      "end": "2026-03-24T23:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Katie Hunt",
-      "related_name": "Katie Hunt-",
+      "contact_name": "Ginger and Toribio Peterson",
+      "related_name": "Ginger Peterson-Costco-",
       "event_type": null
     },
     {
@@ -365,17 +379,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000NWP67MAH",
+      "id": "00URb00000NjeYjMAJ",
       "category": "sales",
-      "resource": "Anthony Hall",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Ginger and Toribio Peterson | Gilroy-Anthony-Costco",
-      "location": "Gilroy-Anthony-Costco",
-      "start": "2026-03-24T21:00:00.000+0000",
-      "end": "2026-03-24T23:00:00.000+0000",
+      "resource": "Steve Meadows",
+      "subject": null,
+      "label": "",
+      "location": null,
+      "start": "2026-03-24T22:00:00.000+0000",
+      "end": "2026-03-25T00:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Ginger and Toribio Peterson",
-      "related_name": "Ginger Peterson-Costco-",
+      "contact_name": "",
+      "related_name": "",
       "event_type": null
     },
     {
@@ -390,20 +404,6 @@
       "is_all_day": false,
       "contact_name": "Claire Grote",
       "related_name": "Mariana Gallardo-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000NjeYjMAJ",
-      "category": "sales",
-      "resource": "Steve Meadows",
-      "subject": null,
-      "label": "",
-      "location": null,
-      "start": "2026-03-24T22:00:00.000+0000",
-      "end": "2026-03-25T00:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
       "event_type": null
     }
   ]
