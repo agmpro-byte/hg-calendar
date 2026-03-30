@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-30T22:40:18.871716Z",
+  "generated": "2026-03-30T22:45:20.273099Z",
   "date_range": {
     "start": "2026-03-30",
     "end": "2026-03-30"
@@ -43,7 +43,7 @@
       "label": "Artistic Landscape | NO JOB",
       "location": "NO JOB",
       "start": "2026-03-30T00:00:00.000+0000",
-      "end": "2026-03-30T00:00:00.000+0000",
+      "end": "2026-03-31T00:00:00.000+0000",
       "is_all_day": true,
       "contact_name": "",
       "related_name": "",
