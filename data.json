@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-02T19:05:19.631807Z",
+  "generated": "2026-04-02T19:10:19.762271Z",
   "date_range": {
     "start": "2026-04-02",
     "end": "2026-04-02"
@@ -192,13 +192,13 @@
       "category": "sales",
       "resource": "Amber Bandanza",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Brian O'Donnell | Boulder Creek",
+      "label": "Sales Presentation | Brian ODonnell | Boulder Creek",
       "location": "Boulder Creek",
       "start": "2026-04-02T17:00:00.000+0000",
       "end": "2026-04-02T19:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Brian O'Donnell",
-      "related_name": "Brian O'Donnell-",
+      "contact_name": "Brian ODonnell",
+      "related_name": "Brian ODonnell-",
       "event_type": null
     },
     {
