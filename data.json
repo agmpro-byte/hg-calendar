@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-02T16:55:19.800477Z",
+  "generated": "2026-04-02T17:00:19.734928Z",
   "date_range": {
     "start": "2026-04-02",
     "end": "2026-04-02"
@@ -59,6 +59,20 @@
       "is_all_day": true,
       "contact_name": "",
       "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000OEsHFMA1",
+      "category": "sales",
+      "resource": "Johnny Van Wyk",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Gary Gairaud-",
+      "location": null,
+      "start": "2026-04-02T08:00:00.000+0000",
+      "end": "2026-04-02T08:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Gary Gairaud-",
       "event_type": null
     },
     {
@@ -132,20 +146,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OA0LtMAL",
-      "category": "installation",
-      "resource": "Green Vision-Ernesto",
-      "subject": "Green Vision-Ernesto",
-      "label": "Green Vision-Ernesto | Patricia Weitl-Back Yard | Vacaville - 458 sqft, removaol, base, Hevanely 70, optifill, steel, aluminum",
-      "location": "Vacaville - 458 sqft, removaol, base, Hevanely 70, optifill, steel, aluminum",
-      "start": "2026-04-02T16:30:00.000+0000",
-      "end": "2026-04-03T22:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Patricia Weitl-Back Yard",
-      "event_type": null
-    },
-    {
       "id": "00URb00000Njm6UMAR",
       "category": "service",
       "resource": "Service/C4",
@@ -157,6 +157,20 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000OA0LtMAL",
+      "category": "installation",
+      "resource": "Green Vision-Ernesto",
+      "subject": "Green Vision-Ernesto",
+      "label": "Green Vision-Ernesto | Patricia Weitl-Back Yard | Vacaville - 458 sqft, removaol, base, Hevanely 70, optifill, steel, aluminum",
+      "location": "Vacaville - 458 sqft, removaol, base, Hevanely 70, optifill, steel, aluminum",
+      "start": "2026-04-02T16:30:00.000+0000",
+      "end": "2026-04-03T22:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Patricia Weitl-Back Yard",
       "event_type": null
     },
     {
@@ -172,20 +186,6 @@
       "contact_name": "",
       "related_name": "17738",
       "event_type": "Service"
-    },
-    {
-      "id": "00URb00000NtinxMAB",
-      "category": "sales",
-      "resource": "Anthony Hall",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Sarah Saavedra | Oakley-Anthony-Costco",
-      "location": "Oakley-Anthony-Costco",
-      "start": "2026-04-02T17:00:00.000+0000",
-      "end": "2026-04-02T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Sarah Saavedra",
-      "related_name": "Sarah Saavedra-",
-      "event_type": null
     },
     {
       "id": "00URb00000O7aR2MAJ",
@@ -244,6 +244,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000NtinxMAB",
+      "category": "sales",
+      "resource": "Anthony Hall",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Sarah Saavedra | Oakley-Anthony-Costco",
+      "location": "Oakley-Anthony-Costco",
+      "start": "2026-04-02T17:00:00.000+0000",
+      "end": "2026-04-02T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Sarah Saavedra",
+      "related_name": "Sarah Saavedra-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000ODWaYMAX",
       "category": "sales",
       "resource": "Call Center",
@@ -255,20 +269,6 @@
       "is_all_day": false,
       "contact_name": "Lauren Taylor",
       "related_name": "Lauren Taylor-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000OCtnhMAD",
-      "category": "sales",
-      "resource": "Johnny Van Wyk",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | John Ballard | Fremont",
-      "location": "Fremont",
-      "start": "2026-04-02T19:00:00.000+0000",
-      "end": "2026-04-02T21:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "John Ballard",
-      "related_name": "John Ballard-",
       "event_type": null
     },
     {
@@ -284,6 +284,20 @@
       "contact_name": "",
       "related_name": "17703",
       "event_type": "Assessment"
+    },
+    {
+      "id": "00URb00000OCtnhMAD",
+      "category": "sales",
+      "resource": "Johnny Van Wyk",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | John Ballard | Fremont",
+      "location": "Fremont",
+      "start": "2026-04-02T19:00:00.000+0000",
+      "end": "2026-04-02T21:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "John Ballard",
+      "related_name": "John Ballard-",
+      "event_type": null
     },
     {
       "id": "00URb00000OChZeMAL",
@@ -314,12 +328,26 @@
       "event_type": "Assessment"
     },
     {
-      "id": "00URb00000O4LmRMAV",
+      "id": "00URb00000OAMXoMAP",
       "category": "sales",
+      "resource": "Anthony Hall",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Marcia Serpa-Garcia | Belmont-Costco-Anthony Hall",
+      "location": "Belmont-Costco-Anthony Hall",
+      "start": "2026-04-02T22:00:00.000+0000",
+      "end": "2026-04-03T00:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Marcia Serpa-Garcia",
+      "related_name": "Marcia Serpa-Garcia-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000O4Q9NMAV",
+      "category": "time_off",
       "resource": "Chris Loeswick",
-      "subject": null,
-      "label": " | hmb",
-      "location": "hmb",
+      "subject": "Off",
+      "label": "Off | Hmb",
+      "location": "Hmb",
       "start": "2026-04-02T22:00:00.000+0000",
       "end": "2026-04-03T00:00:00.000+0000",
       "is_all_day": false,
@@ -342,26 +370,12 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OAMXoMAP",
+      "id": "00URb00000O4LmRMAV",
       "category": "sales",
-      "resource": "Anthony Hall",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Marcia Serpa-Garcia | Belmont-Costco-Anthony Hall",
-      "location": "Belmont-Costco-Anthony Hall",
-      "start": "2026-04-02T22:00:00.000+0000",
-      "end": "2026-04-03T00:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Marcia Serpa-Garcia",
-      "related_name": "Marcia Serpa-Garcia-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000O4Q9NMAV",
-      "category": "time_off",
       "resource": "Chris Loeswick",
-      "subject": "Off",
-      "label": "Off | Hmb",
-      "location": "Hmb",
+      "subject": null,
+      "label": " | hmb",
+      "location": "hmb",
       "start": "2026-04-02T22:00:00.000+0000",
       "end": "2026-04-03T00:00:00.000+0000",
       "is_all_day": false,
