@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-02T19:50:19.676748Z",
+  "generated": "2026-04-02T19:55:20.182662Z",
   "date_range": {
     "start": "2026-04-02",
     "end": "2026-04-02"
@@ -76,14 +76,14 @@
       "event_type": null
     },
     {
-      "id": "00URb00000MQ4JdMAL",
-      "category": "time_off",
-      "resource": "Sherrie Feinstein",
-      "subject": "Standard Time Off",
-      "label": "Standard Time Off | Off",
-      "location": "Off",
+      "id": "00URb00000OB6ibMAD",
+      "category": "sales",
+      "resource": "Sheldon Santos",
+      "subject": "Customer Meeting",
+      "label": "Customer Meeting | los gatos",
+      "location": "los gatos",
       "start": "2026-04-02T15:00:00.000+0000",
-      "end": "2026-04-03T03:00:00.000+0000",
+      "end": "2026-04-03T04:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
@@ -104,14 +104,14 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OB6ibMAD",
-      "category": "sales",
-      "resource": "Sheldon Santos",
-      "subject": "Customer Meeting",
-      "label": "Customer Meeting | los gatos",
-      "location": "los gatos",
+      "id": "00URb00000MQ4JdMAL",
+      "category": "time_off",
+      "resource": "Sherrie Feinstein",
+      "subject": "Standard Time Off",
+      "label": "Standard Time Off | Off",
+      "location": "Off",
       "start": "2026-04-02T15:00:00.000+0000",
-      "end": "2026-04-03T04:00:00.000+0000",
+      "end": "2026-04-03T03:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
@@ -146,20 +146,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Njm6UMAR",
-      "category": "service",
-      "resource": "Service/C4",
-      "subject": "Service/C4",
-      "label": "Service/C4 | Pleasanton - Bocce maintenance - helping service crew 3",
-      "location": "Pleasanton - Bocce maintenance - helping service crew 3",
-      "start": "2026-04-02T16:30:00.000+0000",
-      "end": "2026-04-02T21:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000OA0LtMAL",
       "category": "installation",
       "resource": "Green Vision-Ernesto",
@@ -174,31 +160,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Njxl3MAB",
+      "id": "00URb00000Njm6UMAR",
       "category": "service",
-      "resource": "Service/C3",
-      "subject": "Service/C3",
-      "label": "Service/C3 | 17738 | Stoneridge Bocce Maintenance - pleasanton - 2 days",
-      "location": "Stoneridge Bocce Maintenance - pleasanton - 2 days",
-      "start": "2026-04-02T17:00:00.000+0000",
-      "end": "2026-04-02T21:00:00.000+0000",
+      "resource": "Service/C4",
+      "subject": "Service/C4",
+      "label": "Service/C4 | Pleasanton - Bocce maintenance - helping service crew 3",
+      "location": "Pleasanton - Bocce maintenance - helping service crew 3",
+      "start": "2026-04-02T16:30:00.000+0000",
+      "end": "2026-04-02T21:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "17738",
-      "event_type": "Service"
-    },
-    {
-      "id": "00URb00000O7aR2MAJ",
-      "category": "sales",
-      "resource": "Amber Bandanza",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Brian ODonnell | Boulder Creek",
-      "location": "Boulder Creek",
-      "start": "2026-04-02T17:00:00.000+0000",
-      "end": "2026-04-02T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Brian ODonnell",
-      "related_name": "Brian ODonnell-",
+      "related_name": "",
       "event_type": null
     },
     {
@@ -216,18 +188,32 @@
       "event_type": null
     },
     {
-      "id": "00URb00000N9YjZMAV",
-      "category": "service",
-      "resource": "Service/C5",
-      "subject": "Service/C5",
-      "label": "Service/C5 | 17674 | Graham /Newark /Assessment",
-      "location": "Graham /Newark /Assessment",
+      "id": "00URb00000NtinxMAB",
+      "category": "sales",
+      "resource": "Anthony Hall",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Sarah Saavedra | Oakley-Anthony-Costco",
+      "location": "Oakley-Anthony-Costco",
       "start": "2026-04-02T17:00:00.000+0000",
-      "end": "2026-04-02T18:00:00.000+0000",
+      "end": "2026-04-02T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Sarah Saavedra",
+      "related_name": "Sarah Saavedra-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000Njxl3MAB",
+      "category": "service",
+      "resource": "Service/C3",
+      "subject": "Service/C3",
+      "label": "Service/C3 | 17738 | Stoneridge Bocce Maintenance - pleasanton - 2 days",
+      "location": "Stoneridge Bocce Maintenance - pleasanton - 2 days",
+      "start": "2026-04-02T17:00:00.000+0000",
+      "end": "2026-04-02T21:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "17674",
-      "event_type": "Assessment"
+      "related_name": "17738",
+      "event_type": "Service"
     },
     {
       "id": "00URb00000OCV5SMAX",
@@ -244,17 +230,31 @@
       "event_type": null
     },
     {
-      "id": "00URb00000NtinxMAB",
+      "id": "00URb00000N9YjZMAV",
+      "category": "service",
+      "resource": "Service/C5",
+      "subject": "Service/C5",
+      "label": "Service/C5 | 17674 | Graham /Newark /Assessment",
+      "location": "Graham /Newark /Assessment",
+      "start": "2026-04-02T17:00:00.000+0000",
+      "end": "2026-04-02T18:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17674",
+      "event_type": "Assessment"
+    },
+    {
+      "id": "00URb00000O7aR2MAJ",
       "category": "sales",
-      "resource": "Anthony Hall",
+      "resource": "Amber Bandanza",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Sarah Saavedra | Oakley-Anthony-Costco",
-      "location": "Oakley-Anthony-Costco",
+      "label": "Sales Presentation | Brian ODonnell | Boulder Creek",
+      "location": "Boulder Creek",
       "start": "2026-04-02T17:00:00.000+0000",
       "end": "2026-04-02T19:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Sarah Saavedra",
-      "related_name": "Sarah Saavedra-",
+      "contact_name": "Brian ODonnell",
+      "related_name": "Brian ODonnell-",
       "event_type": null
     },
     {
@@ -272,20 +272,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000NT9ibMAD",
-      "category": "service",
-      "resource": "Service/C5",
-      "subject": "Service/C5",
-      "label": "Service/C5 | 17703 | C4 | Belmont | Assessment",
-      "location": "C4 | Belmont | Assessment",
-      "start": "2026-04-02T19:00:00.000+0000",
-      "end": "2026-04-02T20:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17703",
-      "event_type": "Assessment"
-    },
-    {
       "id": "00URb00000OCtnhMAD",
       "category": "sales",
       "resource": "Johnny Van Wyk",
@@ -298,6 +284,20 @@
       "contact_name": "John Ballard",
       "related_name": "John Ballard-",
       "event_type": null
+    },
+    {
+      "id": "00URb00000NT9ibMAD",
+      "category": "service",
+      "resource": "Service/C5",
+      "subject": "Service/C5",
+      "label": "Service/C5 | 17703 | C4 | Belmont | Assessment",
+      "location": "C4 | Belmont | Assessment",
+      "start": "2026-04-02T19:00:00.000+0000",
+      "end": "2026-04-02T20:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17703",
+      "event_type": "Assessment"
     },
     {
       "id": "00URb00000OChZeMAL",
@@ -328,17 +328,17 @@
       "event_type": "Assessment"
     },
     {
-      "id": "00URb00000OAMXoMAP",
+      "id": "00URb00000OFMAUMA5",
       "category": "sales",
-      "resource": "Anthony Hall",
+      "resource": "Steven McIntire",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Marcia Serpa-Garcia | Belmont-Costco-Anthony Hall",
-      "location": "Belmont-Costco-Anthony Hall",
+      "label": "Sales Presentation | Alana Desai | Healdsburg",
+      "location": "Healdsburg",
       "start": "2026-04-02T22:00:00.000+0000",
       "end": "2026-04-03T00:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Marcia Serpa-Garcia",
-      "related_name": "Marcia Serpa-Garcia-",
+      "contact_name": "Alana Desai",
+      "related_name": "Alana Desai-",
       "event_type": null
     },
     {
@@ -356,11 +356,11 @@
       "event_type": null
     },
     {
-      "id": "00URb00000O4LmSMAV",
-      "category": "time_off",
+      "id": "00URb00000O4LmRMAV",
+      "category": "sales",
       "resource": "Chris Loeswick",
-      "subject": "Off",
-      "label": "Off | hmb",
+      "subject": null,
+      "label": " | hmb",
       "location": "hmb",
       "start": "2026-04-02T22:00:00.000+0000",
       "end": "2026-04-03T00:00:00.000+0000",
@@ -370,11 +370,25 @@
       "event_type": null
     },
     {
-      "id": "00URb00000O4LmRMAV",
+      "id": "00URb00000OAMXoMAP",
       "category": "sales",
+      "resource": "Anthony Hall",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Marcia Serpa-Garcia | Belmont-Costco-Anthony Hall",
+      "location": "Belmont-Costco-Anthony Hall",
+      "start": "2026-04-02T22:00:00.000+0000",
+      "end": "2026-04-03T00:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Marcia Serpa-Garcia",
+      "related_name": "Marcia Serpa-Garcia-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000O4LmSMAV",
+      "category": "time_off",
       "resource": "Chris Loeswick",
-      "subject": null,
-      "label": " | hmb",
+      "subject": "Off",
+      "label": "Off | hmb",
       "location": "hmb",
       "start": "2026-04-02T22:00:00.000+0000",
       "end": "2026-04-03T00:00:00.000+0000",
