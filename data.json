@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-06T19:55:19.079516Z",
+  "generated": "2026-04-06T20:00:23.476962Z",
   "date_range": {
     "start": "2026-04-06",
     "end": "2026-04-06"
@@ -227,7 +227,7 @@
       "label": "Creww 12 | Clara Smith-Back Yard | Modesto - 337 sqft, renoval, base, pacific fescue, premier sand",
       "location": "Modesto - 337 sqft, renoval, base, pacific fescue, premier sand",
       "start": "2026-04-06T15:30:00.000+0000",
-      "end": "2026-04-08T23:00:00.000+0000",
+      "end": "2026-04-06T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Clara Smith-Back Yard",
@@ -269,7 +269,7 @@
       "label": "Swift Artificial Turf | Conor Linnane-Front Yard | Novato - 532 sqft, removal, base, steel, GG, weed barrier, highland, sand",
       "location": "Novato - 532 sqft, removal, base, steel, GG, weed barrier, highland, sand",
       "start": "2026-04-06T15:30:00.000+0000",
-      "end": "2026-04-07T23:00:00.000+0000",
+      "end": "2026-04-06T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Conor Linnane-Front Yard",
