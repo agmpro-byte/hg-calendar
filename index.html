@@ -460,8 +460,10 @@ const SLOT_WIDTH = 120; // pixels per hour
 const HALF_SLOT = SLOT_WIDTH / 2;
 const TIMEZONE = 'America/Los_Angeles'; // PT
 
-// Data URL — will be replaced by Modal endpoint
-let DATA_URL = 'https://agm-pro--hg-calendar-feed-events.modal.run';
+// Data URL — static data.json in this repo, refreshed every 5 min by Modal cron
+// (Modal /events endpoint requires Bearer auth since 2026-04-03 hardening and
+// cannot be called from a public GitHub Pages frontend.)
+let DATA_URL = 'data.json';
 
 // State
 let currentDate = new Date();
