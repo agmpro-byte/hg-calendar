@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-14T21:55:18.816442Z",
+  "generated": "2026-04-14T22:00:19.754938Z",
   "date_range": {
     "start": "2026-04-14",
     "end": "2026-04-14"
@@ -20,7 +20,8 @@
     ],
     "installation": [
       "Bedrock Construction",
-      "Green Vision-Ernesto"
+      "Green Vision-Ernesto",
+      "Swift Artificial Turf"
     ],
     "service": [
       "Service/C3",
@@ -28,6 +29,20 @@
     ]
   },
   "events": [
+    {
+      "id": "00URb00000Oca4fMAB",
+      "category": "installation",
+      "resource": "Swift Artificial Turf",
+      "subject": "Swift Artificial Turf",
+      "label": "Swift Artificial Turf | NO JOB DUE TO MISCOMMUNICATION",
+      "location": "NO JOB DUE TO MISCOMMUNICATION",
+      "start": "2026-04-14T00:00:00.000+0000",
+      "end": "2026-04-15T00:00:00.000+0000",
+      "is_all_day": true,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
     {
       "id": "00URb00000OUzcvMAD",
       "category": "sales",
@@ -127,20 +142,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000O9xpRMAR",
-      "category": "installation",
-      "resource": "Green Vision-Ernesto",
-      "subject": "Green Vision-Ernesto",
-      "label": "Green Vision-Ernesto | Lori Butler-Back Yard 4 | Plesant Hill - 481 sqft, removal, base, Maxx pet, camofill, steel, 2x6BB, concrete demo,",
-      "location": "Plesant Hill - 481 sqft, removal, base, Maxx pet, camofill, steel, 2x6BB, concrete demo,",
-      "start": "2026-04-14T16:30:00.000+0000",
-      "end": "2026-04-15T23:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Lori Butler-Back Yard 4",
-      "event_type": null
-    },
-    {
       "id": "00URb00000OYqKvMAL",
       "category": "installation",
       "resource": "Bedrock Construction",
@@ -152,6 +153,20 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Saul Rodriguez-Back Yard",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000O9xpRMAR",
+      "category": "installation",
+      "resource": "Green Vision-Ernesto",
+      "subject": "Green Vision-Ernesto",
+      "label": "Green Vision-Ernesto | Lori Butler-Back Yard 4 | Plesant Hill - 481 sqft, removal, base, Maxx pet, camofill, steel, 2x6BB, concrete demo,",
+      "location": "Plesant Hill - 481 sqft, removal, base, Maxx pet, camofill, steel, 2x6BB, concrete demo,",
+      "start": "2026-04-14T16:30:00.000+0000",
+      "end": "2026-04-15T23:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Lori Butler-Back Yard 4",
       "event_type": null
     },
     {
@@ -197,6 +212,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000OYG2vMAH",
+      "category": "sales",
+      "resource": "Tim Duggan",
+      "subject": "Wrap-Up",
+      "label": "Wrap-Up | wrap up DeMaria Hollister",
+      "location": "wrap up DeMaria Hollister",
+      "start": "2026-04-14T17:00:00.000+0000",
+      "end": "2026-04-14T18:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
       "id": "00URb00000OYIJQMA5",
       "category": "sales",
       "resource": "Johnny Van Wyk",
@@ -209,20 +238,6 @@
       "contact_name": "Stanley Mendoza",
       "related_name": "Stanley Mendoza-",
       "event_type": null
-    },
-    {
-      "id": "00URb00000NJ3hmMAD",
-      "category": "service",
-      "resource": "Service/C3",
-      "subject": "Service/C3",
-      "label": "Service/C3 | 17619 | San Bruno - Robert Nolan - Weed Treatment",
-      "location": "San Bruno - Robert Nolan - Weed Treatment",
-      "start": "2026-04-14T17:00:00.000+0000",
-      "end": "2026-04-14T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17619",
-      "event_type": "Service"
     },
     {
       "id": "00URb00000N0jo2MAB",
@@ -239,18 +254,18 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OYG2vMAH",
-      "category": "sales",
-      "resource": "Tim Duggan",
-      "subject": "Wrap-Up",
-      "label": "Wrap-Up | wrap up DeMaria Hollister",
-      "location": "wrap up DeMaria Hollister",
+      "id": "00URb00000NJ3hmMAD",
+      "category": "service",
+      "resource": "Service/C3",
+      "subject": "Service/C3",
+      "label": "Service/C3 | 17619 | San Bruno - Robert Nolan - Weed Treatment",
+      "location": "San Bruno - Robert Nolan - Weed Treatment",
       "start": "2026-04-14T17:00:00.000+0000",
-      "end": "2026-04-14T18:00:00.000+0000",
+      "end": "2026-04-14T22:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "",
-      "event_type": null
+      "related_name": "17619",
+      "event_type": "Service"
     },
     {
       "id": "00URb00000OQX2YMAX",
@@ -295,6 +310,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000OVdthMAD",
+      "category": "sales",
+      "resource": "Sheldon Santos",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Kathryn Walker | Manteca",
+      "location": "Manteca",
+      "start": "2026-04-14T22:00:00.000+0000",
+      "end": "2026-04-15T00:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Kathryn Walker",
+      "related_name": "Kathryn Walker-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000O4LmaMAF",
       "category": "time_off",
       "resource": "Chris Loeswick",
@@ -320,20 +349,6 @@
       "is_all_day": false,
       "contact_name": "Maxie Hamilton",
       "related_name": "Maxie Hamilton-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000OVdthMAD",
-      "category": "sales",
-      "resource": "Sheldon Santos",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Kathryn Walker | Manteca",
-      "location": "Manteca",
-      "start": "2026-04-14T22:00:00.000+0000",
-      "end": "2026-04-15T00:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Kathryn Walker",
-      "related_name": "Kathryn Walker-",
       "event_type": null
     },
     {
