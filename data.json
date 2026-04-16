@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-16T23:25:23.327260Z",
+  "generated": "2026-04-16T23:30:24.528910Z",
   "date_range": {
     "start": "2026-04-16",
     "end": "2026-04-16"
@@ -35,6 +35,20 @@
   },
   "events": [
     {
+      "id": "00URb00000OfO3oMAF",
+      "category": "installation",
+      "resource": "Sheldons Landscaping",
+      "subject": "Sheldons Landscaping",
+      "label": "Sheldons Landscaping | REQUESTED NO WORK",
+      "location": "REQUESTED NO WORK",
+      "start": "2026-04-16T00:00:00.000+0000",
+      "end": "2026-04-17T00:00:00.000+0000",
+      "is_all_day": true,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
       "id": "00URb00000OUzcxMAD",
       "category": "sales",
       "resource": "John Throne",
@@ -49,17 +63,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OfO3oMAF",
-      "category": "installation",
-      "resource": "Sheldons Landscaping",
-      "subject": "Sheldons Landscaping",
-      "label": "Sheldons Landscaping | REQUESTED NO WORK",
-      "location": "REQUESTED NO WORK",
-      "start": "2026-04-16T00:00:00.000+0000",
-      "end": "2026-04-17T00:00:00.000+0000",
-      "is_all_day": true,
+      "id": "00URb00000OiKMzMAN",
+      "category": "sales",
+      "resource": "Tim Duggan",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Tim and Cheryl McGuire",
+      "location": null,
+      "start": "2026-04-16T08:00:00.000+0000",
+      "end": "2026-04-16T08:00:00.000+0000",
+      "is_all_day": false,
       "contact_name": "",
-      "related_name": "",
+      "related_name": "Tim and Cheryl McGuire",
       "event_type": null
     },
     {
@@ -91,20 +105,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000NgZ4YMAV",
-      "category": "time_off",
-      "resource": "Steve Meadows",
-      "subject": "Off",
-      "label": "Off",
-      "location": null,
-      "start": "2026-04-16T15:00:00.000+0000",
-      "end": "2026-04-16T23:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000OPbrNMAT",
       "category": "time_off",
       "resource": "Brian Todd",
@@ -119,17 +119,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OeRZxMAN",
-      "category": "installation",
-      "resource": "Green Vision North Bay",
-      "subject": "Green Vision North Bay",
-      "label": "Green Vision North Bay | Michelle Tinsley-Front Yard | HEALDSBURG - 800 SQ FT,REMOVAL,BASE,CONCRETE DEMO,STEEL EDGING,PACIFIC PLATINUM,CAMOFILL",
-      "location": "HEALDSBURG - 800 SQ FT,REMOVAL,BASE,CONCRETE DEMO,STEEL EDGING,PACIFIC PLATINUM,CAMOFILL",
-      "start": "2026-04-16T15:30:00.000+0000",
-      "end": "2026-04-17T23:30:00.000+0000",
+      "id": "00URb00000NgZ4YMAV",
+      "category": "time_off",
+      "resource": "Steve Meadows",
+      "subject": "Off",
+      "label": "Off",
+      "location": null,
+      "start": "2026-04-16T15:00:00.000+0000",
+      "end": "2026-04-16T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "Michelle Tinsley-Front Yard",
+      "related_name": "",
       "event_type": null
     },
     {
@@ -144,6 +144,20 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "John Ballard-Back Yard",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000OeRZxMAN",
+      "category": "installation",
+      "resource": "Green Vision North Bay",
+      "subject": "Green Vision North Bay",
+      "label": "Green Vision North Bay | Michelle Tinsley-Front Yard | HEALDSBURG - 800 SQ FT,REMOVAL,BASE,CONCRETE DEMO,STEEL EDGING,PACIFIC PLATINUM,CAMOFILL",
+      "location": "HEALDSBURG - 800 SQ FT,REMOVAL,BASE,CONCRETE DEMO,STEEL EDGING,PACIFIC PLATINUM,CAMOFILL",
+      "start": "2026-04-16T15:30:00.000+0000",
+      "end": "2026-04-17T23:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Michelle Tinsley-Front Yard",
       "event_type": null
     },
     {
@@ -287,6 +301,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000NWsJNMA1",
+      "category": "service",
+      "resource": "Service/C4",
+      "subject": "Service/C4",
+      "label": "Service/C4 | 17677 | Domenici - Burlingame - weed service",
+      "location": "Domenici - Burlingame - weed service",
+      "start": "2026-04-16T19:00:00.000+0000",
+      "end": "2026-04-16T23:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17677",
+      "event_type": "Service"
+    },
+    {
       "id": "00URb00000Oedb8MAB",
       "category": "sales",
       "resource": "Johnny Van Wyk",
@@ -312,34 +340,6 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000NWsJNMA1",
-      "category": "service",
-      "resource": "Service/C4",
-      "subject": "Service/C4",
-      "label": "Service/C4 | 17677 | Domenici - Burlingame - weed service",
-      "location": "Domenici - Burlingame - weed service",
-      "start": "2026-04-16T19:00:00.000+0000",
-      "end": "2026-04-16T23:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17677",
-      "event_type": "Service"
-    },
-    {
-      "id": "00URb00000OXoeZMAT",
-      "category": "sales",
-      "resource": "Ray Richards",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Betty B | Vacaville",
-      "location": "Vacaville",
-      "start": "2026-04-16T20:00:00.000+0000",
-      "end": "2026-04-16T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Betty B",
-      "related_name": "Betty B-",
       "event_type": null
     },
     {
@@ -371,6 +371,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000OXoeZMAT",
+      "category": "sales",
+      "resource": "Ray Richards",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Betty B | Vacaville",
+      "location": "Vacaville",
+      "start": "2026-04-16T20:00:00.000+0000",
+      "end": "2026-04-16T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Betty B",
+      "related_name": "Betty B-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000Of2XtMAJ",
       "category": "sales",
       "resource": "Clayton Johnson",
@@ -399,20 +413,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OLBgzMAH",
-      "category": "installation",
-      "resource": "4 Seasons Greens",
-      "subject": "4 Seasons Greens",
-      "label": "4 Seasons Greens | Robert Wick- Back Yard 2 | Pleasanton, 1082 sqft, removal, base, Heavnely 70, sand, steel, extra labor",
-      "location": "Pleasanton, 1082 sqft, removal, base, Heavnely 70, sand, steel, extra labor",
-      "start": "2026-04-16T22:00:00.000+0000",
-      "end": "2026-04-16T23:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Robert Wick- Back Yard 2",
-      "event_type": null
-    },
-    {
       "id": "00URb00000OeIy5MAF",
       "category": "sales",
       "resource": "Clayton Johnson",
@@ -424,6 +424,20 @@
       "is_all_day": false,
       "contact_name": "Danielle Tomasello",
       "related_name": "Danielle Tomasello-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000OLBgzMAH",
+      "category": "installation",
+      "resource": "4 Seasons Greens",
+      "subject": "4 Seasons Greens",
+      "label": "4 Seasons Greens | Robert Wick- Back Yard 2 | Pleasanton, 1082 sqft, removal, base, Heavnely 70, sand, steel, extra labor",
+      "location": "Pleasanton, 1082 sqft, removal, base, Heavnely 70, sand, steel, extra labor",
+      "start": "2026-04-16T22:00:00.000+0000",
+      "end": "2026-04-16T23:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Robert Wick- Back Yard 2",
       "event_type": null
     },
     {
