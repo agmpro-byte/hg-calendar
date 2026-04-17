@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-17T19:30:29.519856Z",
+  "generated": "2026-04-17T19:35:22.224139Z",
   "date_range": {
     "start": "2026-04-17",
     "end": "2026-04-17"
@@ -48,6 +48,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000Ok9TuMAJ",
+      "category": "sales",
+      "resource": "Ray Richards",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Sean Dittmer-",
+      "location": null,
+      "start": "2026-04-17T08:00:00.000+0000",
+      "end": "2026-04-17T08:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Sean Dittmer-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000OiKDKMA3",
       "category": "sales",
       "resource": "Tim Duggan",
@@ -90,20 +104,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OPcDxMAL",
-      "category": "time_off",
-      "resource": "Brian Todd",
-      "subject": "Off",
-      "label": "Off | Sonora",
-      "location": "Sonora",
-      "start": "2026-04-17T15:00:00.000+0000",
-      "end": "2026-04-18T02:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000ObsYIMAZ",
       "category": "time_off",
       "resource": "Ray Richards",
@@ -112,6 +112,20 @@
       "location": "Dixon",
       "start": "2026-04-17T15:00:00.000+0000",
       "end": "2026-04-18T04:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000OPcDxMAL",
+      "category": "time_off",
+      "resource": "Brian Todd",
+      "subject": "Off",
+      "label": "Off | Sonora",
+      "location": "Sonora",
+      "start": "2026-04-17T15:00:00.000+0000",
+      "end": "2026-04-18T02:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
@@ -129,20 +143,6 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000OhWDLMA3",
-      "category": "installation",
-      "resource": "Swift Artificial Turf",
-      "subject": "Swift Artificial Turf",
-      "label": "Swift Artificial Turf | Keith Wilkinson-Front & Back Yard | FAIRFEILD - 448 SQ FT, REMOVAL,BASE,CALIF C75,CAMOFILL",
-      "location": "FAIRFEILD - 448 SQ FT, REMOVAL,BASE,CALIF C75,CAMOFILL",
-      "start": "2026-04-17T15:30:00.000+0000",
-      "end": "2026-04-17T23:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Keith Wilkinson-Front & Back Yard",
       "event_type": null
     },
     {
@@ -171,6 +171,20 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Brian ODonnell-Back Yard",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000OhWDLMA3",
+      "category": "installation",
+      "resource": "Swift Artificial Turf",
+      "subject": "Swift Artificial Turf",
+      "label": "Swift Artificial Turf | Keith Wilkinson-Front & Back Yard | FAIRFEILD - 448 SQ FT, REMOVAL,BASE,CALIF C75,CAMOFILL",
+      "location": "FAIRFEILD - 448 SQ FT, REMOVAL,BASE,CALIF C75,CAMOFILL",
+      "start": "2026-04-17T15:30:00.000+0000",
+      "end": "2026-04-17T23:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Keith Wilkinson-Front & Back Yard",
       "event_type": null
     },
     {
@@ -328,20 +342,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OhWtGMAV",
-      "category": "sales",
-      "resource": "Amber Bandanza",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Dave Haynes | Santa Cruz",
-      "location": "Santa Cruz",
-      "start": "2026-04-17T20:00:00.000+0000",
-      "end": "2026-04-17T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Dave Haynes",
-      "related_name": "Dave Haynes-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000ObcoXMAR",
       "category": "sales",
       "resource": "Mike Wells",
@@ -353,6 +353,20 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Jim and Dian Bechter-Back Yard",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000OhWtGMAV",
+      "category": "sales",
+      "resource": "Amber Bandanza",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Dave Haynes | Santa Cruz",
+      "location": "Santa Cruz",
+      "start": "2026-04-17T20:00:00.000+0000",
+      "end": "2026-04-17T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Dave Haynes",
+      "related_name": "Dave Haynes-",
       "event_type": null
     },
     {
