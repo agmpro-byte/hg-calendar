@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-22T15:30:28.438340Z",
+  "generated": "2026-04-22T15:35:29.352574Z",
   "date_range": {
     "start": "2026-04-22",
     "end": "2026-04-22"
@@ -288,8 +288,8 @@
       "category": "sales",
       "resource": "Sherrie Feinstein",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Suraj Puri-Back yard 2 | San Francisco-Sherrie",
-      "location": "San Francisco-Sherrie",
+      "label": "Sales Presentation | Suraj Puri-Back yard 2 | Los Altos-Sherrie",
+      "location": "Los Altos-Sherrie",
       "start": "2026-04-22T19:00:00.000+0000",
       "end": "2026-04-22T21:00:00.000+0000",
       "is_all_day": false,
