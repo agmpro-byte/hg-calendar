@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-22T22:50:19.278949Z",
+  "generated": "2026-04-22T22:55:18.995135Z",
   "date_range": {
     "start": "2026-04-22",
     "end": "2026-04-22"
@@ -58,6 +58,20 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Adam Bienenstock-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000OtPSzMAN",
+      "category": "sales",
+      "resource": "Sheldon Santos",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | David Treadaway\u00a0-",
+      "location": null,
+      "start": "2026-04-22T08:00:00.000+0000",
+      "end": "2026-04-22T08:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "David Treadaway\u00a0-",
       "event_type": null
     },
     {
@@ -131,20 +145,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OpuVRMAZ",
-      "category": "installation",
-      "resource": "Bedrock Construction",
-      "subject": "Bedrock Construction",
-      "label": "Bedrock Construction | Marion McCarthy-Front Yard | Removal, Base, 38 ft Aluminum, 306 Summer Rye, Optifill",
-      "location": "Removal, Base, 38 ft Aluminum, 306 Summer Rye, Optifill",
-      "start": "2026-04-22T15:30:00.000+0000",
-      "end": "2026-04-22T23:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Marion McCarthy-Front Yard",
-      "event_type": null
-    },
-    {
       "id": "00URb00000NvnJmMAJ",
       "category": "installation",
       "resource": "Creww 15",
@@ -156,6 +156,20 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Ken Lafranchi-Front Yard",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000OpuVRMAZ",
+      "category": "installation",
+      "resource": "Bedrock Construction",
+      "subject": "Bedrock Construction",
+      "label": "Bedrock Construction | Marion McCarthy-Front Yard | Removal, Base, 38 ft Aluminum, 306 Summer Rye, Optifill",
+      "location": "Removal, Base, 38 ft Aluminum, 306 Summer Rye, Optifill",
+      "start": "2026-04-22T15:30:00.000+0000",
+      "end": "2026-04-22T23:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Marion McCarthy-Front Yard",
       "event_type": null
     },
     {
@@ -187,18 +201,18 @@
       "event_type": null
     },
     {
-      "id": "00URb00000NTlUXMA1",
-      "category": "service",
-      "resource": "Crew 3",
-      "subject": "Crew 3",
-      "label": "Crew 3 | 17704 | Ian Anderson - Newark",
-      "location": "Ian Anderson - Newark",
+      "id": "00URb00000Oq5DtMAJ",
+      "category": "sales",
+      "resource": "Amber Bandanza",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | George Howard | Soquel",
+      "location": "Soquel",
       "start": "2026-04-22T17:00:00.000+0000",
-      "end": "2026-04-22T23:00:00.000+0000",
+      "end": "2026-04-22T19:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17704",
-      "event_type": "Service"
+      "contact_name": "George Howard",
+      "related_name": "George Howard-",
+      "event_type": null
     },
     {
       "id": "00URb00000NWhcUMAT",
@@ -215,18 +229,18 @@
       "event_type": "Service"
     },
     {
-      "id": "00URb00000Oq5DtMAJ",
-      "category": "sales",
-      "resource": "Amber Bandanza",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | George Howard | Soquel",
-      "location": "Soquel",
+      "id": "00URb00000NTlUXMA1",
+      "category": "service",
+      "resource": "Crew 3",
+      "subject": "Crew 3",
+      "label": "Crew 3 | 17704 | Ian Anderson - Newark",
+      "location": "Ian Anderson - Newark",
       "start": "2026-04-22T17:00:00.000+0000",
-      "end": "2026-04-22T19:00:00.000+0000",
+      "end": "2026-04-22T23:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "George Howard",
-      "related_name": "George Howard-",
-      "event_type": null
+      "contact_name": "",
+      "related_name": "17704",
+      "event_type": "Service"
     },
     {
       "id": "00URb00000Ncp5vMAB",
@@ -285,17 +299,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Ok50WMAR",
+      "id": "00URb00000Opq8PMAR",
       "category": "sales",
-      "resource": "Johnny Van Wyk",
+      "resource": "Sherrie Feinstein",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Yosh Hiraki | San Jose",
-      "location": "San Jose",
+      "label": "Sales Presentation | Suraj Puri-Back yard 2 | Los Altos-Sherrie",
+      "location": "Los Altos-Sherrie",
       "start": "2026-04-22T19:00:00.000+0000",
       "end": "2026-04-22T21:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Yosh Hiraki",
-      "related_name": "Yosh Hiraki-",
+      "contact_name": "",
+      "related_name": "Suraj Puri-Back yard 2",
       "event_type": null
     },
     {
@@ -313,6 +327,20 @@
       "event_type": "Assessment"
     },
     {
+      "id": "00URb00000Ok50WMAR",
+      "category": "sales",
+      "resource": "Johnny Van Wyk",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Yosh Hiraki | San Jose",
+      "location": "San Jose",
+      "start": "2026-04-22T19:00:00.000+0000",
+      "end": "2026-04-22T21:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Yosh Hiraki",
+      "related_name": "Yosh Hiraki-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000OTIN7MAP",
       "category": "sales",
       "resource": "Tim Duggan",
@@ -324,20 +352,6 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000Opq8PMAR",
-      "category": "sales",
-      "resource": "Sherrie Feinstein",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Suraj Puri-Back yard 2 | Los Altos-Sherrie",
-      "location": "Los Altos-Sherrie",
-      "start": "2026-04-22T19:00:00.000+0000",
-      "end": "2026-04-22T21:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Suraj Puri-Back yard 2",
       "event_type": null
     },
     {
@@ -411,20 +425,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000FarltMAB",
-      "category": "time_off",
-      "resource": "Amber Bandanza",
-      "subject": "Standard Time Off",
-      "label": "Standard Time Off | Gilroy/Local Appts Only",
-      "location": "Gilroy/Local Appts Only",
-      "start": "2026-04-22T22:00:00.000+0000",
-      "end": "2026-04-23T03:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000O4LmgMAF",
       "category": "time_off",
       "resource": "Chris Loeswick",
@@ -433,6 +433,20 @@
       "location": "hmb",
       "start": "2026-04-22T22:00:00.000+0000",
       "end": "2026-04-23T00:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000FarltMAB",
+      "category": "time_off",
+      "resource": "Amber Bandanza",
+      "subject": "Standard Time Off",
+      "label": "Standard Time Off | Gilroy/Local Appts Only",
+      "location": "Gilroy/Local Appts Only",
+      "start": "2026-04-22T22:00:00.000+0000",
+      "end": "2026-04-23T03:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
