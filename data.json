@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-02T18:45:19.410258Z",
+  "generated": "2026-05-02T18:50:19.556318Z",
   "date_range": {
     "start": "2026-05-02",
     "end": "2026-05-02"
@@ -168,13 +168,13 @@
       "category": "sales",
       "resource": "Amber Bandanza",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | John McKeon | Santa Clara",
+      "label": "Sales Presentation | John and Louise McKeon | Santa Clara",
       "location": "Santa Clara",
       "start": "2026-05-02T17:00:00.000+0000",
       "end": "2026-05-02T19:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "John McKeon",
-      "related_name": "John McKeon-",
+      "contact_name": "John and Louise McKeon",
+      "related_name": "John and Louise McKeon-",
       "event_type": null
     },
     {
