@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-04T16:50:19.534423Z",
+  "generated": "2026-05-04T16:55:19.926311Z",
   "date_range": {
     "start": "2026-05-04",
     "end": "2026-05-04"
@@ -387,20 +387,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000PBqPtMAL",
-      "category": "sales",
-      "resource": "Tim Duggan",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Ina Deima | Palo Alto",
-      "location": "Palo Alto",
-      "start": "2026-05-04T18:00:00.000+0000",
-      "end": "2026-05-04T20:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Ina Deima",
-      "related_name": "Ina Deima-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000On3i5MAB",
       "category": "service",
       "resource": "Service/C5",
@@ -413,6 +399,20 @@
       "contact_name": "",
       "related_name": "17839",
       "event_type": "Assessment"
+    },
+    {
+      "id": "00URb00000PBqPtMAL",
+      "category": "sales",
+      "resource": "Tim Duggan",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Ina Deima | Palo Alto",
+      "location": "Palo Alto",
+      "start": "2026-05-04T20:00:00.000+0000",
+      "end": "2026-05-04T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Ina Deima",
+      "related_name": "Ina Deima-",
+      "event_type": null
     },
     {
       "id": "00URb00000P9tdBMAR",
