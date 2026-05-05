@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-05T21:55:19.327226Z",
+  "generated": "2026-05-05T22:00:20.596105Z",
   "date_range": {
     "start": "2026-05-05",
     "end": "2026-05-05"
@@ -203,13 +203,13 @@
       "category": "sales",
       "resource": "Steven McIntire",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Liz Lezonius | Ross",
+      "label": "Sales Presentation | Liz Levonius | Ross",
       "location": "Ross",
       "start": "2026-05-05T17:30:00.000+0000",
       "end": "2026-05-05T19:30:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Liz Lezonius",
-      "related_name": "Liz Lezonius-",
+      "contact_name": "Liz Levonius",
+      "related_name": "Liz Levonius-",
       "event_type": null
     },
     {
