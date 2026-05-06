@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-06T20:45:18.490607Z",
+  "generated": "2026-05-06T20:50:19.645933Z",
   "date_range": {
     "start": "2026-05-06",
     "end": "2026-05-06"
@@ -38,13 +38,13 @@
       "category": "sales",
       "resource": "Steven McIntire",
       "subject": "Sold Presentation",
-      "label": "Sold Presentation | Steve Perry-",
+      "label": "Sold Presentation | Steve Perry-Back yard",
       "location": null,
       "start": "2026-05-06T08:00:00.000+0000",
       "end": "2026-05-06T08:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "Steve Perry-",
+      "related_name": "Steve Perry-Back yard",
       "event_type": null
     },
     {
