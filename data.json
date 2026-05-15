@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-15T18:40:21.054050Z",
+  "generated": "2026-05-15T18:45:20.820003Z",
   "date_range": {
     "start": "2026-05-15",
     "end": "2026-05-15"
@@ -248,13 +248,13 @@
       "category": "sales",
       "resource": "Amber Bandanza",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Jeff Rodriguez | San Jose",
+      "label": "Sales Presentation | Franchesca Antuna | San Jose",
       "location": "San Jose",
       "start": "2026-05-15T17:00:00.000+0000",
       "end": "2026-05-15T19:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Jeff Rodriguez",
-      "related_name": "Jeff Rodriguez-",
+      "contact_name": "Franchesca Antuna",
+      "related_name": "Franchesca Antuna",
       "event_type": null
     },
     {
