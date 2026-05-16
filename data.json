@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-16T22:05:18.886492Z",
+  "generated": "2026-05-16T22:10:19.272020Z",
   "date_range": {
     "start": "2026-05-16",
     "end": "2026-05-16"
@@ -38,17 +38,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OV1iKMAT",
-      "category": "time_off",
-      "resource": "Sherrie Feinstein",
-      "subject": "Standard Time Off",
-      "label": "Standard Time Off | OFF",
-      "location": "OFF",
-      "start": "2026-05-16T15:00:00.000+0000",
-      "end": "2026-05-17T03:00:00.000+0000",
+      "id": "00URb00000PfeskMAB",
+      "category": "sales",
+      "resource": "Amber Bandanza",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Cathy Stonie-",
+      "location": null,
+      "start": "2026-05-16T08:00:00.000+0000",
+      "end": "2026-05-16T08:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "",
+      "related_name": "Cathy Stonie-",
       "event_type": null
     },
     {
@@ -80,17 +80,31 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Pee5BMAR",
+      "id": "00URb00000OV1iKMAT",
+      "category": "time_off",
+      "resource": "Sherrie Feinstein",
+      "subject": "Standard Time Off",
+      "label": "Standard Time Off | OFF",
+      "location": "OFF",
+      "start": "2026-05-16T15:00:00.000+0000",
+      "end": "2026-05-17T03:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000PcPevMAF",
       "category": "sales",
-      "resource": "Mike Wells",
+      "resource": "Brian Todd",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Chris Chambers | Pittsburg",
-      "location": "Pittsburg",
+      "label": "Sales Presentation | Peter Olney | Waterford",
+      "location": "Waterford",
       "start": "2026-05-16T17:00:00.000+0000",
       "end": "2026-05-16T19:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Chris Chambers",
-      "related_name": "Chris Chambers-",
+      "contact_name": "Peter Olney",
+      "related_name": "Peter Olney-",
       "event_type": null
     },
     {
@@ -119,6 +133,34 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000PGEDVMA5",
+      "category": "sales",
+      "resource": "Anthony Hall",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Moe Sekander- | Concord-Costco-Anthony Hall",
+      "location": "Concord-Costco-Anthony Hall",
+      "start": "2026-05-16T17:00:00.000+0000",
+      "end": "2026-05-16T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Moe Sekander-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000Pee5BMAR",
+      "category": "sales",
+      "resource": "Mike Wells",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Chris Chambers | Pittsburg",
+      "location": "Pittsburg",
+      "start": "2026-05-16T17:00:00.000+0000",
+      "end": "2026-05-16T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Chris Chambers",
+      "related_name": "Chris Chambers-",
       "event_type": null
     },
     {
@@ -161,34 +203,6 @@
       "is_all_day": false,
       "contact_name": "Scott Fitzpatrick",
       "related_name": "Scott Fitzpatrick-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000PcPevMAF",
-      "category": "sales",
-      "resource": "Brian Todd",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Peter Olney | Waterford",
-      "location": "Waterford",
-      "start": "2026-05-16T17:00:00.000+0000",
-      "end": "2026-05-16T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Peter Olney",
-      "related_name": "Peter Olney-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000PGEDVMA5",
-      "category": "sales",
-      "resource": "Anthony Hall",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Moe Sekander- | Concord-Costco-Anthony Hall",
-      "location": "Concord-Costco-Anthony Hall",
-      "start": "2026-05-16T17:00:00.000+0000",
-      "end": "2026-05-16T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Moe Sekander-",
       "event_type": null
     },
     {
