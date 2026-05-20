@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-20T20:15:20.340190Z",
+  "generated": "2026-05-20T20:20:20.303991Z",
   "date_range": {
     "start": "2026-05-20",
     "end": "2026-05-20"
@@ -63,6 +63,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000PpWqgMAF",
+      "category": "sales",
+      "resource": "Johnny Van Wyk",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Los Altos country club-",
+      "location": null,
+      "start": "2026-05-20T08:00:00.000+0000",
+      "end": "2026-05-20T08:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Los Altos country club-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000Po4TRMAZ",
       "category": "sales",
       "resource": "Johnny Van Wyk",
@@ -77,20 +91,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000PZm52MAD",
-      "category": "time_off",
-      "resource": "Steven McIntire",
-      "subject": "Standard Time Off",
-      "label": "Standard Time Off | COSTCO",
-      "location": "COSTCO",
-      "start": "2026-05-20T15:00:00.000+0000",
-      "end": "2026-05-21T03:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000PiQ6sMAF",
       "category": "service",
       "resource": "Service/C5",
@@ -99,6 +99,20 @@
       "location": "Ali with service crew 4..........Francisco with service crew 3",
       "start": "2026-05-20T15:00:00.000+0000",
       "end": "2026-05-20T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000PZm52MAD",
+      "category": "time_off",
+      "resource": "Steven McIntire",
+      "subject": "Standard Time Off",
+      "label": "Standard Time Off | COSTCO",
+      "location": "COSTCO",
+      "start": "2026-05-20T15:00:00.000+0000",
+      "end": "2026-05-21T03:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
@@ -147,34 +161,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Pef1FMAR",
-      "category": "time_off",
-      "resource": "Tim Duggan",
-      "subject": "Off",
-      "label": "Off | Moving",
-      "location": "Moving",
-      "start": "2026-05-20T16:00:00.000+0000",
-      "end": "2026-05-21T01:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000P2CGPMA3",
-      "category": "service",
-      "resource": "Service/C3",
-      "subject": "Service/C3",
-      "label": "Service/C3 | Joaquin will be out",
-      "location": "Joaquin will be out",
-      "start": "2026-05-20T16:00:00.000+0000",
-      "end": "2026-05-20T23:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000P8wK8MAJ",
       "category": "sales",
       "resource": "Chris Loeswick",
@@ -203,20 +189,6 @@
       "event_type": "Service"
     },
     {
-      "id": "00URb00000PiWcAMAV",
-      "category": "installation",
-      "resource": "Crew 3",
-      "subject": "Crew 3",
-      "label": "Crew 3 | 17887 | Mark and Melinda Doubtt - Morgan Hill- Sprinkler problem",
-      "location": "Mark and Melinda Doubtt - Morgan Hill- Sprinkler problem",
-      "start": "2026-05-20T16:00:00.000+0000",
-      "end": "2026-05-20T21:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17887",
-      "event_type": null
-    },
-    {
       "id": "00URb00000Pm2cHMAR",
       "category": "installation",
       "resource": "Creww 16",
@@ -231,45 +203,45 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Nz4RGMAZ",
-      "category": "service",
-      "resource": "Service/C4",
-      "subject": "Service/C4",
-      "label": "Service/C4 | 17680 | Briner - Santa Cruz - Back Yard",
-      "location": "Briner - Santa Cruz - Back Yard",
-      "start": "2026-05-20T17:00:00.000+0000",
-      "end": "2026-05-20T23:30:00.000+0000",
+      "id": "00URb00000PiWcAMAV",
+      "category": "installation",
+      "resource": "Crew 3",
+      "subject": "Crew 3",
+      "label": "Crew 3 | 17887 | Mark and Melinda Doubtt - Morgan Hill- Sprinkler problem",
+      "location": "Mark and Melinda Doubtt - Morgan Hill- Sprinkler problem",
+      "start": "2026-05-20T16:00:00.000+0000",
+      "end": "2026-05-20T21:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "17680",
-      "event_type": "Service"
+      "related_name": "17887",
+      "event_type": null
     },
     {
-      "id": "00URb00000NdkLtMAJ",
+      "id": "00URb00000Pef1FMAR",
+      "category": "time_off",
+      "resource": "Tim Duggan",
+      "subject": "Off",
+      "label": "Off | Moving",
+      "location": "Moving",
+      "start": "2026-05-20T16:00:00.000+0000",
+      "end": "2026-05-21T01:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000P2CGPMA3",
       "category": "service",
       "resource": "Service/C3",
       "subject": "Service/C3",
-      "label": "Service/C3 | 17725 | Santa Rosa",
-      "location": "Santa Rosa",
-      "start": "2026-05-20T17:00:00.000+0000",
-      "end": "2026-05-20T19:00:00.000+0000",
+      "label": "Service/C3 | Joaquin will be out",
+      "location": "Joaquin will be out",
+      "start": "2026-05-20T16:00:00.000+0000",
+      "end": "2026-05-20T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "17725",
-      "event_type": "Service"
-    },
-    {
-      "id": "00URb00000PZJPZMA5",
-      "category": "sales",
-      "resource": "Anthony Hall",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Mary Crume | San Jose-Costco",
-      "location": "San Jose-Costco",
-      "start": "2026-05-20T17:00:00.000+0000",
-      "end": "2026-05-20T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Mary Crume",
-      "related_name": "Mary Crume-",
+      "related_name": "",
       "event_type": null
     },
     {
@@ -287,6 +259,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000NdkLtMAJ",
+      "category": "service",
+      "resource": "Service/C3",
+      "subject": "Service/C3",
+      "label": "Service/C3 | 17725 | Santa Rosa",
+      "location": "Santa Rosa",
+      "start": "2026-05-20T17:00:00.000+0000",
+      "end": "2026-05-20T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17725",
+      "event_type": "Service"
+    },
+    {
       "id": "00URb00000PYdtOMAT",
       "category": "sales",
       "resource": "Sheldon Santos",
@@ -301,6 +287,34 @@
       "event_type": null
     },
     {
+      "id": "00URb00000PZJPZMA5",
+      "category": "sales",
+      "resource": "Anthony Hall",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Mary Crume | San Jose-Costco",
+      "location": "San Jose-Costco",
+      "start": "2026-05-20T17:00:00.000+0000",
+      "end": "2026-05-20T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Mary Crume",
+      "related_name": "Mary Crume-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000Nz4RGMAZ",
+      "category": "service",
+      "resource": "Service/C4",
+      "subject": "Service/C4",
+      "label": "Service/C4 | 17680 | Briner - Santa Cruz - Back Yard",
+      "location": "Briner - Santa Cruz - Back Yard",
+      "start": "2026-05-20T17:00:00.000+0000",
+      "end": "2026-05-20T23:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17680",
+      "event_type": "Service"
+    },
+    {
       "id": "00URb00000Po3ApMAJ",
       "category": "sales",
       "resource": "Clayton Johnson",
@@ -312,20 +326,6 @@
       "is_all_day": false,
       "contact_name": "Daizy Jaregui\u00a0",
       "related_name": "Daizy Jaregui\u00a0-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000PpJgXMAV",
-      "category": "sales",
-      "resource": "Mike Wells",
-      "subject": "Wrap-Up",
-      "label": "Wrap-Up | Pleasant Hill",
-      "location": "Pleasant Hill",
-      "start": "2026-05-20T19:30:00.000+0000",
-      "end": "2026-05-20T20:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
       "event_type": null
     },
     {
@@ -343,17 +343,17 @@
       "event_type": "Service"
     },
     {
-      "id": "00URb00000PVl13MAD",
+      "id": "00URb00000PpJgXMAV",
       "category": "sales",
-      "resource": "Ray Richards",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Sean and Bonnie Silen | San Rafael",
-      "location": "San Rafael",
-      "start": "2026-05-20T20:00:00.000+0000",
-      "end": "2026-05-20T22:00:00.000+0000",
+      "resource": "Mike Wells",
+      "subject": "Wrap-Up",
+      "label": "Wrap-Up | Pleasant Hill",
+      "location": "Pleasant Hill",
+      "start": "2026-05-20T19:30:00.000+0000",
+      "end": "2026-05-20T20:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "Sean and Bonnie Silen",
+      "related_name": "",
       "event_type": null
     },
     {
@@ -371,6 +371,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000PVl13MAD",
+      "category": "sales",
+      "resource": "Ray Richards",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Sean and Bonnie Silen | San Rafael",
+      "location": "San Rafael",
+      "start": "2026-05-20T20:00:00.000+0000",
+      "end": "2026-05-20T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Sean and Bonnie Silen",
+      "event_type": null
+    },
+    {
       "id": "00URb00000PmfAZMAZ",
       "category": "sales",
       "resource": "Johnny Van Wyk",
@@ -382,20 +396,6 @@
       "is_all_day": false,
       "contact_name": "Keon Vossaughi",
       "related_name": "Keon Vossaughi-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000PZJuDMAX",
-      "category": "sales",
-      "resource": "Clayton Johnson",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Richard and Nina Duong | San Jose",
-      "location": "San Jose",
-      "start": "2026-05-20T21:00:00.000+0000",
-      "end": "2026-05-20T23:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Richard and Nina Duong",
-      "related_name": "Richard Duong-",
       "event_type": null
     },
     {
@@ -413,17 +413,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Im9UsMAJ",
-      "category": "time_off",
-      "resource": "Amber Bandanza",
-      "subject": "Standard Time Off",
-      "label": "Standard Time Off | Gilroy/Local Appts Only",
-      "location": "Gilroy/Local Appts Only",
-      "start": "2026-05-20T22:00:00.000+0000",
-      "end": "2026-05-21T03:00:00.000+0000",
+      "id": "00URb00000PZJuDMAX",
+      "category": "sales",
+      "resource": "Clayton Johnson",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Richard and Nina Duong | San Jose",
+      "location": "San Jose",
+      "start": "2026-05-20T21:00:00.000+0000",
+      "end": "2026-05-20T23:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
+      "contact_name": "Richard and Nina Duong",
+      "related_name": "Richard Duong-",
       "event_type": null
     },
     {
@@ -435,6 +435,20 @@
       "location": "hmb",
       "start": "2026-05-20T22:00:00.000+0000",
       "end": "2026-05-21T00:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000Im9UsMAJ",
+      "category": "time_off",
+      "resource": "Amber Bandanza",
+      "subject": "Standard Time Off",
+      "label": "Standard Time Off | Gilroy/Local Appts Only",
+      "location": "Gilroy/Local Appts Only",
+      "start": "2026-05-20T22:00:00.000+0000",
+      "end": "2026-05-21T03:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
