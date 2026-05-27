@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-27T17:45:20.248636Z",
+  "generated": "2026-05-27T17:50:20.183502Z",
   "date_range": {
     "start": "2026-05-27",
     "end": "2026-05-27"
@@ -44,6 +44,20 @@
       "is_all_day": false,
       "contact_name": "Louie Pacheco",
       "related_name": "Louie Pacheco-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000Q6QfHMAV",
+      "category": "sales",
+      "resource": "Steven McIntire",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Scott Quinn-",
+      "location": null,
+      "start": "2026-05-27T08:00:00.000+0000",
+      "end": "2026-05-27T08:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Scott Quinn-",
       "event_type": null
     },
     {
@@ -117,20 +131,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000P2I45MAF",
-      "category": "service",
-      "resource": "Service/C5",
-      "subject": "Service/C5",
-      "label": "Service/C5 | 17691 | The Dog House-Pet Refresh",
-      "location": "The Dog House-Pet Refresh",
-      "start": "2026-05-27T16:00:00.000+0000",
-      "end": "2026-05-27T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17691",
-      "event_type": "Service"
-    },
-    {
       "id": "00URb00000Q49KHMAZ",
       "category": "installation",
       "resource": "Bedrock Construction",
@@ -143,6 +143,20 @@
       "contact_name": "",
       "related_name": "George Howard-Front Yard",
       "event_type": null
+    },
+    {
+      "id": "00URb00000P2I45MAF",
+      "category": "service",
+      "resource": "Service/C5",
+      "subject": "Service/C5",
+      "label": "Service/C5 | 17691 | The Dog House-Pet Refresh",
+      "location": "The Dog House-Pet Refresh",
+      "start": "2026-05-27T16:00:00.000+0000",
+      "end": "2026-05-27T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17691",
+      "event_type": "Service"
     },
     {
       "id": "00URb00000P8wK8MAJ",
@@ -170,6 +184,62 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Nabil Mahman-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000PsEPOMA3",
+      "category": "sales",
+      "resource": "Steven McIntire",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Tony Singh | Napa-Costco",
+      "location": "Napa-Costco",
+      "start": "2026-05-27T17:00:00.000+0000",
+      "end": "2026-05-27T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Tony Singh",
+      "related_name": "Tony Singh-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000Nm8MGMAZ",
+      "category": "service",
+      "resource": "Service/C3",
+      "subject": "Service/C3",
+      "label": "Service/C3 | 17743 | Alameda",
+      "location": "Alameda",
+      "start": "2026-05-27T17:00:00.000+0000",
+      "end": "2026-05-27T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17743",
+      "event_type": "Service"
+    },
+    {
+      "id": "00URb00000OA2IrMAL",
+      "category": "service",
+      "resource": "Service/C4",
+      "subject": "Service/C4",
+      "label": "Service/C4 | 17786 | Concord",
+      "location": "Concord",
+      "start": "2026-05-27T17:00:00.000+0000",
+      "end": "2026-05-27T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17786",
+      "event_type": "Assessment"
+    },
+    {
+      "id": "00URb00000PbEvFMAV",
+      "category": "sales",
+      "resource": "Anthony Hall",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Tinh Phan | Brentwood",
+      "location": "Brentwood",
+      "start": "2026-05-27T17:00:00.000+0000",
+      "end": "2026-05-27T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Tinh Phan",
+      "related_name": "Tinh Phan-",
       "event_type": null
     },
     {
@@ -201,34 +271,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000PbEvFMAV",
-      "category": "sales",
-      "resource": "Anthony Hall",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Tinh Phan | Brentwood",
-      "location": "Brentwood",
-      "start": "2026-05-27T17:00:00.000+0000",
-      "end": "2026-05-27T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Tinh Phan",
-      "related_name": "Tinh Phan-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000PsEPOMA3",
-      "category": "sales",
-      "resource": "Steven McIntire",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Tony Singh | Napa-Costco",
-      "location": "Napa-Costco",
-      "start": "2026-05-27T17:00:00.000+0000",
-      "end": "2026-05-27T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Tony Singh",
-      "related_name": "Tony Singh-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000Q4X3GMAV",
       "category": "sales",
       "resource": "Mike Wells",
@@ -241,34 +283,6 @@
       "contact_name": "Rob Montgomery",
       "related_name": "Rob Montgomery-",
       "event_type": null
-    },
-    {
-      "id": "00URb00000OA2IrMAL",
-      "category": "service",
-      "resource": "Service/C4",
-      "subject": "Service/C4",
-      "label": "Service/C4 | 17786 | Concord",
-      "location": "Concord",
-      "start": "2026-05-27T17:00:00.000+0000",
-      "end": "2026-05-27T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17786",
-      "event_type": "Assessment"
-    },
-    {
-      "id": "00URb00000Nm8MGMAZ",
-      "category": "service",
-      "resource": "Service/C3",
-      "subject": "Service/C3",
-      "label": "Service/C3 | 17743 | Alameda",
-      "location": "Alameda",
-      "start": "2026-05-27T17:00:00.000+0000",
-      "end": "2026-05-27T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17743",
-      "event_type": "Service"
     },
     {
       "id": "00URb00000NlqkHMAR",
@@ -285,20 +299,6 @@
       "event_type": "Service"
     },
     {
-      "id": "00URb00000Q3cMlMAJ",
-      "category": "sales",
-      "resource": "Johnny Van Wyk",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Nicole Black | San Jose",
-      "location": "San Jose",
-      "start": "2026-05-27T19:00:00.000+0000",
-      "end": "2026-05-27T21:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Nicole Black",
-      "related_name": "Nicole Black-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000PuxOnMAJ",
       "category": "sales",
       "resource": "Ray Richards",
@@ -310,6 +310,20 @@
       "is_all_day": false,
       "contact_name": "Debra MARTIN",
       "related_name": "Debra MARTIN-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000Q3cMlMAJ",
+      "category": "sales",
+      "resource": "Johnny Van Wyk",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Nicole Black | San Jose",
+      "location": "San Jose",
+      "start": "2026-05-27T19:00:00.000+0000",
+      "end": "2026-05-27T21:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Nicole Black",
+      "related_name": "Nicole Black-",
       "event_type": null
     },
     {
@@ -341,20 +355,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000PV6cJMAT",
-      "category": "time_off",
-      "resource": "Johnny Van Wyk",
-      "subject": "Off",
-      "label": "Off | san jose",
-      "location": "san jose",
-      "start": "2026-05-27T21:00:00.000+0000",
-      "end": "2026-05-28T02:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000OxVunMAF",
       "category": "service",
       "resource": "Service/C4",
@@ -367,6 +367,20 @@
       "contact_name": "",
       "related_name": "17851",
       "event_type": "Assessment"
+    },
+    {
+      "id": "00URb00000PV6cJMAT",
+      "category": "time_off",
+      "resource": "Johnny Van Wyk",
+      "subject": "Off",
+      "label": "Off | san jose",
+      "location": "san jose",
+      "start": "2026-05-27T21:00:00.000+0000",
+      "end": "2026-05-28T02:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
     },
     {
       "id": "00URb00000O4Ln5MAF",
