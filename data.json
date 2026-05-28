@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-28T22:20:19.541245Z",
+  "generated": "2026-05-28T22:25:21.777616Z",
   "date_range": {
     "start": "2026-05-28",
     "end": "2026-05-28"
@@ -62,6 +62,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000QArdhMAD",
+      "category": "sales",
+      "resource": "Ray Richards",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Johni Flores-",
+      "location": null,
+      "start": "2026-05-28T08:00:00.000+0000",
+      "end": "2026-05-28T08:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Johni Flores-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000OdbgHMAR",
       "category": "service",
       "resource": "Service/C3",
@@ -70,34 +84,6 @@
       "location": "Martin Larios Is off this day  - Do not schedule anymore jobs",
       "start": "2026-05-28T13:00:00.000+0000",
       "end": "2026-05-29T00:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000PxZkvMAF",
-      "category": "time_off",
-      "resource": "Tim Duggan",
-      "subject": "Off",
-      "label": "Off | Off",
-      "location": "Off",
-      "start": "2026-05-28T15:00:00.000+0000",
-      "end": "2026-05-28T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000OV1iTMAT",
-      "category": "time_off",
-      "resource": "Sherrie Feinstein",
-      "subject": "Standard Time Off",
-      "label": "Standard Time Off | OFF",
-      "location": "OFF",
-      "start": "2026-05-28T15:00:00.000+0000",
-      "end": "2026-05-29T03:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
@@ -118,14 +104,28 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Q36I2MAJ",
-      "category": "service",
-      "resource": "Service/C5",
-      "subject": "Service/C5",
-      "label": "Service/C5 | Taking over service crew 3 since Martin will be out",
-      "location": "Taking over service crew 3 since Martin will be out",
-      "start": "2026-05-28T15:30:00.000+0000",
-      "end": "2026-05-29T01:00:00.000+0000",
+      "id": "00URb00000OV1iTMAT",
+      "category": "time_off",
+      "resource": "Sherrie Feinstein",
+      "subject": "Standard Time Off",
+      "label": "Standard Time Off | OFF",
+      "location": "OFF",
+      "start": "2026-05-28T15:00:00.000+0000",
+      "end": "2026-05-29T03:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000PxZkvMAF",
+      "category": "time_off",
+      "resource": "Tim Duggan",
+      "subject": "Off",
+      "label": "Off | Off",
+      "location": "Off",
+      "start": "2026-05-28T15:00:00.000+0000",
+      "end": "2026-05-28T19:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
@@ -160,18 +160,18 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OC6n5MAD",
+      "id": "00URb00000Q36I2MAJ",
       "category": "service",
-      "resource": "Service/C4",
-      "subject": "Service/C4",
-      "label": "Service/C4 | 17608 | Stockton | Assessment/Service | Seam",
-      "location": "Stockton | Assessment/Service | Seam",
-      "start": "2026-05-28T17:00:00.000+0000",
-      "end": "2026-05-28T19:00:00.000+0000",
+      "resource": "Service/C5",
+      "subject": "Service/C5",
+      "label": "Service/C5 | Taking over service crew 3 since Martin will be out",
+      "location": "Taking over service crew 3 since Martin will be out",
+      "start": "2026-05-28T15:30:00.000+0000",
+      "end": "2026-05-29T01:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "17608",
-      "event_type": "Service"
+      "related_name": "",
+      "event_type": null
     },
     {
       "id": "00URb00000Q3CvJMAV",
@@ -188,6 +188,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000OC6n5MAD",
+      "category": "service",
+      "resource": "Service/C4",
+      "subject": "Service/C4",
+      "label": "Service/C4 | 17608 | Stockton | Assessment/Service | Seam",
+      "location": "Stockton | Assessment/Service | Seam",
+      "start": "2026-05-28T17:00:00.000+0000",
+      "end": "2026-05-28T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17608",
+      "event_type": "Service"
+    },
+    {
       "id": "00URb00000NnyYsMAJ",
       "category": "service",
       "resource": "Service/C3",
@@ -202,20 +216,6 @@
       "event_type": "Service"
     },
     {
-      "id": "00URb00000Q3el7MAB",
-      "category": "sales",
-      "resource": "Anthony Hall",
-      "subject": "Follow Up",
-      "label": "Follow Up | Fermin Go- | Livermore",
-      "location": "Livermore",
-      "start": "2026-05-28T17:30:00.000+0000",
-      "end": "2026-05-28T18:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Fermin Go-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000Q6eBtMAJ",
       "category": "sales",
       "resource": "Johnny Van Wyk",
@@ -227,6 +227,20 @@
       "is_all_day": false,
       "contact_name": "Terri Parks",
       "related_name": "Terri Parks-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000Q3el7MAB",
+      "category": "sales",
+      "resource": "Anthony Hall",
+      "subject": "Follow Up",
+      "label": "Follow Up | Fermin Go- | Livermore",
+      "location": "Livermore",
+      "start": "2026-05-28T17:30:00.000+0000",
+      "end": "2026-05-28T18:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Fermin Go-",
       "event_type": null
     },
     {
@@ -258,20 +272,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OPWesMAH",
-      "category": "service",
-      "resource": "Service/C4",
-      "subject": "Service/C4",
-      "label": "Service/C4 | 17808 | Stockton",
-      "location": "Stockton",
-      "start": "2026-05-28T19:00:00.000+0000",
-      "end": "2026-05-28T21:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17808",
-      "event_type": "Assessment"
-    },
-    {
       "id": "00URb00000Q3VDFMA3",
       "category": "sales",
       "resource": "Sheldon Santos",
@@ -284,6 +284,20 @@
       "contact_name": "George Hernandez",
       "related_name": "George Hernandez-",
       "event_type": null
+    },
+    {
+      "id": "00URb00000OPWesMAH",
+      "category": "service",
+      "resource": "Service/C4",
+      "subject": "Service/C4",
+      "label": "Service/C4 | 17808 | Stockton",
+      "location": "Stockton",
+      "start": "2026-05-28T19:00:00.000+0000",
+      "end": "2026-05-28T21:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17808",
+      "event_type": "Assessment"
     },
     {
       "id": "00URb00000Q4NofMAF",
@@ -300,17 +314,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Q6DoSMAV",
+      "id": "00URb00000Q4D9NMAV",
       "category": "sales",
-      "resource": "Amber Bandanza",
+      "resource": "Ray Richards",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Jason Thomas | San Jose",
-      "location": "San Jose",
+      "label": "Sales Presentation | Johni Flores | Vacaville",
+      "location": "Vacaville",
       "start": "2026-05-28T20:00:00.000+0000",
       "end": "2026-05-28T22:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Jason Thomas",
-      "related_name": "Jason Thomas-",
+      "contact_name": "Johni Flores",
+      "related_name": "Johni Flores-",
       "event_type": null
     },
     {
@@ -328,17 +342,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Q4D9NMAV",
+      "id": "00URb00000Q6DoSMAV",
       "category": "sales",
-      "resource": "Ray Richards",
+      "resource": "Amber Bandanza",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Johni Flores | Vacaville",
-      "location": "Vacaville",
+      "label": "Sales Presentation | Jason Thomas | San Jose",
+      "location": "San Jose",
       "start": "2026-05-28T20:00:00.000+0000",
       "end": "2026-05-28T22:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Johni Flores",
-      "related_name": "Johni Flores-",
+      "contact_name": "Jason Thomas",
+      "related_name": "Jason Thomas-",
       "event_type": null
     },
     {
@@ -370,17 +384,17 @@
       "event_type": "Assessment"
     },
     {
-      "id": "00URb00000PsBbFMAV",
+      "id": "00URb00000Q9QQvMAN",
       "category": "sales",
-      "resource": "Steven McIntire",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Lisa Mcadams | Napa-Costco-Steve MCI",
-      "location": "Napa-Costco-Steve MCI",
+      "resource": "Mike Wells",
+      "subject": "Wrap-Up",
+      "label": "Wrap-Up | Berkeley",
+      "location": "Berkeley",
       "start": "2026-05-28T21:00:00.000+0000",
-      "end": "2026-05-28T23:00:00.000+0000",
+      "end": "2026-05-28T22:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Lisa Mcadams",
-      "related_name": "Lisa Mcadams-",
+      "contact_name": "",
+      "related_name": "",
       "event_type": null
     },
     {
@@ -398,17 +412,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Q9QQvMAN",
+      "id": "00URb00000PsBbFMAV",
       "category": "sales",
-      "resource": "Mike Wells",
-      "subject": "Wrap-Up",
-      "label": "Wrap-Up | Berkeley",
-      "location": "Berkeley",
+      "resource": "Steven McIntire",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Lisa Mcadams | Napa-Costco-Steve MCI",
+      "location": "Napa-Costco-Steve MCI",
       "start": "2026-05-28T21:00:00.000+0000",
-      "end": "2026-05-28T22:00:00.000+0000",
+      "end": "2026-05-28T23:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
+      "contact_name": "Lisa Mcadams",
+      "related_name": "Lisa Mcadams-",
       "event_type": null
     },
     {
@@ -440,20 +454,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Q5TtmMAF",
-      "category": "sales",
-      "resource": "Sheldon Santos",
-      "subject": "Self Generated",
-      "label": "Self Generated | Beto Beas | Stockton",
-      "location": "Stockton",
-      "start": "2026-05-28T23:00:00.000+0000",
-      "end": "2026-05-29T01:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Beto Beas",
-      "related_name": "Beto Beas-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000Q3pgYMAR",
       "category": "sales",
       "resource": "Mike Wells",
@@ -465,6 +465,20 @@
       "is_all_day": false,
       "contact_name": "Bill Vierra",
       "related_name": "Bill Vierra-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000Q5TtmMAF",
+      "category": "sales",
+      "resource": "Sheldon Santos",
+      "subject": "Self Generated",
+      "label": "Self Generated | Beto Beas | Stockton",
+      "location": "Stockton",
+      "start": "2026-05-28T23:00:00.000+0000",
+      "end": "2026-05-29T01:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Beto Beas",
+      "related_name": "Beto Beas-",
       "event_type": null
     },
     {
