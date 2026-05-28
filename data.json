@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-28T04:40:19.691896Z",
+  "generated": "2026-05-28T04:45:19.084540Z",
   "date_range": {
     "start": "2026-05-28",
     "end": "2026-05-28"
@@ -251,7 +251,7 @@
       "label": "Wrap-Up | Tiago Abreu | Livermore",
       "location": "Livermore",
       "start": "2026-05-28T18:30:00.000+0000",
-      "end": "2026-05-28T19:00:00.000+0000",
+      "end": "2026-05-28T19:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "Tiago Abreu",
       "related_name": "",
@@ -265,7 +265,7 @@
       "label": "Wrap-Up | Mountain View",
       "location": "Mountain View",
       "start": "2026-05-28T18:30:00.000+0000",
-      "end": "2026-05-28T19:00:00.000+0000",
+      "end": "2026-05-28T19:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
@@ -286,20 +286,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Q4NofMAF",
-      "category": "sales",
-      "resource": "Anthony Hall",
-      "subject": "Wrap-Up",
-      "label": "Wrap-Up | Jean-Luc Masri | Livermore",
-      "location": "Livermore",
-      "start": "2026-05-28T19:00:00.000+0000",
-      "end": "2026-05-28T19:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Jean-Luc Masri",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000OPWesMAH",
       "category": "service",
       "resource": "Service/C4",
@@ -312,6 +298,20 @@
       "contact_name": "",
       "related_name": "17808",
       "event_type": "Assessment"
+    },
+    {
+      "id": "00URb00000Q4NofMAF",
+      "category": "sales",
+      "resource": "Anthony Hall",
+      "subject": "Wrap-Up",
+      "label": "Wrap-Up | Jean-Luc Masri | Livermore",
+      "location": "Livermore",
+      "start": "2026-05-28T19:30:00.000+0000",
+      "end": "2026-05-28T20:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Jean-Luc Masri",
+      "related_name": "",
+      "event_type": null
     },
     {
       "id": "00URb00000Q6DoSMAV",
