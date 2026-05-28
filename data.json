@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-28T04:45:19.084540Z",
+  "generated": "2026-05-28T04:50:19.501395Z",
   "date_range": {
     "start": "2026-05-28",
     "end": "2026-05-28"
@@ -209,7 +209,7 @@
       "label": "Follow Up | Fermin Go- | Livermore",
       "location": "Livermore",
       "start": "2026-05-28T17:30:00.000+0000",
-      "end": "2026-05-28T18:00:00.000+0000",
+      "end": "2026-05-28T18:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Fermin Go-",
