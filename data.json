@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-29T14:00:22.032561Z",
+  "generated": "2026-05-29T14:05:19.309834Z",
   "date_range": {
     "start": "2026-05-29",
     "end": "2026-05-29"
@@ -93,7 +93,7 @@
       "label": "Customer Meeting | san jose",
       "location": "san jose",
       "start": "2026-05-29T17:00:00.000+0000",
-      "end": "2026-05-29T18:00:00.000+0000",
+      "end": "2026-05-29T18:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
@@ -289,7 +289,7 @@
       "label": "Customer Meeting | Oakland",
       "location": "Oakland",
       "start": "2026-05-29T22:00:00.000+0000",
-      "end": "2026-05-29T23:00:00.000+0000",
+      "end": "2026-05-29T23:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
