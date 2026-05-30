@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-30T15:30:19.671633Z",
+  "generated": "2026-05-30T15:35:19.425240Z",
   "date_range": {
     "start": "2026-05-30",
     "end": "2026-05-30"
@@ -40,6 +40,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000QEqO8MAL",
+      "category": "sales",
+      "resource": "Ray Richards",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Lori Kalua-",
+      "location": null,
+      "start": "2026-05-30T08:00:00.000+0000",
+      "end": "2026-05-30T08:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Lori Kalua-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000PVG3hMAH",
       "category": "time_off",
       "resource": "Johnny Van Wyk",
@@ -48,20 +62,6 @@
       "location": "san jose",
       "start": "2026-05-30T14:00:00.000+0000",
       "end": "2026-05-31T03:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000NgZ5GMAV",
-      "category": "time_off",
-      "resource": "Steve Meadows",
-      "subject": "Off",
-      "label": "Off",
-      "location": null,
-      "start": "2026-05-30T15:00:00.000+0000",
-      "end": "2026-05-30T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
@@ -96,17 +96,31 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QE713MAD",
+      "id": "00URb00000NgZ5GMAV",
+      "category": "time_off",
+      "resource": "Steve Meadows",
+      "subject": "Off",
+      "label": "Off",
+      "location": null,
+      "start": "2026-05-30T15:00:00.000+0000",
+      "end": "2026-05-30T23:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000Q2jrlMAB",
       "category": "sales",
-      "resource": "Amber Bandanza",
+      "resource": "Mike Wells",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Allan Manzagol | San Jose",
-      "location": "San Jose",
+      "label": "Sales Presentation | Jordan Thomas | Oakley",
+      "location": "Oakley",
       "start": "2026-05-30T17:00:00.000+0000",
       "end": "2026-05-30T19:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Allan Manzagol",
-      "related_name": "Allan Manzagol-",
+      "contact_name": "Jordan Thomas",
+      "related_name": "Jordan Thomas-",
       "event_type": null
     },
     {
@@ -135,20 +149,6 @@
       "is_all_day": false,
       "contact_name": "Amanda Crabtree",
       "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000Q2jrlMAB",
-      "category": "sales",
-      "resource": "Mike Wells",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Jordan Thomas | Oakley",
-      "location": "Oakley",
-      "start": "2026-05-30T17:00:00.000+0000",
-      "end": "2026-05-30T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Jordan Thomas",
-      "related_name": "Jordan Thomas-",
       "event_type": null
     },
     {
@@ -208,17 +208,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000PfaSXMAZ",
+      "id": "00URb00000QE713MAD",
       "category": "sales",
-      "resource": "Anthony Hall",
+      "resource": "Amber Bandanza",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Michele Cain | Prunedale",
-      "location": "Prunedale",
-      "start": "2026-05-30T19:00:00.000+0000",
-      "end": "2026-05-30T21:00:00.000+0000",
+      "label": "Sales Presentation | Allan Manzagol | San Jose",
+      "location": "San Jose",
+      "start": "2026-05-30T17:00:00.000+0000",
+      "end": "2026-05-30T19:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Michele Cain",
-      "related_name": "Michele Cain-",
+      "contact_name": "Allan Manzagol",
+      "related_name": "Allan Manzagol-",
       "event_type": null
     },
     {
@@ -236,6 +236,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000PfaSXMAZ",
+      "category": "sales",
+      "resource": "Anthony Hall",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Michele Cain | Prunedale",
+      "location": "Prunedale",
+      "start": "2026-05-30T19:00:00.000+0000",
+      "end": "2026-05-30T21:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Michele Cain",
+      "related_name": "Michele Cain-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000QAXi5MAH",
       "category": "sales",
       "resource": "Mike Wells",
@@ -250,20 +264,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Q6zt6MAB",
-      "category": "sales",
-      "resource": "Steven McIntire",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Priya Matpadi - Costco | Fremont",
-      "location": "Fremont",
-      "start": "2026-05-30T20:00:00.000+0000",
-      "end": "2026-05-30T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Priya Matpadi - Costco",
-      "related_name": "Priya Matpadi- Costco-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000PlJIXMA3",
       "category": "sales",
       "resource": "Amber Bandanza",
@@ -275,6 +275,20 @@
       "is_all_day": false,
       "contact_name": "Sanjay Thekdi",
       "related_name": "Sanjay Thekdi-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000Q6zt6MAB",
+      "category": "sales",
+      "resource": "Steven McIntire",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Priya Matpadi - Costco | Fremont",
+      "location": "Fremont",
+      "start": "2026-05-30T20:00:00.000+0000",
+      "end": "2026-05-30T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Priya Matpadi - Costco",
+      "related_name": "Priya Matpadi- Costco-",
       "event_type": null
     },
     {
