@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-01T23:10:19.108052Z",
+  "generated": "2026-06-01T23:15:19.046059Z",
   "date_range": {
     "start": "2026-06-01",
     "end": "2026-06-01"
@@ -346,7 +346,7 @@
       "end": "2026-06-01T17:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "Veran Dong",
-      "related_name": "Veran Dong-",
+      "related_name": "Veran Dong-Costco",
       "event_type": null
     },
     {
@@ -368,13 +368,13 @@
       "category": "installation",
       "resource": "Creww 16",
       "subject": "Creww 16",
-      "label": "Creww 16 | Justin Lorenz-Front Yard | Martinez - 428 sqft, removal, base, steel, sand, Summer rye",
+      "label": "Creww 16 | Justin Lorenz-Costco | Martinez - 428 sqft, removal, base, steel, sand, Summer rye",
       "location": "Martinez - 428 sqft, removal, base, steel, sand, Summer rye",
       "start": "2026-06-01T16:00:00.000+0000",
       "end": "2026-06-02T22:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "Justin Lorenz-Front Yard",
+      "related_name": "Justin Lorenz-Costco",
       "event_type": null
     },
     {
@@ -500,7 +500,7 @@
       "end": "2026-06-01T19:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "Kurt Untermann",
-      "related_name": "Kurt Untermann-",
+      "related_name": "Kurt Untermann-Costco",
       "event_type": null
     },
     {
@@ -570,7 +570,7 @@
       "end": "2026-06-01T22:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "Rod Saludo",
-      "related_name": "Rod Saludo-",
+      "related_name": "Rod Saludo-Costco",
       "event_type": null
     },
     {
@@ -584,7 +584,7 @@
       "end": "2026-06-01T22:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "Scott Phan",
-      "related_name": "Scott Phan-",
+      "related_name": "Scott Phan-Costco",
       "event_type": null
     },
     {
