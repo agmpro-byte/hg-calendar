@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-02T17:40:18.876106Z",
+  "generated": "2026-06-02T17:45:18.802153Z",
   "date_range": {
     "start": "2026-06-02",
     "end": "2026-06-02"
@@ -240,20 +240,6 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Jake Boswell",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QHag3MAD",
-      "category": "sales",
-      "resource": "Johnny Van Wyk",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Kim Le | milpitas",
-      "location": "milpitas",
-      "start": "2026-06-02T17:30:00.000+0000",
-      "end": "2026-06-02T19:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Kim Le",
-      "related_name": "Kim Le-",
       "event_type": null
     },
     {
