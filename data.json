@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-03T03:05:19.187466Z",
+  "generated": "2026-06-03T03:10:19.226216Z",
   "date_range": {
     "start": "2026-06-03",
     "end": "2026-06-03"
@@ -370,6 +370,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000Im9UuMAJ",
+      "category": "time_off",
+      "resource": "Amber Bandanza",
+      "subject": "Standard Time Off",
+      "label": "Standard Time Off | Gilroy/Local Appts Only",
+      "location": "Gilroy/Local Appts Only",
+      "start": "2026-06-03T22:00:00.000+0000",
+      "end": "2026-06-04T03:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
       "id": "00URb00000QMkGXMA1",
       "category": "sales",
       "resource": "Sherrie Feinstein",
@@ -384,14 +398,14 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Im9UuMAJ",
+      "id": "00URb00000QMvgbMAD",
       "category": "time_off",
-      "resource": "Amber Bandanza",
-      "subject": "Standard Time Off",
-      "label": "Standard Time Off | Gilroy/Local Appts Only",
-      "location": "Gilroy/Local Appts Only",
-      "start": "2026-06-03T22:00:00.000+0000",
-      "end": "2026-06-04T03:00:00.000+0000",
+      "resource": "Chris Loeswick",
+      "subject": "Off",
+      "label": "Off | Sf",
+      "location": "Sf",
+      "start": "2026-06-03T22:30:00.000+0000",
+      "end": "2026-06-04T04:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
