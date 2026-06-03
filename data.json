@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-03T00:00:24.789806Z",
+  "generated": "2026-06-03T00:05:19.599718Z",
   "date_range": {
     "start": "2026-06-03",
     "end": "2026-06-03"
@@ -62,9 +62,9 @@
       "event_type": null
     },
     {
-      "id": "00URb00000PZsGrMAL",
+      "id": "00URb00000PZsdRMAT",
       "category": "time_off",
-      "resource": "Clayton Johnson",
+      "resource": "Brian Todd",
       "subject": "Standard Time Off",
       "label": "Standard Time Off | COSTCO",
       "location": "COSTCO",
@@ -76,9 +76,9 @@
       "event_type": null
     },
     {
-      "id": "00URb00000PZsdRMAT",
+      "id": "00URb00000PZsGrMAL",
       "category": "time_off",
-      "resource": "Brian Todd",
+      "resource": "Clayton Johnson",
       "subject": "Standard Time Off",
       "label": "Standard Time Off | COSTCO",
       "location": "COSTCO",
@@ -174,17 +174,45 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QJ6SeMAL",
+      "id": "00URb00000QKyvVMAT",
       "category": "sales",
-      "resource": "Amber Bandanza",
+      "resource": "Mike Wells",
+      "subject": "Customer Meeting",
+      "label": "Customer Meeting | Bethel Island",
+      "location": "Bethel Island",
+      "start": "2026-06-03T17:00:00.000+0000",
+      "end": "2026-06-03T18:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000LxmanMAB",
+      "category": "service",
+      "resource": "Service/C3",
+      "subject": "Service/C3",
+      "label": "Service/C3 | 17555 | Napa",
+      "location": "Napa",
+      "start": "2026-06-03T17:00:00.000+0000",
+      "end": "2026-06-03T20:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17555",
+      "event_type": "Service"
+    },
+    {
+      "id": "00URb00000Q70CQMAZ",
+      "category": "sales",
+      "resource": "Chris Loeswick",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Kristi Kahle | Carmel",
-      "location": "Carmel",
+      "label": "Sales Presentation | Lance Ang | Foster City-Chris-Cotsco",
+      "location": "Foster City-Chris-Cotsco",
       "start": "2026-06-03T17:00:00.000+0000",
       "end": "2026-06-03T19:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Kristi Kahle",
-      "related_name": "Kristi Kahle-",
+      "contact_name": "Lance Ang",
+      "related_name": "Lance Ang-Costco-",
       "event_type": null
     },
     {
@@ -216,59 +244,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Q70CQMAZ",
+      "id": "00URb00000QJ6SeMAL",
       "category": "sales",
-      "resource": "Chris Loeswick",
+      "resource": "Amber Bandanza",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Lance Ang | Foster City-Chris-Cotsco",
-      "location": "Foster City-Chris-Cotsco",
+      "label": "Sales Presentation | Kristi Kahle | Carmel",
+      "location": "Carmel",
       "start": "2026-06-03T17:00:00.000+0000",
       "end": "2026-06-03T19:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Lance Ang",
-      "related_name": "Lance Ang-Costco-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000LxmanMAB",
-      "category": "service",
-      "resource": "Service/C3",
-      "subject": "Service/C3",
-      "label": "Service/C3 | 17555 | Napa",
-      "location": "Napa",
-      "start": "2026-06-03T17:00:00.000+0000",
-      "end": "2026-06-03T20:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17555",
-      "event_type": "Service"
-    },
-    {
-      "id": "00URb00000QKyvVMAT",
-      "category": "sales",
-      "resource": "Mike Wells",
-      "subject": "Customer Meeting",
-      "label": "Customer Meeting | Bethel Island",
-      "location": "Bethel Island",
-      "start": "2026-06-03T17:00:00.000+0000",
-      "end": "2026-06-03T18:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000Q2b7lMAB",
-      "category": "sales",
-      "resource": "Call Center",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Mark Davidson | Modesto",
-      "location": "Modesto",
-      "start": "2026-06-03T18:00:00.000+0000",
-      "end": "2026-06-03T20:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Mark Davidson",
-      "related_name": "",
+      "contact_name": "Kristi Kahle",
+      "related_name": "Kristi Kahle-",
       "event_type": null
     },
     {
@@ -283,6 +269,20 @@
       "is_all_day": false,
       "contact_name": "Maya Harris",
       "related_name": "Maya Harris-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000Q2b7lMAB",
+      "category": "sales",
+      "resource": "Call Center",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Mark Davidson | Modesto",
+      "location": "Modesto",
+      "start": "2026-06-03T18:00:00.000+0000",
+      "end": "2026-06-03T20:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Mark Davidson",
+      "related_name": "",
       "event_type": null
     },
     {
@@ -370,6 +370,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000QMkGXMA1",
+      "category": "sales",
+      "resource": "Sherrie Feinstein",
+      "subject": "Self Generated",
+      "label": "Self Generated | Menlo Park",
+      "location": "Menlo Park",
+      "start": "2026-06-03T22:00:00.000+0000",
+      "end": "2026-06-03T23:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
       "id": "00URb00000Im9UuMAJ",
       "category": "time_off",
       "resource": "Amber Bandanza",
@@ -398,20 +412,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QLgZxMAL",
-      "category": "time_off",
-      "resource": "Johnny Van Wyk",
-      "subject": "Off",
-      "label": "Off | san jose",
-      "location": "san jose",
-      "start": "2026-06-03T23:00:00.000+0000",
-      "end": "2026-06-04T03:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000QHg5VMAT",
       "category": "sales",
       "resource": "Tim Duggan",
@@ -423,6 +423,20 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Ron and Tracy Simonian",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QLgZxMAL",
+      "category": "time_off",
+      "resource": "Johnny Van Wyk",
+      "subject": "Off",
+      "label": "Off | san jose",
+      "location": "san jose",
+      "start": "2026-06-03T23:00:00.000+0000",
+      "end": "2026-06-04T03:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
       "event_type": null
     }
   ]
