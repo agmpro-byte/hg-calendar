@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-05T16:45:19.841045Z",
+  "generated": "2026-06-05T16:50:19.212356Z",
   "date_range": {
     "start": "2026-06-05",
     "end": "2026-06-05"
@@ -217,17 +217,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000PtSv0MAF",
-      "category": "time_off",
-      "resource": "Clayton Johnson",
-      "subject": "Off",
-      "label": "Off | Hollister",
-      "location": "Hollister",
+      "id": "00URb00000QLFYGMA5",
+      "category": "sales",
+      "resource": "Johnny Van Wyk",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Greg West | San Jose",
+      "location": "San Jose",
       "start": "2026-06-05T17:00:00.000+0000",
-      "end": "2026-06-05T18:00:00.000+0000",
+      "end": "2026-06-05T19:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
+      "contact_name": "Greg West",
+      "related_name": "Greg West-",
       "event_type": null
     },
     {
@@ -245,17 +245,17 @@
       "event_type": "Assessment"
     },
     {
-      "id": "00URb00000QLFYGMA5",
-      "category": "sales",
-      "resource": "Johnny Van Wyk",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Greg West | San Jose",
-      "location": "San Jose",
+      "id": "00URb00000PtSv0MAF",
+      "category": "time_off",
+      "resource": "Clayton Johnson",
+      "subject": "Off",
+      "label": "Off | Hollister",
+      "location": "Hollister",
       "start": "2026-06-05T17:00:00.000+0000",
-      "end": "2026-06-05T19:00:00.000+0000",
+      "end": "2026-06-05T18:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Greg West",
-      "related_name": "Greg West-",
+      "contact_name": "",
+      "related_name": "",
       "event_type": null
     },
     {
@@ -301,20 +301,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QI7thMAD",
-      "category": "sales",
-      "resource": "Tim Duggan",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Claire Newland | los Gatos",
-      "location": "los Gatos",
-      "start": "2026-06-05T18:00:00.000+0000",
-      "end": "2026-06-05T20:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Claire Newland",
-      "related_name": "HG Lead - Internet-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000QI3N3MAL",
       "category": "sales",
       "resource": "Steven McIntire",
@@ -329,31 +315,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QROdZMAX",
+      "id": "00URb00000QI7thMAD",
       "category": "sales",
-      "resource": "Brian Todd",
+      "resource": "Tim Duggan",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Albert Anguelo | Tracy-Costco-Brian",
-      "location": "Tracy-Costco-Brian",
+      "label": "Sales Presentation | Claire Newland | los Gatos",
+      "location": "los Gatos",
       "start": "2026-06-05T18:00:00.000+0000",
       "end": "2026-06-05T20:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Albert Anguelo",
-      "related_name": "Albert Anguelo-Costco-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000PqMZ7MAN",
-      "category": "time_off",
-      "resource": "Ray Richards",
-      "subject": "Off",
-      "label": "Off | Santa Rosa",
-      "location": "Santa Rosa",
-      "start": "2026-06-05T19:00:00.000+0000",
-      "end": "2026-06-06T04:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
+      "contact_name": "Claire Newland",
+      "related_name": "HG Lead - Internet-",
       "event_type": null
     },
     {
@@ -369,6 +341,20 @@
       "contact_name": "",
       "related_name": "17929",
       "event_type": "Assessment"
+    },
+    {
+      "id": "00URb00000PqMZ7MAN",
+      "category": "time_off",
+      "resource": "Ray Richards",
+      "subject": "Off",
+      "label": "Off | Santa Rosa",
+      "location": "Santa Rosa",
+      "start": "2026-06-05T19:00:00.000+0000",
+      "end": "2026-06-06T04:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
     },
     {
       "id": "00URb00000QDndRMAT",
@@ -469,6 +455,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000QPHGPMA5",
+      "category": "sales",
+      "resource": "Chris Loeswick",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Luna Wang | Foster City-Costco",
+      "location": "Foster City-Costco",
+      "start": "2026-06-05T22:00:00.000+0000",
+      "end": "2026-06-06T00:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Luna Wang",
+      "related_name": "Luna Wang-Costco-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000HL6E4MAL",
       "category": "time_off",
       "resource": "Tim Duggan",
@@ -497,17 +497,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QPHGPMA5",
+      "id": "00URb00000QROdZMAX",
       "category": "sales",
-      "resource": "Chris Loeswick",
+      "resource": "Brian Todd",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Luna Wang | Foster City-Costco",
-      "location": "Foster City-Costco",
-      "start": "2026-06-05T22:00:00.000+0000",
-      "end": "2026-06-06T00:00:00.000+0000",
+      "label": "Sales Presentation | Albert Anguelo | Tracy-Costco-Brian",
+      "location": "Tracy-Costco-Brian",
+      "start": "2026-06-05T23:30:00.000+0000",
+      "end": "2026-06-06T01:30:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Luna Wang",
-      "related_name": "Luna Wang-Costco-",
+      "contact_name": "Albert Anguelo",
+      "related_name": "Albert Anguelo-Costco-",
       "event_type": null
     }
   ]
