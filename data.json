@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-05T17:40:20.378362Z",
+  "generated": "2026-06-05T17:45:18.524043Z",
   "date_range": {
     "start": "2026-06-05",
     "end": "2026-06-05"
@@ -34,6 +34,20 @@
     ]
   },
   "events": [
+    {
+      "id": "00URb00000QUTnCMAX",
+      "category": "sales",
+      "resource": "Johnny Van Wyk",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Greg West-",
+      "location": null,
+      "start": "2026-06-05T08:00:00.000+0000",
+      "end": "2026-06-05T08:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Greg West-",
+      "event_type": null
+    },
     {
       "id": "00URb00000QUBWvMAP",
       "category": "sales",
@@ -175,20 +189,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QS9uGMAT",
-      "category": "installation",
-      "resource": "Green Vision North Bay",
-      "subject": "Green Vision North Bay",
-      "label": "Green Vision North Bay | Ottavia Mot- BY | San Mateo - 270 sqft, removal, base, coronado, weed barrier, camofill, Rock",
-      "location": "San Mateo - 270 sqft, removal, base, coronado, weed barrier, camofill, Rock",
-      "start": "2026-06-05T16:00:00.000+0000",
-      "end": "2026-06-06T00:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Ottavia Mot- BY",
-      "event_type": null
-    },
-    {
       "id": "00URb00000QNdw9MAD",
       "category": "installation",
       "resource": "Crew 3",
@@ -203,6 +203,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000QS9uGMAT",
+      "category": "installation",
+      "resource": "Green Vision North Bay",
+      "subject": "Green Vision North Bay",
+      "label": "Green Vision North Bay | Ottavia Mot- BY | San Mateo - 270 sqft, removal, base, coronado, weed barrier, camofill, Rock",
+      "location": "San Mateo - 270 sqft, removal, base, coronado, weed barrier, camofill, Rock",
+      "start": "2026-06-05T16:00:00.000+0000",
+      "end": "2026-06-06T00:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Ottavia Mot- BY",
+      "event_type": null
+    },
+    {
       "id": "00URb00000QJW3dMAH",
       "category": "sales",
       "resource": "Tim Duggan",
@@ -214,20 +228,6 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QLFYGMA5",
-      "category": "sales",
-      "resource": "Johnny Van Wyk",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Greg West | San Jose",
-      "location": "San Jose",
-      "start": "2026-06-05T17:00:00.000+0000",
-      "end": "2026-06-05T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Greg West",
-      "related_name": "Greg West-",
       "event_type": null
     },
     {
@@ -287,6 +287,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000QLFYGMA5",
+      "category": "sales",
+      "resource": "Johnny Van Wyk",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Greg West | San Jose",
+      "location": "San Jose",
+      "start": "2026-06-05T17:00:00.000+0000",
+      "end": "2026-06-05T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Greg West",
+      "related_name": "Greg West-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000QKvPlMAL",
       "category": "sales",
       "resource": "Sherrie Feinstein",
@@ -329,20 +343,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000PiXbNMAV",
-      "category": "service",
-      "resource": "Service/C4",
-      "subject": "Service/C4",
-      "label": "Service/C4 | 17929 | Atherton-Assessment",
-      "location": "Atherton-Assessment",
-      "start": "2026-06-05T19:00:00.000+0000",
-      "end": "2026-06-05T20:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17929",
-      "event_type": "Assessment"
-    },
-    {
       "id": "00URb00000PqMZ7MAN",
       "category": "time_off",
       "resource": "Ray Richards",
@@ -357,6 +357,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000PiXbNMAV",
+      "category": "service",
+      "resource": "Service/C4",
+      "subject": "Service/C4",
+      "label": "Service/C4 | 17929 | Atherton-Assessment",
+      "location": "Atherton-Assessment",
+      "start": "2026-06-05T19:00:00.000+0000",
+      "end": "2026-06-05T20:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17929",
+      "event_type": "Assessment"
+    },
+    {
       "id": "00URb00000QDndRMAT",
       "category": "sales",
       "resource": "Johnny Van Wyk",
@@ -368,6 +382,20 @@
       "is_all_day": false,
       "contact_name": "Ash Jain",
       "related_name": "Ash Jain-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QSgesMAD",
+      "category": "sales",
+      "resource": "Clayton Johnson",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | John Harris | Santa Cruz-Clayton",
+      "location": "Santa Cruz-Clayton",
+      "start": "2026-06-05T20:00:00.000+0000",
+      "end": "2026-06-05T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "John Harris",
+      "related_name": "John Harris-Costco-",
       "event_type": null
     },
     {
@@ -385,17 +413,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QSgesMAD",
+      "id": "00URb00000QLZ5VMAX",
       "category": "sales",
-      "resource": "Clayton Johnson",
+      "resource": "Brian Todd",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | John Harris | Santa Cruz-Clayton",
-      "location": "Santa Cruz-Clayton",
-      "start": "2026-06-05T20:00:00.000+0000",
-      "end": "2026-06-05T22:00:00.000+0000",
+      "label": "Sales Presentation | Norman Racpan | Mountain house",
+      "location": "Mountain house",
+      "start": "2026-06-05T21:00:00.000+0000",
+      "end": "2026-06-05T23:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "John Harris",
-      "related_name": "John Harris-Costco-",
+      "contact_name": "Norman Racpan",
+      "related_name": "Norman Racpan-Costco-",
       "event_type": null
     },
     {
@@ -425,20 +453,6 @@
       "contact_name": "",
       "related_name": "17922",
       "event_type": "Assessment"
-    },
-    {
-      "id": "00URb00000QLZ5VMAX",
-      "category": "sales",
-      "resource": "Brian Todd",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Norman Racpan | Mountain house",
-      "location": "Mountain house",
-      "start": "2026-06-05T21:00:00.000+0000",
-      "end": "2026-06-05T23:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Norman Racpan",
-      "related_name": "Norman Racpan-Costco-",
-      "event_type": null
     },
     {
       "id": "00URb00000Q3fMFMAZ",
