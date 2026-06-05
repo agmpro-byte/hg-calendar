@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-05T15:15:19.833147Z",
+  "generated": "2026-06-05T15:20:19.638650Z",
   "date_range": {
     "start": "2026-06-05",
     "end": "2026-06-05"
@@ -35,20 +35,6 @@
   },
   "events": [
     {
-      "id": "00URb00000QPi5JMAT",
-      "category": "service",
-      "resource": "Service/C5",
-      "subject": "Service/C5",
-      "label": "Service/C5 | 17810 | Ramirez - Merced - Basic Free Turf Tune Up and calcium removal",
-      "location": "Ramirez - Merced - Basic Free Turf Tune Up and calcium removal",
-      "start": "2026-06-05T00:00:00.000+0000",
-      "end": "2026-06-05T00:00:00.000+0000",
-      "is_all_day": true,
-      "contact_name": "",
-      "related_name": "17810",
-      "event_type": "Service"
-    },
-    {
       "id": "00URb00000QSc0BMAT",
       "category": "sales",
       "resource": "Tim Duggan",
@@ -77,20 +63,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QIVZSMA5",
-      "category": "sales",
-      "resource": "Steven McIntire",
-      "subject": "Follow Up",
-      "label": "Follow Up | Bonita Way Piedmant",
-      "location": "Bonita Way Piedmant",
-      "start": "2026-06-05T15:00:00.000+0000",
-      "end": "2026-06-05T16:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000QEvdmMAD",
       "category": "time_off",
       "resource": "Mike Wells",
@@ -105,6 +77,34 @@
       "event_type": null
     },
     {
+      "id": "00URb00000QIVZSMA5",
+      "category": "sales",
+      "resource": "Steven McIntire",
+      "subject": "Follow Up",
+      "label": "Follow Up | Bonita Way Piedmant",
+      "location": "Bonita Way Piedmant",
+      "start": "2026-06-05T15:00:00.000+0000",
+      "end": "2026-06-05T16:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QPi5JMAT",
+      "category": "service",
+      "resource": "Service/C5",
+      "subject": "Service/C5",
+      "label": "Service/C5 | 17810 | Ramirez - Merced - Basic Free Turf Tune Up and calcium removal",
+      "location": "Ramirez - Merced - Basic Free Turf Tune Up and calcium removal",
+      "start": "2026-06-05T15:00:00.000+0000",
+      "end": "2026-06-05T23:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17810",
+      "event_type": "Service"
+    },
+    {
       "id": "00URb00000QRsbeMAD",
       "category": "installation",
       "resource": "4 Seasons Greens",
@@ -116,20 +116,6 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Gregory Ruebusch- FY, BY",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QRJkPMAX",
-      "category": "installation",
-      "resource": "Creww 15",
-      "subject": "Creww 15",
-      "label": "Creww 15 | Gomes - Small job | Santa Rosa, 121 sq ft - Use turf on site,  base, GG, camofill, seam new turf to old turf",
-      "location": "Santa Rosa, 121 sq ft - Use turf on site,  base, GG, camofill, seam new turf to old turf",
-      "start": "2026-06-05T15:30:00.000+0000",
-      "end": "2026-06-05T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Gomes - Small job",
       "event_type": null
     },
     {
@@ -147,17 +133,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QSSqPMAX",
+      "id": "00URb00000QRJkPMAX",
       "category": "installation",
-      "resource": "Prestige Turf",
-      "subject": "Prestige Turf",
-      "label": "Prestige Turf | Maya Marquez-BY | Brentwood - 544 sqft, no removal, base, pacific fescue, extra labor, sand",
-      "location": "Brentwood - 544 sqft, no removal, base, pacific fescue, extra labor, sand",
-      "start": "2026-06-05T16:00:00.000+0000",
-      "end": "2026-06-05T23:30:00.000+0000",
+      "resource": "Creww 15",
+      "subject": "Creww 15",
+      "label": "Creww 15 | Gomes - Small job | Santa Rosa, 121 sq ft - Use turf on site,  base, GG, camofill, seam new turf to old turf",
+      "location": "Santa Rosa, 121 sq ft - Use turf on site,  base, GG, camofill, seam new turf to old turf",
+      "start": "2026-06-05T15:30:00.000+0000",
+      "end": "2026-06-05T22:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "Maya Marquez-BY",
+      "related_name": "Gomes - Small job",
       "event_type": null
     },
     {
@@ -172,6 +158,20 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Ottavia Mot- BY",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QSSqPMAX",
+      "category": "installation",
+      "resource": "Prestige Turf",
+      "subject": "Prestige Turf",
+      "label": "Prestige Turf | Maya Marquez-BY | Brentwood - 544 sqft, no removal, base, pacific fescue, extra labor, sand",
+      "location": "Brentwood - 544 sqft, no removal, base, pacific fescue, extra labor, sand",
+      "start": "2026-06-05T16:00:00.000+0000",
+      "end": "2026-06-05T23:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Maya Marquez-BY",
       "event_type": null
     },
     {
@@ -201,20 +201,6 @@
       "contact_name": "",
       "related_name": "",
       "event_type": null
-    },
-    {
-      "id": "00URb00000O1LSnMAN",
-      "category": "service",
-      "resource": "Service/C3",
-      "subject": "Service/C3",
-      "label": "Service/C3 | 17773 | Elk Grove",
-      "location": "Elk Grove",
-      "start": "2026-06-05T17:00:00.000+0000",
-      "end": "2026-06-05T21:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17773",
-      "event_type": "Service"
     },
     {
       "id": "00URb00000O7LbUMAV",
@@ -259,6 +245,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000O1LSnMAN",
+      "category": "service",
+      "resource": "Service/C3",
+      "subject": "Service/C3",
+      "label": "Service/C3 | 17773 | Elk Grove",
+      "location": "Elk Grove",
+      "start": "2026-06-05T17:00:00.000+0000",
+      "end": "2026-06-05T21:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17773",
+      "event_type": "Service"
+    },
+    {
       "id": "00URb00000QLFYGMA5",
       "category": "sales",
       "resource": "Johnny Van Wyk",
@@ -287,31 +287,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QOkXSMA1",
+      "id": "00URb00000QI3N3MAL",
       "category": "sales",
-      "resource": "Chris Loeswick",
+      "resource": "Steven McIntire",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Maritza Soria | Hillsborough",
-      "location": "Hillsborough",
+      "label": "Sales Presentation | Helena Marsh | Novato",
+      "location": "Novato",
       "start": "2026-06-05T18:00:00.000+0000",
       "end": "2026-06-05T20:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Maritza Soria",
-      "related_name": "Maritza Soria-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QI7thMAD",
-      "category": "sales",
-      "resource": "Tim Duggan",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Claire Newland | los Gatos",
-      "location": "los Gatos",
-      "start": "2026-06-05T18:00:00.000+0000",
-      "end": "2026-06-05T20:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Claire Newland",
-      "related_name": "HG Lead - Internet-",
+      "contact_name": "Helena Marsh",
+      "related_name": "Helena Marsh-",
       "event_type": null
     },
     {
@@ -329,17 +315,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QI3N3MAL",
+      "id": "00URb00000QI7thMAD",
       "category": "sales",
-      "resource": "Steven McIntire",
+      "resource": "Tim Duggan",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Helena Marsh | Novato",
-      "location": "Novato",
+      "label": "Sales Presentation | Claire Newland | los Gatos",
+      "location": "los Gatos",
       "start": "2026-06-05T18:00:00.000+0000",
       "end": "2026-06-05T20:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Helena Marsh",
-      "related_name": "Helena Marsh-",
+      "contact_name": "Claire Newland",
+      "related_name": "HG Lead - Internet-",
       "event_type": null
     },
     {
@@ -396,6 +382,20 @@
       "is_all_day": false,
       "contact_name": "Ash Jain",
       "related_name": "Ash Jain-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QOkXSMA1",
+      "category": "sales",
+      "resource": "Chris Loeswick",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Maritza Soria | Hillsborough",
+      "location": "Hillsborough",
+      "start": "2026-06-05T20:00:00.000+0000",
+      "end": "2026-06-05T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Maritza Soria",
+      "related_name": "Maritza Soria-",
       "event_type": null
     },
     {
