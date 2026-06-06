@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-06T16:40:20.705216Z",
+  "generated": "2026-06-06T16:45:19.425575Z",
   "date_range": {
     "start": "2026-06-06",
     "end": "2026-06-06"
@@ -40,6 +40,34 @@
       "event_type": null
     },
     {
+      "id": "00URb00000QVxODMA1",
+      "category": "sales",
+      "resource": "Amber Bandanza",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Mitch Burley-",
+      "location": null,
+      "start": "2026-06-06T08:00:00.000+0000",
+      "end": "2026-06-06T08:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Mitch Burley-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QMAo9MAH",
+      "category": "time_off",
+      "resource": "Sheldon Santos",
+      "subject": "Off",
+      "label": "Off | Stockton",
+      "location": "Stockton",
+      "start": "2026-06-06T14:00:00.000+0000",
+      "end": "2026-06-07T03:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
       "id": "00URb00000PytxqMAB",
       "category": "time_off",
       "resource": "Ray Richards",
@@ -62,20 +90,6 @@
       "location": "Dixon",
       "start": "2026-06-06T14:00:00.000+0000",
       "end": "2026-06-07T03:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QMAo9MAH",
-      "category": "time_off",
-      "resource": "Sheldon Santos",
-      "subject": "Off",
-      "label": "Off | Stockton",
-      "location": "Stockton",
-      "start": "2026-06-06T14:00:00.000+0000",
-      "end": "2026-06-07T03:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
@@ -110,20 +124,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QOCp3MAH",
-      "category": "time_off",
-      "resource": "Chris Loeswick",
-      "subject": "Off",
-      "label": "Off | Pacifica",
-      "location": "Pacifica",
-      "start": "2026-06-06T16:00:00.000+0000",
-      "end": "2026-06-07T04:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000QPfSPMA1",
       "category": "installation",
       "resource": "Green Vision North Bay",
@@ -135,6 +135,20 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "17601",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QOCp3MAH",
+      "category": "time_off",
+      "resource": "Chris Loeswick",
+      "subject": "Off",
+      "label": "Off | Pacifica",
+      "location": "Pacifica",
+      "start": "2026-06-06T16:00:00.000+0000",
+      "end": "2026-06-07T04:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
       "event_type": null
     },
     {
@@ -152,20 +166,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Q47bqMAB",
-      "category": "sales",
-      "resource": "Mike Wells",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Tammy Altfest | Berkeley",
-      "location": "Berkeley",
-      "start": "2026-06-06T17:00:00.000+0000",
-      "end": "2026-06-06T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Tammy Altfest",
-      "related_name": "Tammy Altfest-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000PjJuXMAV",
       "category": "sales",
       "resource": "Clayton Johnson",
@@ -177,6 +177,20 @@
       "is_all_day": false,
       "contact_name": "Steve Gilmour",
       "related_name": "Steve Gilmour-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000Q47bqMAB",
+      "category": "sales",
+      "resource": "Mike Wells",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Tammy Altfest | Berkeley",
+      "location": "Berkeley",
+      "start": "2026-06-06T17:00:00.000+0000",
+      "end": "2026-06-06T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Tammy Altfest",
+      "related_name": "Tammy Altfest-",
       "event_type": null
     },
     {
@@ -222,20 +236,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QM2ozMAD",
-      "category": "sales",
-      "resource": "Mike Wells",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Bulent Mataraci | Danville",
-      "location": "Danville",
-      "start": "2026-06-06T20:00:00.000+0000",
-      "end": "2026-06-06T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Bulent Mataraci",
-      "related_name": "Bulent Mataraci-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000QI681MAD",
       "category": "sales",
       "resource": "Brian Todd",
@@ -250,17 +250,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QRdmJMAT",
+      "id": "00URb00000QM2ozMAD",
       "category": "sales",
-      "resource": "Johnny Van Wyk",
+      "resource": "Mike Wells",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Archana Thube | Sunnyvale",
-      "location": "Sunnyvale",
-      "start": "2026-06-06T21:00:00.000+0000",
-      "end": "2026-06-06T23:00:00.000+0000",
+      "label": "Sales Presentation | Bulent Mataraci | Danville",
+      "location": "Danville",
+      "start": "2026-06-06T20:00:00.000+0000",
+      "end": "2026-06-06T22:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Archana Thube",
-      "related_name": "Archana Thube-",
+      "contact_name": "Bulent Mataraci",
+      "related_name": "Bulent Mataraci-",
       "event_type": null
     },
     {
@@ -275,6 +275,20 @@
       "is_all_day": false,
       "contact_name": "Sangsook Cho",
       "related_name": "Sangsook Cho-Costco-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QRdmJMAT",
+      "category": "sales",
+      "resource": "Johnny Van Wyk",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Archana Thube | Sunnyvale",
+      "location": "Sunnyvale",
+      "start": "2026-06-06T21:00:00.000+0000",
+      "end": "2026-06-06T23:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Archana Thube",
+      "related_name": "Archana Thube-",
       "event_type": null
     },
     {
