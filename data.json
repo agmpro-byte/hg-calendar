@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-08T13:55:19.602894Z",
+  "generated": "2026-06-08T14:00:25.820611Z",
   "date_range": {
     "start": "2026-06-08",
     "end": "2026-06-08"
@@ -377,6 +377,34 @@
       "event_type": "Service"
     },
     {
+      "id": "00URb00000QOUScMAP",
+      "category": "sales",
+      "resource": "Johnny Van Wyk",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Ming Lai | Sunnyvale",
+      "location": "Sunnyvale",
+      "start": "2026-06-08T17:00:00.000+0000",
+      "end": "2026-06-08T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Ming Lai",
+      "related_name": "Ming Lai-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QRw0wMAD",
+      "category": "sales",
+      "resource": "Anthony Hall",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Edward Garcia | San Francisco-Anthony-Csotco",
+      "location": "San Francisco-Anthony-Csotco",
+      "start": "2026-06-08T17:00:00.000+0000",
+      "end": "2026-06-08T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Edward Garcia",
+      "related_name": "Edward Garcia-Costco-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000QLvxBMAT",
       "category": "service",
       "resource": "Service/C5",
@@ -405,48 +433,6 @@
       "event_type": "Service"
     },
     {
-      "id": "00URb00000QRw0wMAD",
-      "category": "sales",
-      "resource": "Anthony Hall",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Edward Garcia | San Francisco-Anthony-Csotco",
-      "location": "San Francisco-Anthony-Csotco",
-      "start": "2026-06-08T17:00:00.000+0000",
-      "end": "2026-06-08T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Edward Garcia",
-      "related_name": "Edward Garcia-Costco-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QOUScMAP",
-      "category": "sales",
-      "resource": "Johnny Van Wyk",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Ming Lai | Sunnyvale",
-      "location": "Sunnyvale",
-      "start": "2026-06-08T17:00:00.000+0000",
-      "end": "2026-06-08T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Ming Lai",
-      "related_name": "Ming Lai-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QWhSfMAL",
-      "category": "sales",
-      "resource": "Mike Wells",
-      "subject": "Customer Meeting",
-      "label": "Customer Meeting | Martinez",
-      "location": "Martinez",
-      "start": "2026-06-08T18:00:00.000+0000",
-      "end": "2026-06-08T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000QLHOfMAP",
       "category": "sales",
       "resource": "Tim Duggan",
@@ -458,6 +444,20 @@
       "is_all_day": false,
       "contact_name": "Ria Kalmar",
       "related_name": "Ria Kalmar-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QU5JSMA1",
+      "category": "sales",
+      "resource": "Mike Wells",
+      "subject": "Wrap-Up",
+      "label": "Wrap-Up | Brentwood",
+      "location": "Brentwood",
+      "start": "2026-06-08T19:00:00.000+0000",
+      "end": "2026-06-08T20:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
       "event_type": null
     },
     {
@@ -487,20 +487,6 @@
       "contact_name": "",
       "related_name": "17842",
       "event_type": "Service"
-    },
-    {
-      "id": "00URb00000QU5JSMA1",
-      "category": "sales",
-      "resource": "Mike Wells",
-      "subject": "Wrap-Up",
-      "label": "Wrap-Up | Brentwood",
-      "location": "Brentwood",
-      "start": "2026-06-08T19:00:00.000+0000",
-      "end": "2026-06-08T20:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
     },
     {
       "id": "00URb00000QUHhCMAX",
@@ -545,6 +531,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000QWhSfMAL",
+      "category": "sales",
+      "resource": "Mike Wells",
+      "subject": "Customer Meeting",
+      "label": "Customer Meeting | Martinez",
+      "location": "Martinez",
+      "start": "2026-06-08T21:00:00.000+0000",
+      "end": "2026-06-08T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
       "id": "00URb00000PxRU7MAN",
       "category": "service",
       "resource": "Service/C4",
@@ -573,20 +573,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QRVf4MAH",
-      "category": "sales",
-      "resource": "Steven McIntire",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Ahlam Abodi | San ramon-Costco-Steven McI",
-      "location": "San ramon-Costco-Steven McI",
-      "start": "2026-06-08T23:00:00.000+0000",
-      "end": "2026-06-09T01:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Ahlam Abodi",
-      "related_name": "Ahlam Abodi-Costco-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000QRrkPMAT",
       "category": "sales",
       "resource": "Chris Loeswick",
@@ -598,6 +584,20 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Kris and Vanessa Vaz-Front Yard",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QRVf4MAH",
+      "category": "sales",
+      "resource": "Steven McIntire",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Ahlam Abodi | San ramon-Costco-Steven McI",
+      "location": "San ramon-Costco-Steven McI",
+      "start": "2026-06-08T23:00:00.000+0000",
+      "end": "2026-06-09T01:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Ahlam Abodi",
+      "related_name": "Ahlam Abodi-Costco-",
       "event_type": null
     }
   ]
