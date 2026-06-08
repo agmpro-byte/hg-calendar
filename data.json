@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-08T22:45:18.944522Z",
+  "generated": "2026-06-08T22:50:20.128749Z",
   "date_range": {
     "start": "2026-06-08",
     "end": "2026-06-08"
@@ -42,20 +42,6 @@
   },
   "events": [
     {
-      "id": "00URb00000P1DWUMA3",
-      "category": "sales",
-      "resource": "John Throne",
-      "subject": "Ray Richards",
-      "label": "Ray Richards | Standard Time OFF",
-      "location": "Standard Time OFF",
-      "start": "2026-06-08T00:00:00.000+0000",
-      "end": "2026-06-08T00:00:00.000+0000",
-      "is_all_day": true,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000QYDK2MAP",
       "category": "installation",
       "resource": "Sheldons Landscaping 2",
@@ -81,6 +67,34 @@
       "is_all_day": true,
       "contact_name": "",
       "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000P1DWUMA3",
+      "category": "sales",
+      "resource": "John Throne",
+      "subject": "Ray Richards",
+      "label": "Ray Richards | Standard Time OFF",
+      "location": "Standard Time OFF",
+      "start": "2026-06-08T00:00:00.000+0000",
+      "end": "2026-06-08T00:00:00.000+0000",
+      "is_all_day": true,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QZEHGMA5",
+      "category": "sales",
+      "resource": "Mike Wells",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Susan Hammond-",
+      "location": null,
+      "start": "2026-06-08T08:00:00.000+0000",
+      "end": "2026-06-08T08:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Susan Hammond-",
       "event_type": null
     },
     {
@@ -112,37 +126,9 @@
       "event_type": null
     },
     {
-      "id": "00URb00000P15XNMAZ",
-      "category": "time_off",
-      "resource": "Steve Meadows",
-      "subject": "Standard Time Off",
-      "label": "Standard Time Off",
-      "location": null,
-      "start": "2026-06-08T15:00:00.000+0000",
-      "end": "2026-06-09T03:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000P1DgAMAV",
       "category": "time_off",
       "resource": "Ray Richards",
-      "subject": "Standard Time Off",
-      "label": "Standard Time Off",
-      "location": null,
-      "start": "2026-06-08T15:00:00.000+0000",
-      "end": "2026-06-09T03:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000P1KheMAF",
-      "category": "time_off",
-      "resource": "Mike Wells",
       "subject": "Standard Time Off",
       "label": "Standard Time Off",
       "location": null,
@@ -168,6 +154,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000P1KheMAF",
+      "category": "time_off",
+      "resource": "Mike Wells",
+      "subject": "Standard Time Off",
+      "label": "Standard Time Off",
+      "location": null,
+      "start": "2026-06-08T15:00:00.000+0000",
+      "end": "2026-06-09T03:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
       "id": "00U1S000008Qi6QUAS",
       "category": "time_off",
       "resource": "Amber Bandanza",
@@ -179,6 +179,20 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QOuuvMAD",
+      "category": "installation",
+      "resource": "Creww 12",
+      "subject": "Creww 12",
+      "label": "Creww 12 | 17820 | Oakley - Angela Peluso - Sprinklers and rocks",
+      "location": "Oakley - Angela Peluso - Sprinklers and rocks",
+      "start": "2026-06-08T15:00:00.000+0000",
+      "end": "2026-06-08T23:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17820",
       "event_type": null
     },
     {
@@ -224,45 +238,31 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QOuuvMAD",
-      "category": "installation",
-      "resource": "Creww 12",
-      "subject": "Creww 12",
-      "label": "Creww 12 | 17820 | Oakley - Angela Peluso - Sprinklers and rocks",
-      "location": "Oakley - Angela Peluso - Sprinklers and rocks",
+      "id": "00URb00000P15XNMAZ",
+      "category": "time_off",
+      "resource": "Steve Meadows",
+      "subject": "Standard Time Off",
+      "label": "Standard Time Off",
+      "location": null,
       "start": "2026-06-08T15:00:00.000+0000",
-      "end": "2026-06-08T23:30:00.000+0000",
+      "end": "2026-06-09T03:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "17820",
+      "related_name": "",
       "event_type": null
     },
     {
-      "id": "00URb00000QV6ADMA1",
+      "id": "00URb00000PoYePMAV",
       "category": "installation",
-      "resource": "Creww 16",
-      "subject": "Creww 16",
-      "label": "Creww 16 | Lynbrook HS Modernization Ph3 Bldg 500 & 600 | San Jose - 2076 sqft, removal of old turf, partial base, camofill, PL-555",
-      "location": "San Jose - 2076 sqft, removal of old turf, partial base, camofill, PL-555",
+      "resource": "Crew 3",
+      "subject": "Crew 3",
+      "label": "Crew 3 | John and Louise McKeon-Back Yard | SANTA CLARA - 477 SQ FT,REMOVAL,BASE,AIR DRAIN,MAXX PET,OPTIFILL",
+      "location": "SANTA CLARA - 477 SQ FT,REMOVAL,BASE,AIR DRAIN,MAXX PET,OPTIFILL",
       "start": "2026-06-08T15:30:00.000+0000",
-      "end": "2026-06-17T23:00:00.000+0000",
+      "end": "2026-06-09T23:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "Lynbrook HS Modernization Ph3 Bldg 500 & 600",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QICwbMAH",
-      "category": "installation",
-      "resource": "Prestige Turf",
-      "subject": "Prestige Turf",
-      "label": "Prestige Turf | Scott Fitzpatrick- BY | Livermore - 348 sqft, removal, base, maxx blend, camofill, steel",
-      "location": "Livermore - 348 sqft, removal, base, maxx blend, camofill, steel",
-      "start": "2026-06-08T15:30:00.000+0000",
-      "end": "2026-06-08T23:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Scott Fitzpatrick- BY",
+      "related_name": "John and Louise McKeon-Back Yard",
       "event_type": null
     },
     {
@@ -308,17 +308,31 @@
       "event_type": null
     },
     {
-      "id": "00URb00000PoYePMAV",
+      "id": "00URb00000QV6ADMA1",
       "category": "installation",
-      "resource": "Crew 3",
-      "subject": "Crew 3",
-      "label": "Crew 3 | John and Louise McKeon-Back Yard | SANTA CLARA - 477 SQ FT,REMOVAL,BASE,AIR DRAIN,MAXX PET,OPTIFILL",
-      "location": "SANTA CLARA - 477 SQ FT,REMOVAL,BASE,AIR DRAIN,MAXX PET,OPTIFILL",
+      "resource": "Creww 16",
+      "subject": "Creww 16",
+      "label": "Creww 16 | Lynbrook HS Modernization Ph3 Bldg 500 & 600 | San Jose - 2076 sqft, removal of old turf, partial base, camofill, PL-555",
+      "location": "San Jose - 2076 sqft, removal of old turf, partial base, camofill, PL-555",
       "start": "2026-06-08T15:30:00.000+0000",
-      "end": "2026-06-09T23:30:00.000+0000",
+      "end": "2026-06-17T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "John and Louise McKeon-Back Yard",
+      "related_name": "Lynbrook HS Modernization Ph3 Bldg 500 & 600",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QICwbMAH",
+      "category": "installation",
+      "resource": "Prestige Turf",
+      "subject": "Prestige Turf",
+      "label": "Prestige Turf | Scott Fitzpatrick- BY | Livermore - 348 sqft, removal, base, maxx blend, camofill, steel",
+      "location": "Livermore - 348 sqft, removal, base, maxx blend, camofill, steel",
+      "start": "2026-06-08T15:30:00.000+0000",
+      "end": "2026-06-08T23:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Scott Fitzpatrick- BY",
       "event_type": null
     },
     {
@@ -350,20 +364,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QTu33MAD",
-      "category": "sales",
-      "resource": "Tim Duggan",
-      "subject": "Site Check",
-      "label": "Site Check | Wrone in Stanford ppg w/ Bonnie",
-      "location": "Wrone in Stanford ppg w/ Bonnie",
-      "start": "2026-06-08T16:30:00.000+0000",
-      "end": "2026-06-08T17:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000PhBbKMAV",
       "category": "installation",
       "resource": "Green Vision North Bay",
@@ -378,6 +378,34 @@
       "event_type": null
     },
     {
+      "id": "00URb00000QTu33MAD",
+      "category": "sales",
+      "resource": "Tim Duggan",
+      "subject": "Site Check",
+      "label": "Site Check | Wrone in Stanford ppg w/ Bonnie",
+      "location": "Wrone in Stanford ppg w/ Bonnie",
+      "start": "2026-06-08T16:30:00.000+0000",
+      "end": "2026-06-08T17:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QLvxBMAT",
+      "category": "service",
+      "resource": "Service/C5",
+      "subject": "Service/C5",
+      "label": "Service/C5 | 17982 | Los Gatos-Assessment-17982- Davis",
+      "location": "Los Gatos-Assessment-17982- Davis",
+      "start": "2026-06-08T17:00:00.000+0000",
+      "end": "2026-06-08T18:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17982",
+      "event_type": "Assessment"
+    },
+    {
       "id": "00URb00000QOUScMAP",
       "category": "sales",
       "resource": "Johnny Van Wyk",
@@ -389,6 +417,20 @@
       "is_all_day": false,
       "contact_name": "Ming Lai",
       "related_name": "Ming Lai-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QRw0wMAD",
+      "category": "sales",
+      "resource": "Anthony Hall",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Edward Garcia | San Francisco-Anthony-Csotco",
+      "location": "San Francisco-Anthony-Csotco",
+      "start": "2026-06-08T17:00:00.000+0000",
+      "end": "2026-06-08T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Edward Garcia",
+      "related_name": "Edward Garcia-Costco-",
       "event_type": null
     },
     {
@@ -406,20 +448,6 @@
       "event_type": "Service"
     },
     {
-      "id": "00URb00000QRw0wMAD",
-      "category": "sales",
-      "resource": "Anthony Hall",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Edward Garcia | San Francisco-Anthony-Csotco",
-      "location": "San Francisco-Anthony-Csotco",
-      "start": "2026-06-08T17:00:00.000+0000",
-      "end": "2026-06-08T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Edward Garcia",
-      "related_name": "Edward Garcia-Costco-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000IZdycMAD",
       "category": "service",
       "resource": "Service/C3",
@@ -434,20 +462,6 @@
       "event_type": "Service"
     },
     {
-      "id": "00URb00000QLvxBMAT",
-      "category": "service",
-      "resource": "Service/C5",
-      "subject": "Service/C5",
-      "label": "Service/C5 | 17982 | Los Gatos-Assessment-17982- Davis",
-      "location": "Los Gatos-Assessment-17982- Davis",
-      "start": "2026-06-08T17:00:00.000+0000",
-      "end": "2026-06-08T18:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17982",
-      "event_type": "Assessment"
-    },
-    {
       "id": "00URb00000QLHOfMAP",
       "category": "sales",
       "resource": "Tim Duggan",
@@ -460,6 +474,20 @@
       "contact_name": "Ria Kalmar",
       "related_name": "Ria Kalmar-",
       "event_type": null
+    },
+    {
+      "id": "00URb00000QUmgAMAT",
+      "category": "service",
+      "resource": "Service/C5",
+      "subject": "Service/C5",
+      "label": "Service/C5 | 17842 | Marta Olds-San Jose-sinking",
+      "location": "Marta Olds-San Jose-sinking",
+      "start": "2026-06-08T19:00:00.000+0000",
+      "end": "2026-06-08T23:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17842",
+      "event_type": "Service"
     },
     {
       "id": "00URb00000QPPc9MAH",
@@ -490,20 +518,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QUmgAMAT",
-      "category": "service",
-      "resource": "Service/C5",
-      "subject": "Service/C5",
-      "label": "Service/C5 | 17842 | Marta Olds-San Jose-sinking",
-      "location": "Marta Olds-San Jose-sinking",
-      "start": "2026-06-08T19:00:00.000+0000",
-      "end": "2026-06-08T23:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17842",
-      "event_type": "Service"
-    },
-    {
       "id": "00URb00000QUHhCMAX",
       "category": "sales",
       "resource": "Mike Wells",
@@ -515,20 +529,6 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QS8gPMAT",
-      "category": "sales",
-      "resource": "Steven McIntire",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Polly Koo | San Ramon-Costco",
-      "location": "San Ramon-Costco",
-      "start": "2026-06-08T20:00:00.000+0000",
-      "end": "2026-06-08T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Polly Koo",
-      "related_name": "Polly Koo-Costco-",
       "event_type": null
     },
     {
@@ -557,6 +557,20 @@
       "is_all_day": false,
       "contact_name": "Ashok Venkatachar",
       "related_name": "Ashok Venkatachar-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QS8gPMAT",
+      "category": "sales",
+      "resource": "Steven McIntire",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Polly Koo | San Ramon-Costco",
+      "location": "San Ramon-Costco",
+      "start": "2026-06-08T20:00:00.000+0000",
+      "end": "2026-06-08T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Polly Koo",
+      "related_name": "Polly Koo-Costco-",
       "event_type": null
     },
     {
@@ -602,20 +616,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QRrkPMAT",
-      "category": "sales",
-      "resource": "Chris Loeswick",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Kris and Vanessa Vaz-Front Yard | Half Moon Bay",
-      "location": "Half Moon Bay",
-      "start": "2026-06-08T23:00:00.000+0000",
-      "end": "2026-06-09T01:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Kris and Vanessa Vaz-Front Yard",
-      "event_type": null
-    },
-    {
       "id": "00URb00000QRVf4MAH",
       "category": "sales",
       "resource": "Steven McIntire",
@@ -627,6 +627,20 @@
       "is_all_day": false,
       "contact_name": "Ahlam Abodi",
       "related_name": "Ahlam Abodi-Costco-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QRrkPMAT",
+      "category": "sales",
+      "resource": "Chris Loeswick",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Kris and Vanessa Vaz-Front Yard | Half Moon Bay",
+      "location": "Half Moon Bay",
+      "start": "2026-06-08T23:00:00.000+0000",
+      "end": "2026-06-09T01:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Kris and Vanessa Vaz-Front Yard",
       "event_type": null
     }
   ]
