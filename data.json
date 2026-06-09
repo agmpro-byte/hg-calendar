@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-09T16:20:18.588983Z",
+  "generated": "2026-06-09T16:25:19.677148Z",
   "date_range": {
     "start": "2026-06-09",
     "end": "2026-06-09"
@@ -21,6 +21,7 @@
     ],
     "installation": [
       "Creww 12",
+      "Green Vision North Bay",
       "Prestige Turf",
       "Swift Artificial Turf"
     ],
@@ -31,6 +32,34 @@
     ]
   },
   "events": [
+    {
+      "id": "00URb00000QZLiXMAX",
+      "category": "installation",
+      "resource": "Creww 12",
+      "subject": "Creww 12",
+      "label": "Creww 12 | NO JOB",
+      "location": "NO JOB",
+      "start": "2026-06-09T00:00:00.000+0000",
+      "end": "2026-06-09T00:00:00.000+0000",
+      "is_all_day": true,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QapReMAJ",
+      "category": "installation",
+      "resource": "Green Vision North Bay",
+      "subject": "Green Vision North Bay",
+      "label": "Green Vision North Bay | NO JOB",
+      "location": "NO JOB",
+      "start": "2026-06-09T00:00:00.000+0000",
+      "end": "2026-06-09T00:00:00.000+0000",
+      "is_all_day": true,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
     {
       "id": "00URb00000QZLSPMA5",
       "category": "installation",
@@ -52,20 +81,6 @@
       "subject": "Sherrie Feinstein",
       "label": "Sherrie Feinstein | OFF",
       "location": "OFF",
-      "start": "2026-06-09T00:00:00.000+0000",
-      "end": "2026-06-09T00:00:00.000+0000",
-      "is_all_day": true,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QZLiXMAX",
-      "category": "installation",
-      "resource": "Creww 12",
-      "subject": "Creww 12",
-      "label": "Creww 12 | NO JOB",
-      "location": "NO JOB",
       "start": "2026-06-09T00:00:00.000+0000",
       "end": "2026-06-09T00:00:00.000+0000",
       "is_all_day": true,
@@ -130,18 +145,18 @@
       "event_type": null
     },
     {
-      "id": "00URb00000O3u33MAB",
-      "category": "service",
-      "resource": "Service/C3",
-      "subject": "Service/C3",
-      "label": "Service/C3 | 17776 | Escalon",
-      "location": "Escalon",
+      "id": "00URb00000QSuwLMAT",
+      "category": "sales",
+      "resource": "Mike Wells",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Colin Roach | Pleasant Hill",
+      "location": "Pleasant Hill",
       "start": "2026-06-09T17:00:00.000+0000",
-      "end": "2026-06-09T20:00:00.000+0000",
+      "end": "2026-06-09T19:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17776",
-      "event_type": "Service"
+      "contact_name": "Colin Roach",
+      "related_name": "Colin Roach-",
+      "event_type": null
     },
     {
       "id": "00URb00000ODPUDMA5",
@@ -200,18 +215,18 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QSuwLMAT",
-      "category": "sales",
-      "resource": "Mike Wells",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Colin Roach | Pleasant Hill",
-      "location": "Pleasant Hill",
+      "id": "00URb00000O3u33MAB",
+      "category": "service",
+      "resource": "Service/C3",
+      "subject": "Service/C3",
+      "label": "Service/C3 | 17776 | Escalon",
+      "location": "Escalon",
       "start": "2026-06-09T17:00:00.000+0000",
-      "end": "2026-06-09T19:00:00.000+0000",
+      "end": "2026-06-09T20:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Colin Roach",
-      "related_name": "Colin Roach-",
-      "event_type": null
+      "contact_name": "",
+      "related_name": "17776",
+      "event_type": "Service"
     },
     {
       "id": "00URb00000QY8KLMA1",
@@ -284,34 +299,6 @@
       "event_type": "Service"
     },
     {
-      "id": "00URb00000QSryTMAT",
-      "category": "sales",
-      "resource": "Brian Todd",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Ahmad Erjas | Lathrop-Costco-Brian",
-      "location": "Lathrop-Costco-Brian",
-      "start": "2026-06-09T20:00:00.000+0000",
-      "end": "2026-06-09T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Ahmad Erjas",
-      "related_name": "Ahmad Erjas-Costco-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000PjHcfMAF",
-      "category": "sales",
-      "resource": "Mike Wells",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Steve Gilmour | Pleasanton",
-      "location": "Pleasanton",
-      "start": "2026-06-09T20:00:00.000+0000",
-      "end": "2026-06-09T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Steve Gilmour",
-      "related_name": "Steve Gilmour-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000QYAAyMAP",
       "category": "time_off",
       "resource": "Anthony Hall",
@@ -354,6 +341,34 @@
       "event_type": null
     },
     {
+      "id": "00URb00000QSryTMAT",
+      "category": "sales",
+      "resource": "Brian Todd",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Ahmad Erjas | Lathrop-Costco-Brian",
+      "location": "Lathrop-Costco-Brian",
+      "start": "2026-06-09T20:00:00.000+0000",
+      "end": "2026-06-09T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Ahmad Erjas",
+      "related_name": "Ahmad Erjas-Costco-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000PjHcfMAF",
+      "category": "sales",
+      "resource": "Mike Wells",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Steve Gilmour | Pleasanton",
+      "location": "Pleasanton",
+      "start": "2026-06-09T20:00:00.000+0000",
+      "end": "2026-06-09T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Steve Gilmour",
+      "related_name": "Steve Gilmour-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000QDTzjMAH",
       "category": "sales",
       "resource": "Chris Loeswick",
@@ -382,6 +397,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000QW2kUMAT",
+      "category": "time_off",
+      "resource": "Johnny Van Wyk",
+      "subject": "Off",
+      "label": "Off | SAN JOSE",
+      "location": "SAN JOSE",
+      "start": "2026-06-09T23:00:00.000+0000",
+      "end": "2026-06-10T03:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
       "id": "00URb00000QUKX3MAP",
       "category": "sales",
       "resource": "Steven McIntire",
@@ -407,20 +436,6 @@
       "is_all_day": false,
       "contact_name": "Sharon Arnone",
       "related_name": "Sharon Arnone-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QW2kUMAT",
-      "category": "time_off",
-      "resource": "Johnny Van Wyk",
-      "subject": "Off",
-      "label": "Off | SAN JOSE",
-      "location": "SAN JOSE",
-      "start": "2026-06-09T23:00:00.000+0000",
-      "end": "2026-06-10T03:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
       "event_type": null
     },
     {
