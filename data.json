@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-10T19:00:27.694806Z",
+  "generated": "2026-06-10T19:05:19.350964Z",
   "date_range": {
     "start": "2026-06-10",
     "end": "2026-06-10"
@@ -65,6 +65,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000Qdm5rMAB",
+      "category": "sales",
+      "resource": "Amber Bandanza",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Amanda Brenner-",
+      "location": null,
+      "start": "2026-06-10T08:00:00.000+0000",
+      "end": "2026-06-10T08:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Amanda Brenner-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000QcDJpMAN",
       "category": "sales",
       "resource": "Tim Duggan",
@@ -121,31 +135,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QbJftMAF",
+      "id": "00URb00000Qb6h0MAB",
       "category": "installation",
-      "resource": "4 Seasons Greens",
-      "subject": "4 Seasons Greens",
-      "label": "4 Seasons Greens | Bruce McDonald- FY | San Jose, 806 Heavenly 70, Weeds, Removal, Base, PT Lumber, Optifull, iver Rock, Weed Barrier",
-      "location": "San Jose, 806 Heavenly 70, Weeds, Removal, Base, PT Lumber, Optifull, iver Rock, Weed Barrier",
+      "resource": "Green Vision-Ernesto",
+      "subject": "Green Vision-Ernesto",
+      "label": "Green Vision-Ernesto | Aidan Del Canizo- Back Yard 2 | SAN MATEO - 304 SQ FT, REMOVAL,BASE,STEEL EDGING,WEED BARRIER,CORONADO FLO,WONDERFILL",
+      "location": "SAN MATEO - 304 SQ FT, REMOVAL,BASE,STEEL EDGING,WEED BARRIER,CORONADO FLO,WONDERFILL",
       "start": "2026-06-10T15:30:00.000+0000",
-      "end": "2026-06-10T23:00:00.000+0000",
+      "end": "2026-06-11T00:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "Bruce McDonald- FY",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QbTnHMAV",
-      "category": "installation",
-      "resource": "Green Vision North Bay",
-      "subject": "Green Vision North Bay",
-      "label": "Green Vision North Bay | Tim and Cheryl McGuire | San Jose, 320 PPG, 121 Envy lawn play, Removal, Remove putting green, remove fringe, Base, refresh existing base, 73 ft aluminum, 4 cups, flags, sticks, hole covers, Putting green sand, premier sand",
-      "location": "San Jose, 320 PPG, 121 Envy lawn play, Removal, Remove putting green, remove fringe, Base, refresh existing base, 73 ft aluminum, 4 cups, flags, sticks, hole covers, Putting green sand, premier sand",
-      "start": "2026-06-10T15:30:00.000+0000",
-      "end": "2026-06-12T23:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Tim and Cheryl McGuire",
+      "related_name": "Aidan Del Canizo- Back Yard 2",
       "event_type": null
     },
     {
@@ -163,45 +163,31 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Qb6XKMAZ",
+      "id": "00URb00000QbTnHMAV",
       "category": "installation",
-      "resource": "Swift Artificial Turf",
-      "subject": "Swift Artificial Turf",
-      "label": "Swift Artificial Turf | Richard Campos- | MANTECA - 150 SQ FT, REMOVAL,BASE,2X4 NAILER BOARD,AIR DRAIN,STEEL EDGING,CORONADO PET,CAMOFILL",
-      "location": "MANTECA - 150 SQ FT, REMOVAL,BASE,2X4 NAILER BOARD,AIR DRAIN,STEEL EDGING,CORONADO PET,CAMOFILL",
+      "resource": "Green Vision North Bay",
+      "subject": "Green Vision North Bay",
+      "label": "Green Vision North Bay | Tim and Cheryl McGuire | San Jose, 320 PPG, 121 Envy lawn play, Removal, Remove putting green, remove fringe, Base, refresh existing base, 73 ft aluminum, 4 cups, flags, sticks, hole covers, Putting green sand, premier sand",
+      "location": "San Jose, 320 PPG, 121 Envy lawn play, Removal, Remove putting green, remove fringe, Base, refresh existing base, 73 ft aluminum, 4 cups, flags, sticks, hole covers, Putting green sand, premier sand",
       "start": "2026-06-10T15:30:00.000+0000",
-      "end": "2026-06-11T23:30:00.000+0000",
+      "end": "2026-06-12T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "Richard Campos-",
+      "related_name": "Tim and Cheryl McGuire",
       "event_type": null
     },
     {
-      "id": "00URb00000Qb6h0MAB",
+      "id": "00URb00000QbJftMAF",
       "category": "installation",
-      "resource": "Green Vision-Ernesto",
-      "subject": "Green Vision-Ernesto",
-      "label": "Green Vision-Ernesto | Aidan Del Canizo- Back Yard 2 | SAN MATEO - 304 SQ FT, REMOVAL,BASE,STEEL EDGING,WEED BARRIER,CORONADO FLO,WONDERFILL",
-      "location": "SAN MATEO - 304 SQ FT, REMOVAL,BASE,STEEL EDGING,WEED BARRIER,CORONADO FLO,WONDERFILL",
+      "resource": "4 Seasons Greens",
+      "subject": "4 Seasons Greens",
+      "label": "4 Seasons Greens | Bruce McDonald- FY | San Jose, 806 Heavenly 70, Weeds, Removal, Base, PT Lumber, Optifull, iver Rock, Weed Barrier",
+      "location": "San Jose, 806 Heavenly 70, Weeds, Removal, Base, PT Lumber, Optifull, iver Rock, Weed Barrier",
       "start": "2026-06-10T15:30:00.000+0000",
-      "end": "2026-06-11T00:00:00.000+0000",
+      "end": "2026-06-10T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "Aidan Del Canizo- Back Yard 2",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QbGQFMA3",
-      "category": "installation",
-      "resource": "Sheldons Landscaping 2",
-      "subject": "Sheldons Landscaping 2",
-      "label": "Sheldons Landscaping 2 | Sam Harris-Back Yard-Phase 2 | Granite Bay, Multiple Putting greens and Sand traps with turf, 1278 PPG, 343 White PL929, 1437 Coronado, 1031 Coronado pet, gg, Partial removal, 10 cups, flags, sticks, hole covers, Putting Green Sand, Regular sand, 460 ft steel edge, 3 Inch Base, 100 sq",
-      "location": "Granite Bay, Multiple Putting greens and Sand traps with turf, 1278 PPG, 343 White PL929, 1437 Coronado, 1031 Coronado pet, gg, Partial removal, 10 cups, flags, sticks, hole covers, Putting Green Sand, Regular sand, 460 ft steel edge, 3 Inch Base, 100 sq",
-      "start": "2026-06-10T15:30:00.000+0000",
-      "end": "2026-06-23T22:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Sam Harris-Back Yard-Phase 2",
+      "related_name": "Bruce McDonald- FY",
       "event_type": null
     },
     {
@@ -219,6 +205,34 @@
       "event_type": null
     },
     {
+      "id": "00URb00000QbGQFMA3",
+      "category": "installation",
+      "resource": "Sheldons Landscaping 2",
+      "subject": "Sheldons Landscaping 2",
+      "label": "Sheldons Landscaping 2 | Sam Harris-Back Yard-Phase 2 | Granite Bay, Multiple Putting greens and Sand traps with turf, 1278 PPG, 343 White PL929, 1437 Coronado, 1031 Coronado pet, gg, Partial removal, 10 cups, flags, sticks, hole covers, Putting Green Sand, Regular sand, 460 ft steel edge, 3 Inch Base, 100 sq",
+      "location": "Granite Bay, Multiple Putting greens and Sand traps with turf, 1278 PPG, 343 White PL929, 1437 Coronado, 1031 Coronado pet, gg, Partial removal, 10 cups, flags, sticks, hole covers, Putting Green Sand, Regular sand, 460 ft steel edge, 3 Inch Base, 100 sq",
+      "start": "2026-06-10T15:30:00.000+0000",
+      "end": "2026-06-23T22:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Sam Harris-Back Yard-Phase 2",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000Qb6XKMAZ",
+      "category": "installation",
+      "resource": "Swift Artificial Turf",
+      "subject": "Swift Artificial Turf",
+      "label": "Swift Artificial Turf | Richard Campos- | MANTECA - 150 SQ FT, REMOVAL,BASE,2X4 NAILER BOARD,AIR DRAIN,STEEL EDGING,CORONADO PET,CAMOFILL",
+      "location": "MANTECA - 150 SQ FT, REMOVAL,BASE,2X4 NAILER BOARD,AIR DRAIN,STEEL EDGING,CORONADO PET,CAMOFILL",
+      "start": "2026-06-10T15:30:00.000+0000",
+      "end": "2026-06-11T23:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Richard Campos-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000QSq4jMAD",
       "category": "installation",
       "resource": "Bedrock Construction",
@@ -230,6 +244,34 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Sandra Andrade- BY",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QRhhpMAD",
+      "category": "sales",
+      "resource": "Ray Richards",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Linda Cruickchin | Brentwood",
+      "location": "Brentwood",
+      "start": "2026-06-10T17:00:00.000+0000",
+      "end": "2026-06-10T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Linda Cruickchin",
+      "related_name": "Linda Cruickchin-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QRmDXMA1",
+      "category": "sales",
+      "resource": "Brian Todd",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Christina Gutierrez | Riverbank-Costco-Brian",
+      "location": "Riverbank-Costco-Brian",
+      "start": "2026-06-10T17:00:00.000+0000",
+      "end": "2026-06-10T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Christina Gutierrez",
+      "related_name": "Christina Gutierrez-Costco-",
       "event_type": null
     },
     {
@@ -261,18 +303,18 @@
       "event_type": "Assessment"
     },
     {
-      "id": "00URb00000P4luoMAB",
-      "category": "service",
-      "resource": "Service/C3",
-      "subject": "Service/C3",
-      "label": "Service/C3 | 17867 | San Jose-Premium Putting Green Service-17867",
-      "location": "San Jose-Premium Putting Green Service-17867",
+      "id": "00URb00000QbUD4MAN",
+      "category": "sales",
+      "resource": "Amber Bandanza",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Reza Jahanbani | San Jose",
+      "location": "San Jose",
       "start": "2026-06-10T17:00:00.000+0000",
-      "end": "2026-06-10T20:00:00.000+0000",
+      "end": "2026-06-10T19:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17867",
-      "event_type": "Service"
+      "contact_name": "Reza Jahanbani",
+      "related_name": "Reza Jahanbani-",
+      "event_type": null
     },
     {
       "id": "00URb00000PSQxGMAX",
@@ -289,46 +331,18 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QbUD4MAN",
-      "category": "sales",
-      "resource": "Amber Bandanza",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Reza Jahanbani | San Jose",
-      "location": "San Jose",
+      "id": "00URb00000P4luoMAB",
+      "category": "service",
+      "resource": "Service/C3",
+      "subject": "Service/C3",
+      "label": "Service/C3 | 17867 | San Jose-Premium Putting Green Service-17867",
+      "location": "San Jose-Premium Putting Green Service-17867",
       "start": "2026-06-10T17:00:00.000+0000",
-      "end": "2026-06-10T19:00:00.000+0000",
+      "end": "2026-06-10T20:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Reza Jahanbani",
-      "related_name": "Reza Jahanbani-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QRhhpMAD",
-      "category": "sales",
-      "resource": "Ray Richards",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Linda Cruickchin | Brentwood",
-      "location": "Brentwood",
-      "start": "2026-06-10T17:00:00.000+0000",
-      "end": "2026-06-10T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Linda Cruickchin",
-      "related_name": "Linda Cruickchin-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QRmDXMA1",
-      "category": "sales",
-      "resource": "Brian Todd",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Christina Gutierrez | Riverbank-Costco-Brian",
-      "location": "Riverbank-Costco-Brian",
-      "start": "2026-06-10T17:00:00.000+0000",
-      "end": "2026-06-10T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Christina Gutierrez",
-      "related_name": "Christina Gutierrez-Costco-",
-      "event_type": null
+      "contact_name": "",
+      "related_name": "17867",
+      "event_type": "Service"
     },
     {
       "id": "00URb00000Q9zy9MAB",
@@ -373,20 +387,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QU7GUMA1",
-      "category": "sales",
-      "resource": "Sheldon Santos",
-      "subject": "Customer Meeting",
-      "label": "Customer Meeting | Rancho",
-      "location": "Rancho",
-      "start": "2026-06-10T18:00:00.000+0000",
-      "end": "2026-06-10T20:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000PmgxpMAB",
       "category": "service",
       "resource": "Service/C5",
@@ -399,6 +399,20 @@
       "contact_name": "",
       "related_name": "17936",
       "event_type": "Assessment"
+    },
+    {
+      "id": "00URb00000QU7GUMA1",
+      "category": "sales",
+      "resource": "Sheldon Santos",
+      "subject": "Customer Meeting",
+      "label": "Customer Meeting | Rancho",
+      "location": "Rancho",
+      "start": "2026-06-10T18:00:00.000+0000",
+      "end": "2026-06-10T20:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
     },
     {
       "id": "00URb00000Qd8I6MAJ",
@@ -429,34 +443,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QYa0TMAT",
-      "category": "sales",
-      "resource": "Call Center",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Silvia McGovern | Menlo Park",
-      "location": "Menlo Park",
-      "start": "2026-06-10T20:00:00.000+0000",
-      "end": "2026-06-10T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Silvia McGovern",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000Q6ptjMAB",
-      "category": "service",
-      "resource": "Service/C4",
-      "subject": "Service/C4",
-      "label": "Service/C4 | Isabella Costa-Back Yard | Hollister",
-      "location": "Hollister",
-      "start": "2026-06-10T20:00:00.000+0000",
-      "end": "2026-06-10T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Isabella Costa-Back Yard",
-      "event_type": "Service"
-    },
-    {
       "id": "00URb00000OtMWkMAN",
       "category": "service",
       "resource": "Service/C3",
@@ -471,18 +457,18 @@
       "event_type": "Service"
     },
     {
-      "id": "00URb00000Pho4oMAB",
-      "category": "service",
-      "resource": "Service/C5",
-      "subject": "Service/C5",
-      "label": "Service/C5 | 17926 | San Ramon-17926-assessment- Liu",
-      "location": "San Ramon-17926-assessment- Liu",
+      "id": "00URb00000QYa0TMAT",
+      "category": "sales",
+      "resource": "Call Center",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Silvia McGovern | Menlo Park",
+      "location": "Menlo Park",
       "start": "2026-06-10T20:00:00.000+0000",
-      "end": "2026-06-10T21:00:00.000+0000",
+      "end": "2026-06-10T22:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "17926",
-      "event_type": "Assessment"
+      "related_name": "Silvia McGovern",
+      "event_type": null
     },
     {
       "id": "00URb00000QROdZMAX",
@@ -513,18 +499,32 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QRtr3MAD",
-      "category": "sales",
-      "resource": "Call Center",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Barbara Harkins | Lafayette",
-      "location": "Lafayette",
-      "start": "2026-06-10T21:00:00.000+0000",
-      "end": "2026-06-10T23:00:00.000+0000",
+      "id": "00URb00000Q6ptjMAB",
+      "category": "service",
+      "resource": "Service/C4",
+      "subject": "Service/C4",
+      "label": "Service/C4 | Isabella Costa-Back Yard | Hollister",
+      "location": "Hollister",
+      "start": "2026-06-10T20:00:00.000+0000",
+      "end": "2026-06-10T22:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Barbara Harkins",
-      "related_name": "Barbara & Jack Harkins-",
-      "event_type": null
+      "contact_name": "",
+      "related_name": "Isabella Costa-Back Yard",
+      "event_type": "Service"
+    },
+    {
+      "id": "00URb00000Pho4oMAB",
+      "category": "service",
+      "resource": "Service/C5",
+      "subject": "Service/C5",
+      "label": "Service/C5 | 17926 | San Ramon-17926-assessment- Liu",
+      "location": "San Ramon-17926-assessment- Liu",
+      "start": "2026-06-10T20:00:00.000+0000",
+      "end": "2026-06-10T21:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17926",
+      "event_type": "Assessment"
     },
     {
       "id": "00URb00000QM886MAD",
@@ -541,17 +541,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QYgSTMA1",
+      "id": "00URb00000QRtr3MAD",
       "category": "sales",
-      "resource": "Johnny Van Wyk",
+      "resource": "Call Center",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Canan Kart | San Jose",
-      "location": "San Jose",
-      "start": "2026-06-10T22:00:00.000+0000",
-      "end": "2026-06-11T00:00:00.000+0000",
+      "label": "Sales Presentation | Barbara Harkins | Lafayette",
+      "location": "Lafayette",
+      "start": "2026-06-10T21:00:00.000+0000",
+      "end": "2026-06-10T23:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Canan Kart",
-      "related_name": "Canan Kart-",
+      "contact_name": "Barbara Harkins",
+      "related_name": "Barbara & Jack Harkins-",
       "event_type": null
     },
     {
@@ -566,6 +566,20 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QYgSTMA1",
+      "category": "sales",
+      "resource": "Johnny Van Wyk",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Canan Kart | San Jose",
+      "location": "San Jose",
+      "start": "2026-06-10T22:00:00.000+0000",
+      "end": "2026-06-11T00:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Canan Kart",
+      "related_name": "Canan Kart-",
       "event_type": null
     },
     {
