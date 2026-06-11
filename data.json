@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-11T16:55:19.835597Z",
+  "generated": "2026-06-11T17:00:26.161224Z",
   "date_range": {
     "start": "2026-06-11",
     "end": "2026-06-11"
@@ -47,12 +47,12 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QfslTMAR",
-      "category": "installation",
-      "resource": "Swift Artificial Turf",
-      "subject": "Swift Artificial Turf",
-      "label": "Swift Artificial Turf | NO JOB",
-      "location": "NO JOB",
+      "id": "00URb00000OUzdbMAD",
+      "category": "sales",
+      "resource": "John Throne",
+      "subject": "Sherrie Feinstein",
+      "label": "Sherrie Feinstein | OFF",
+      "location": "OFF",
       "start": "2026-06-11T00:00:00.000+0000",
       "end": "2026-06-11T00:00:00.000+0000",
       "is_all_day": true,
@@ -61,12 +61,12 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OUzdbMAD",
-      "category": "sales",
-      "resource": "John Throne",
-      "subject": "Sherrie Feinstein",
-      "label": "Sherrie Feinstein | OFF",
-      "location": "OFF",
+      "id": "00URb00000QfslTMAR",
+      "category": "installation",
+      "resource": "Swift Artificial Turf",
+      "subject": "Swift Artificial Turf",
+      "label": "Swift Artificial Turf | NO JOB",
+      "location": "NO JOB",
       "start": "2026-06-11T00:00:00.000+0000",
       "end": "2026-06-11T00:00:00.000+0000",
       "is_all_day": true,
@@ -103,20 +103,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QaHY2MAN",
-      "category": "sales",
-      "resource": "Sheldon Santos",
-      "subject": "Self Generated",
-      "label": "Self Generated | Daniel Weir\u00a0 | Fairfield",
-      "location": "Fairfield",
-      "start": "2026-06-11T15:00:00.000+0000",
-      "end": "2026-06-11T17:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Daniel Weir\u00a0",
-      "related_name": "Daniel Weir\u00a0-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000PZsVNMA1",
       "category": "time_off",
       "resource": "Chris Loeswick",
@@ -128,6 +114,20 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QaHY2MAN",
+      "category": "sales",
+      "resource": "Sheldon Santos",
+      "subject": "Self Generated",
+      "label": "Self Generated | Daniel Weir\u00a0 | Fairfield",
+      "location": "Fairfield",
+      "start": "2026-06-11T15:00:00.000+0000",
+      "end": "2026-06-11T17:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Daniel Weir\u00a0",
+      "related_name": "Daniel Weir\u00a0-",
       "event_type": null
     },
     {
@@ -299,17 +299,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QSpQPMA1",
+      "id": "00URb00000QY7ktMAD",
       "category": "sales",
-      "resource": "Steven McIntire",
+      "resource": "Mike Wells",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Wilson Cheung | Danville-Costco-Steven McI",
-      "location": "Danville-Costco-Steven McI",
+      "label": "Sales Presentation | Pattee Kelley | Livermore",
+      "location": "Livermore",
       "start": "2026-06-11T20:00:00.000+0000",
       "end": "2026-06-11T22:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Wilson Cheung",
-      "related_name": "Wilson Cheung-Costco-",
+      "contact_name": "Pattee Kelley",
+      "related_name": "Pattee Kelley-",
       "event_type": null
     },
     {
@@ -327,17 +327,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QY7ktMAD",
+      "id": "00URb00000QSpQPMA1",
       "category": "sales",
-      "resource": "Mike Wells",
+      "resource": "Steven McIntire",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Pattee Kelley | Livermore",
-      "location": "Livermore",
+      "label": "Sales Presentation | Wilson Cheung | Danville-Costco-Steven McI",
+      "location": "Danville-Costco-Steven McI",
       "start": "2026-06-11T20:00:00.000+0000",
       "end": "2026-06-11T22:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Pattee Kelley",
-      "related_name": "Pattee Kelley-",
+      "contact_name": "Wilson Cheung",
+      "related_name": "Wilson Cheung-Costco-",
       "event_type": null
     },
     {
@@ -352,20 +352,6 @@
       "is_all_day": false,
       "contact_name": "Joe F. Ellis",
       "related_name": "Joe Ellis-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000PY81ZMAT",
-      "category": "sales",
-      "resource": "Anthony Hall",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Kristina Webster | Napa-Costco-Anthony Hall",
-      "location": "Napa-Costco-Anthony Hall",
-      "start": "2026-06-11T20:30:00.000+0000",
-      "end": "2026-06-11T22:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Kristina Webster",
-      "related_name": "Kristina Webster-Costco-",
       "event_type": null
     },
     {
@@ -397,20 +383,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QeQzJMAV",
-      "category": "sales",
-      "resource": "Ray Richards",
-      "subject": "Wrap-Up",
-      "label": "Wrap-Up | Lexy Buss | Windsor",
-      "location": "Windsor",
-      "start": "2026-06-11T23:00:00.000+0000",
-      "end": "2026-06-12T00:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Lexy Buss",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000QYaYNMA1",
       "category": "sales",
       "resource": "Brian Todd",
@@ -422,6 +394,20 @@
       "is_all_day": false,
       "contact_name": "Indra Munoz",
       "related_name": "Indra Munoz-Costco-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QeQzJMAV",
+      "category": "sales",
+      "resource": "Ray Richards",
+      "subject": "Wrap-Up",
+      "label": "Wrap-Up | Lexy Buss | Windsor",
+      "location": "Windsor",
+      "start": "2026-06-11T23:00:00.000+0000",
+      "end": "2026-06-12T00:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Lexy Buss",
+      "related_name": "",
       "event_type": null
     },
     {
