@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-11T13:05:18.896206Z",
+  "generated": "2026-06-11T13:10:19.390173Z",
   "date_range": {
     "start": "2026-06-11",
     "end": "2026-06-11"
@@ -60,6 +60,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000QfJKfMAN",
+      "category": "sales",
+      "resource": "Chris Loeswick",
+      "subject": "Self Generated",
+      "label": "Self Generated | Peter Given | Redwood City",
+      "location": "Redwood City",
+      "start": "2026-06-11T15:00:00.000+0000",
+      "end": "2026-06-11T17:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Peter Given",
+      "event_type": null
+    },
+    {
       "id": "00URb00000PZsVNMA1",
       "category": "time_off",
       "resource": "Chris Loeswick",
@@ -71,20 +85,6 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QdtAXMAZ",
-      "category": "installation",
-      "resource": "Creww 12",
-      "subject": "Creww 12",
-      "label": "Creww 12 | Denise Crase-BY | Brentwood, 114 Pacific Platinum, Removal, Base, 25 ft Aluminum, Zeofill",
-      "location": "Brentwood, 114 Pacific Platinum, Removal, Base, 25 ft Aluminum, Zeofill",
-      "start": "2026-06-11T15:00:00.000+0000",
-      "end": "2026-06-11T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Denise Crase-BY",
       "event_type": null
     },
     {
@@ -116,17 +116,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QY9rVMAT",
+      "id": "00URb00000QdtAXMAZ",
       "category": "installation",
-      "resource": "4 Seasons Greens",
-      "subject": "4 Seasons Greens",
-      "label": "4 Seasons Greens | Colleen Saglimbeni-FY | Hillsborough, 735 Coronado, rmoval, base, stepping stones , camofill",
-      "location": "Hillsborough, 735 Coronado, rmoval, base, stepping stones , camofill",
-      "start": "2026-06-11T15:30:00.000+0000",
-      "end": "2026-06-12T23:00:00.000+0000",
+      "resource": "Creww 12",
+      "subject": "Creww 12",
+      "label": "Creww 12 | Denise Crase-BY | Brentwood, 114 Pacific Platinum, Removal, Base, 25 ft Aluminum, Zeofill",
+      "location": "Brentwood, 114 Pacific Platinum, Removal, Base, 25 ft Aluminum, Zeofill",
+      "start": "2026-06-11T15:00:00.000+0000",
+      "end": "2026-06-11T22:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "Colleen Saglimbeni-FY",
+      "related_name": "Denise Crase-BY",
       "event_type": null
     },
     {
@@ -144,18 +144,32 @@
       "event_type": null
     },
     {
-      "id": "00URb00000O9SAXMA3",
-      "category": "service",
-      "resource": "Service/C3",
-      "subject": "Service/C3",
-      "label": "Service/C3 | 17785 | Woodside",
-      "location": "Woodside",
-      "start": "2026-06-11T17:00:00.000+0000",
-      "end": "2026-06-11T23:30:00.000+0000",
+      "id": "00URb00000QY9rVMAT",
+      "category": "installation",
+      "resource": "4 Seasons Greens",
+      "subject": "4 Seasons Greens",
+      "label": "4 Seasons Greens | Colleen Saglimbeni-FY | Hillsborough, 735 Coronado, rmoval, base, stepping stones , camofill",
+      "location": "Hillsborough, 735 Coronado, rmoval, base, stepping stones , camofill",
+      "start": "2026-06-11T15:30:00.000+0000",
+      "end": "2026-06-12T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "17785",
-      "event_type": "Service"
+      "related_name": "Colleen Saglimbeni-FY",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QYXCIMA5",
+      "category": "sales",
+      "resource": "Ray Richards",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | John Brandt | napa -ray",
+      "location": "napa -ray",
+      "start": "2026-06-11T17:00:00.000+0000",
+      "end": "2026-06-11T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "John Brandt",
+      "event_type": null
     },
     {
       "id": "00URb00000QOv9RMAT",
@@ -200,18 +214,18 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QYXCIMA5",
-      "category": "sales",
-      "resource": "Ray Richards",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | John Brandt | napa -ray",
-      "location": "napa -ray",
+      "id": "00URb00000O9SAXMA3",
+      "category": "service",
+      "resource": "Service/C3",
+      "subject": "Service/C3",
+      "label": "Service/C3 | 17785 | Woodside",
+      "location": "Woodside",
       "start": "2026-06-11T17:00:00.000+0000",
-      "end": "2026-06-11T19:00:00.000+0000",
+      "end": "2026-06-11T23:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "John Brandt",
-      "event_type": null
+      "related_name": "17785",
+      "event_type": "Service"
     },
     {
       "id": "00URb00000QbjGxMAJ",
@@ -270,20 +284,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QY7ktMAD",
-      "category": "sales",
-      "resource": "Mike Wells",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Pattee Kelley | Livermore",
-      "location": "Livermore",
-      "start": "2026-06-11T20:00:00.000+0000",
-      "end": "2026-06-11T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Pattee Kelley",
-      "related_name": "Pattee Kelley-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000Q7jB7MAJ",
       "category": "sales",
       "resource": "Anthony Hall",
@@ -298,17 +298,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000PY81ZMAT",
+      "id": "00URb00000QY7ktMAD",
       "category": "sales",
-      "resource": "Anthony Hall",
+      "resource": "Mike Wells",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Kristina Webster | Napa-Costco-Anthony Hall",
-      "location": "Napa-Costco-Anthony Hall",
-      "start": "2026-06-11T20:30:00.000+0000",
-      "end": "2026-06-11T22:30:00.000+0000",
+      "label": "Sales Presentation | Pattee Kelley | Livermore",
+      "location": "Livermore",
+      "start": "2026-06-11T20:00:00.000+0000",
+      "end": "2026-06-11T22:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Kristina Webster",
-      "related_name": "Kristina Webster-Costco-",
+      "contact_name": "Pattee Kelley",
+      "related_name": "Pattee Kelley-",
       "event_type": null
     },
     {
@@ -323,6 +323,20 @@
       "is_all_day": false,
       "contact_name": "Joe F. Ellis",
       "related_name": "Joe Ellis-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000PY81ZMAT",
+      "category": "sales",
+      "resource": "Anthony Hall",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Kristina Webster | Napa-Costco-Anthony Hall",
+      "location": "Napa-Costco-Anthony Hall",
+      "start": "2026-06-11T20:30:00.000+0000",
+      "end": "2026-06-11T22:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Kristina Webster",
+      "related_name": "Kristina Webster-Costco-",
       "event_type": null
     },
     {
@@ -354,20 +368,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QYaYNMA1",
-      "category": "sales",
-      "resource": "Brian Todd",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Indra Munoz | Oakley-Costco",
-      "location": "Oakley-Costco",
-      "start": "2026-06-11T23:00:00.000+0000",
-      "end": "2026-06-12T01:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Indra Munoz",
-      "related_name": "Indra Munoz-Costco-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000QeQzJMAV",
       "category": "sales",
       "resource": "Ray Richards",
@@ -379,6 +379,20 @@
       "is_all_day": false,
       "contact_name": "Lexy Buss",
       "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QYaYNMA1",
+      "category": "sales",
+      "resource": "Brian Todd",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Indra Munoz | Oakley-Costco",
+      "location": "Oakley-Costco",
+      "start": "2026-06-11T23:00:00.000+0000",
+      "end": "2026-06-12T01:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Indra Munoz",
+      "related_name": "Indra Munoz-Costco-",
       "event_type": null
     },
     {
