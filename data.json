@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-11T16:40:21.460329Z",
+  "generated": "2026-06-11T16:45:19.594424Z",
   "date_range": {
     "start": "2026-06-11",
     "end": "2026-06-11"
@@ -152,7 +152,7 @@
       "label": "Prestige Turf | Michael Forrest- BY | Clayton, 596 Maxx Prime, 9' Aluminum, Removal, Base, Envirofill",
       "location": "Clayton, 596 Maxx Prime, 9' Aluminum, Removal, Base, Envirofill",
       "start": "2026-06-11T15:30:00.000+0000",
-      "end": "2026-06-12T23:00:00.000+0000",
+      "end": "2026-06-11T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Michael Forrest- BY",
@@ -166,7 +166,7 @@
       "label": "4 Seasons Greens | Colleen Saglimbeni-FY | Hillsborough, 735 Coronado, rmoval, base, stepping stones , camofill",
       "location": "Hillsborough, 735 Coronado, rmoval, base, stepping stones , camofill",
       "start": "2026-06-11T15:30:00.000+0000",
-      "end": "2026-06-12T23:00:00.000+0000",
+      "end": "2026-06-11T23:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Colleen Saglimbeni-FY",
