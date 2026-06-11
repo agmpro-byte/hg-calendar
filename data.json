@@ -1,12 +1,11 @@
 {
-  "generated": "2026-06-11T17:00:26.161224Z",
+  "generated": "2026-06-11T17:05:20.106892Z",
   "date_range": {
     "start": "2026-06-11",
     "end": "2026-06-11"
   },
   "resources": {
     "sales": [
-      "Anthony Hall",
       "Brian Todd",
       "Chris Loeswick",
       "John Throne",
@@ -32,20 +31,6 @@
     ]
   },
   "events": [
-    {
-      "id": "00URb00000Qe1mRMAR",
-      "category": "installation",
-      "resource": "Green Vision-Ernesto",
-      "subject": "Green Vision-Ernesto",
-      "label": "Green Vision-Ernesto | REQUESTED NO JOB",
-      "location": "REQUESTED NO JOB",
-      "start": "2026-06-11T00:00:00.000+0000",
-      "end": "2026-06-12T00:00:00.000+0000",
-      "is_all_day": true,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
     {
       "id": "00URb00000OUzdbMAD",
       "category": "sales",
@@ -75,6 +60,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000Qe1mRMAR",
+      "category": "installation",
+      "resource": "Green Vision-Ernesto",
+      "subject": "Green Vision-Ernesto",
+      "label": "Green Vision-Ernesto | REQUESTED NO JOB",
+      "location": "REQUESTED NO JOB",
+      "start": "2026-06-11T00:00:00.000+0000",
+      "end": "2026-06-12T00:00:00.000+0000",
+      "is_all_day": true,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
       "id": "00URb00000QfJKfMAN",
       "category": "sales",
       "resource": "Chris Loeswick",
@@ -89,17 +88,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000OV1idMAD",
-      "category": "time_off",
-      "resource": "Sherrie Feinstein",
-      "subject": "Standard Time Off",
-      "label": "Standard Time Off | OFF",
-      "location": "OFF",
+      "id": "00URb00000QdtAXMAZ",
+      "category": "installation",
+      "resource": "Creww 12",
+      "subject": "Creww 12",
+      "label": "Creww 12 | Denise Crase-BY | Brentwood, 114 Pacific Platinum, Removal, Base, 25 ft Aluminum, Zeofill",
+      "location": "Brentwood, 114 Pacific Platinum, Removal, Base, 25 ft Aluminum, Zeofill",
       "start": "2026-06-11T15:00:00.000+0000",
-      "end": "2026-06-12T03:00:00.000+0000",
+      "end": "2026-06-11T22:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "",
+      "related_name": "Denise Crase-BY",
       "event_type": null
     },
     {
@@ -131,31 +130,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QdtAXMAZ",
-      "category": "installation",
-      "resource": "Creww 12",
-      "subject": "Creww 12",
-      "label": "Creww 12 | Denise Crase-BY | Brentwood, 114 Pacific Platinum, Removal, Base, 25 ft Aluminum, Zeofill",
-      "location": "Brentwood, 114 Pacific Platinum, Removal, Base, 25 ft Aluminum, Zeofill",
+      "id": "00URb00000OV1idMAD",
+      "category": "time_off",
+      "resource": "Sherrie Feinstein",
+      "subject": "Standard Time Off",
+      "label": "Standard Time Off | OFF",
+      "location": "OFF",
       "start": "2026-06-11T15:00:00.000+0000",
-      "end": "2026-06-11T22:00:00.000+0000",
+      "end": "2026-06-12T03:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "Denise Crase-BY",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QdrblMAB",
-      "category": "installation",
-      "resource": "Prestige Turf",
-      "subject": "Prestige Turf",
-      "label": "Prestige Turf | Michael Forrest- BY | Clayton, 596 Maxx Prime, 9' Aluminum, Removal, Base, Envirofill",
-      "location": "Clayton, 596 Maxx Prime, 9' Aluminum, Removal, Base, Envirofill",
-      "start": "2026-06-11T15:30:00.000+0000",
-      "end": "2026-06-11T23:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Michael Forrest- BY",
+      "related_name": "",
       "event_type": null
     },
     {
@@ -170,6 +155,20 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Colleen Saglimbeni-FY",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QdrblMAB",
+      "category": "installation",
+      "resource": "Prestige Turf",
+      "subject": "Prestige Turf",
+      "label": "Prestige Turf | Michael Forrest- BY | Clayton, 596 Maxx Prime, 9' Aluminum, Removal, Base, Envirofill",
+      "location": "Clayton, 596 Maxx Prime, 9' Aluminum, Removal, Base, Envirofill",
+      "start": "2026-06-11T15:30:00.000+0000",
+      "end": "2026-06-11T23:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Michael Forrest- BY",
       "event_type": null
     },
     {
@@ -299,34 +298,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QY7ktMAD",
-      "category": "sales",
-      "resource": "Mike Wells",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Pattee Kelley | Livermore",
-      "location": "Livermore",
-      "start": "2026-06-11T20:00:00.000+0000",
-      "end": "2026-06-11T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Pattee Kelley",
-      "related_name": "Pattee Kelley-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000Q7jB7MAJ",
-      "category": "sales",
-      "resource": "Anthony Hall",
-      "subject": "Wrap-Up",
-      "label": "Wrap-Up | Terry Iverson | Napa",
-      "location": "Napa",
-      "start": "2026-06-11T20:00:00.000+0000",
-      "end": "2026-06-11T21:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Terry Iverson",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000QSpQPMA1",
       "category": "sales",
       "resource": "Steven McIntire",
@@ -338,6 +309,20 @@
       "is_all_day": false,
       "contact_name": "Wilson Cheung",
       "related_name": "Wilson Cheung-Costco-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QY7ktMAD",
+      "category": "sales",
+      "resource": "Mike Wells",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Pattee Kelley | Livermore",
+      "location": "Livermore",
+      "start": "2026-06-11T20:00:00.000+0000",
+      "end": "2026-06-11T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Pattee Kelley",
+      "related_name": "Pattee Kelley-",
       "event_type": null
     },
     {
@@ -383,20 +368,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QYaYNMA1",
-      "category": "sales",
-      "resource": "Brian Todd",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Indra Munoz | Oakley-Costco",
-      "location": "Oakley-Costco",
-      "start": "2026-06-11T23:00:00.000+0000",
-      "end": "2026-06-12T01:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Indra Munoz",
-      "related_name": "Indra Munoz-Costco-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000QeQzJMAV",
       "category": "sales",
       "resource": "Ray Richards",
@@ -411,17 +382,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QSkQjMAL",
+      "id": "00URb00000QYaYNMA1",
       "category": "sales",
-      "resource": "Johnny Van Wyk",
+      "resource": "Brian Todd",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Marisa Otto-Front Yard | San Jose",
-      "location": "San Jose",
-      "start": "2026-06-11T23:30:00.000+0000",
-      "end": "2026-06-12T01:30:00.000+0000",
+      "label": "Sales Presentation | Indra Munoz | Oakley-Costco",
+      "location": "Oakley-Costco",
+      "start": "2026-06-11T23:00:00.000+0000",
+      "end": "2026-06-12T01:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Marisa Otto-Front Yard",
+      "contact_name": "Indra Munoz",
+      "related_name": "Indra Munoz-Costco-",
       "event_type": null
     },
     {
@@ -436,6 +407,20 @@
       "is_all_day": false,
       "contact_name": "Juanito Soriano",
       "related_name": "Juanito Soriano-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QSkQjMAL",
+      "category": "sales",
+      "resource": "Johnny Van Wyk",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Marisa Otto-Front Yard | San Jose",
+      "location": "San Jose",
+      "start": "2026-06-11T23:30:00.000+0000",
+      "end": "2026-06-12T01:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Marisa Otto-Front Yard",
       "event_type": null
     }
   ]
