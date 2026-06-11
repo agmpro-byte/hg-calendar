@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-11T13:50:20.377731Z",
+  "generated": "2026-06-11T13:55:21.415009Z",
   "date_range": {
     "start": "2026-06-11",
     "end": "2026-06-11"
@@ -158,18 +158,18 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QYXCIMA5",
-      "category": "sales",
-      "resource": "Ray Richards",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | John Brandt | napa -ray",
-      "location": "napa -ray",
+      "id": "00URb00000O9SAXMA3",
+      "category": "service",
+      "resource": "Service/C3",
+      "subject": "Service/C3",
+      "label": "Service/C3 | 17785 | Woodside",
+      "location": "Woodside",
       "start": "2026-06-11T17:00:00.000+0000",
-      "end": "2026-06-11T19:00:00.000+0000",
+      "end": "2026-06-11T23:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "John Brandt",
-      "event_type": null
+      "related_name": "17785",
+      "event_type": "Service"
     },
     {
       "id": "00URb00000QOv9RMAT",
@@ -214,18 +214,18 @@
       "event_type": null
     },
     {
-      "id": "00URb00000O9SAXMA3",
-      "category": "service",
-      "resource": "Service/C3",
-      "subject": "Service/C3",
-      "label": "Service/C3 | 17785 | Woodside",
-      "location": "Woodside",
+      "id": "00URb00000QYXCIMA5",
+      "category": "sales",
+      "resource": "Ray Richards",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | John Brandt | napa -ray",
+      "location": "napa -ray",
       "start": "2026-06-11T17:00:00.000+0000",
-      "end": "2026-06-11T23:30:00.000+0000",
+      "end": "2026-06-11T19:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "17785",
-      "event_type": "Service"
+      "related_name": "John Brandt",
+      "event_type": null
     },
     {
       "id": "00URb00000QbjGxMAJ",
@@ -254,6 +254,20 @@
       "contact_name": "",
       "related_name": "17972",
       "event_type": "Service"
+    },
+    {
+      "id": "00URb00000QfPOTMA3",
+      "category": "sales",
+      "resource": "Tim Duggan",
+      "subject": "Wrap-Up",
+      "label": "Wrap-Up | Wrap up  McDonald San Jose  p/u $",
+      "location": "Wrap up  McDonald San Jose  p/u $",
+      "start": "2026-06-11T19:00:00.000+0000",
+      "end": "2026-06-11T19:15:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
     },
     {
       "id": "00URb00000QUCw2MAH",
@@ -312,20 +326,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QdcXtMAJ",
-      "category": "sales",
-      "resource": "Tim Duggan",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Joe F. Ellis | San Mateo",
-      "location": "San Mateo",
-      "start": "2026-06-11T20:30:00.000+0000",
-      "end": "2026-06-11T22:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Joe F. Ellis",
-      "related_name": "Joe Ellis-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000PY81ZMAT",
       "category": "sales",
       "resource": "Anthony Hall",
@@ -337,6 +337,20 @@
       "is_all_day": false,
       "contact_name": "Kristina Webster",
       "related_name": "Kristina Webster-Costco-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QdcXtMAJ",
+      "category": "sales",
+      "resource": "Tim Duggan",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Joe F. Ellis | San Mateo",
+      "location": "San Mateo",
+      "start": "2026-06-11T20:30:00.000+0000",
+      "end": "2026-06-11T22:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Joe F. Ellis",
+      "related_name": "Joe Ellis-",
       "event_type": null
     },
     {
