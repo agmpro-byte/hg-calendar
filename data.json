@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-13T15:25:20.108535Z",
+  "generated": "2026-06-13T15:30:19.173440Z",
   "date_range": {
     "start": "2026-06-13",
     "end": "2026-06-13"
@@ -94,6 +94,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000QDJvVMAX",
+      "category": "sales",
+      "resource": "Chris Loeswick",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Mosana Peak | San Mateo - costco - chris",
+      "location": "San Mateo - costco - chris",
+      "start": "2026-06-13T17:00:00.000+0000",
+      "end": "2026-06-13T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Mosana Peak",
+      "related_name": "Mosana Peak-Costco-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000QgMbVMAV",
       "category": "sales",
       "resource": "Call Center",
@@ -119,20 +133,6 @@
       "is_all_day": false,
       "contact_name": "Robert Turner",
       "related_name": "Robert Turner-Costco-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QDJvVMAX",
-      "category": "sales",
-      "resource": "Chris Loeswick",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Mosana Peak | San Mateo - costco - chris",
-      "location": "San Mateo - costco - chris",
-      "start": "2026-06-13T17:00:00.000+0000",
-      "end": "2026-06-13T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Mosana Peak",
-      "related_name": "Mosana Peak-Costco-",
       "event_type": null
     },
     {
@@ -164,34 +164,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QdbbqMAB",
-      "category": "sales",
-      "resource": "Ray Richards",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Gerald and Martha Cotton | Benicia",
-      "location": "Benicia",
-      "start": "2026-06-13T19:00:00.000+0000",
-      "end": "2026-06-13T21:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Gerald and Martha Cotton",
-      "related_name": "Gerald and Martha Cotton-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QRoMoMAL",
-      "category": "sales",
-      "resource": "Steven McIntire",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Yosra Abdelaziz | Dublin",
-      "location": "Dublin",
-      "start": "2026-06-13T19:00:00.000+0000",
-      "end": "2026-06-13T21:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Yosra Abdelaziz",
-      "related_name": "Yosra Abdelaziz-Costco-",
-      "event_type": null
-    },
-    {
       "id": "00URb00000QYptyMAD",
       "category": "sales",
       "resource": "Anthony Hall",
@@ -203,6 +175,20 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QdbbqMAB",
+      "category": "sales",
+      "resource": "Ray Richards",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Gerald and Martha Cotton | Benicia",
+      "location": "Benicia",
+      "start": "2026-06-13T19:00:00.000+0000",
+      "end": "2026-06-13T21:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Gerald and Martha Cotton",
+      "related_name": "Gerald and Martha Cotton-",
       "event_type": null
     },
     {
@@ -262,17 +248,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000HLGwRMAX",
-      "category": "time_off",
-      "resource": "Tim Duggan",
-      "subject": "Standard Time Off",
-      "label": "Standard Time Off | Home by 3PM",
-      "location": "Home by 3PM",
+      "id": "00URb00000QZSbyMAH",
+      "category": "sales",
+      "resource": "Anthony Hall",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Cecile Lee | Lafayette-Costco-Anthony Hall",
+      "location": "Lafayette-Costco-Anthony Hall",
       "start": "2026-06-13T22:00:00.000+0000",
-      "end": "2026-06-14T02:00:00.000+0000",
+      "end": "2026-06-14T00:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
+      "contact_name": "Cecile Lee",
+      "related_name": "Cecile Lee-Costco-",
       "event_type": null
     },
     {
@@ -290,17 +276,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QZSbyMAH",
-      "category": "sales",
-      "resource": "Anthony Hall",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Cecile Lee | Lafayette-Costco-Anthony Hall",
-      "location": "Lafayette-Costco-Anthony Hall",
+      "id": "00URb00000HLGwRMAX",
+      "category": "time_off",
+      "resource": "Tim Duggan",
+      "subject": "Standard Time Off",
+      "label": "Standard Time Off | Home by 3PM",
+      "location": "Home by 3PM",
       "start": "2026-06-13T22:00:00.000+0000",
-      "end": "2026-06-14T00:00:00.000+0000",
+      "end": "2026-06-14T02:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Cecile Lee",
-      "related_name": "Cecile Lee-Costco-",
+      "contact_name": "",
+      "related_name": "",
       "event_type": null
     },
     {
