@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-15T16:35:22.258888Z",
+  "generated": "2026-06-15T16:40:20.595350Z",
   "date_range": {
     "start": "2026-06-15",
     "end": "2026-06-15"
@@ -232,7 +232,7 @@
       "label": "Prestige Turf | Dennis Boaz- BY | SANTA ROSA - 428 SQ FT, PACIFIC FESCUE, OPTIFILL",
       "location": "SANTA ROSA - 428 SQ FT, PACIFIC FESCUE, OPTIFILL",
       "start": "2026-06-15T15:30:00.000+0000",
-      "end": "2026-06-16T23:30:00.000+0000",
+      "end": "2026-06-15T23:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Dennis Boaz- BY",
@@ -274,7 +274,7 @@
       "label": "Swift Artificial Turf | Caren Normandin | Rohnert Park - 364 sqft, removal, base, NXM2, camofill, steel,",
       "location": "Rohnert Park - 364 sqft, removal, base, NXM2, camofill, steel,",
       "start": "2026-06-15T15:30:00.000+0000",
-      "end": "2026-06-16T23:00:00.000+0000",
+      "end": "2026-06-15T23:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Caren Normandin",
@@ -330,7 +330,7 @@
       "label": "4 Seasons Greens | Los Altos country club- Commercial | LOS ALTOS - 2268 SQ FT,BASE,CORONADO FLO,SAND",
       "location": "LOS ALTOS - 2268 SQ FT,BASE,CORONADO FLO,SAND",
       "start": "2026-06-15T15:30:00.000+0000",
-      "end": "2026-06-19T23:30:00.000+0000",
+      "end": "2026-06-15T23:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Los Altos country club- Commercial",
