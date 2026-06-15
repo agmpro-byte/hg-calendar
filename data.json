@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-15T20:20:19.604592Z",
+  "generated": "2026-06-15T20:25:19.193378Z",
   "date_range": {
     "start": "2026-06-15",
     "end": "2026-06-15"
@@ -19,7 +19,6 @@
       "Sheldon Santos",
       "Sherrie Feinstein",
       "Steve Meadows",
-      "Steven McIntire",
       "Tim Duggan"
     ],
     "installation": [
@@ -605,7 +604,7 @@
     {
       "id": "00URb00000Qb4AXMAZ",
       "category": "sales",
-      "resource": "Steven McIntire",
+      "resource": "Call Center",
       "subject": "Sales Presentation",
       "label": "Sales Presentation | Fernando Gonzalez | Vallejo-Steven McI-Costco",
       "location": "Vallejo-Steven McI-Costco",
