@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-17T16:45:19.566904Z",
+  "generated": "2026-06-17T16:50:22.374240Z",
   "date_range": {
     "start": "2026-06-17",
     "end": "2026-06-17"
@@ -37,8 +37,8 @@
       "category": "installation",
       "resource": "Crew 3",
       "subject": "Crew 3",
-      "label": "Crew 3 | Miguel W/16",
-      "location": "Miguel W/16",
+      "label": "Crew 3 | Miguel W/SERVICE",
+      "location": "Miguel W/SERVICE",
       "start": "2026-06-17T00:00:00.000+0000",
       "end": "2026-06-17T00:00:00.000+0000",
       "is_all_day": true,
