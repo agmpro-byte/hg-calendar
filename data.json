@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-17T16:20:19.412901Z",
+  "generated": "2026-06-17T16:25:20.354649Z",
   "date_range": {
     "start": "2026-06-17",
     "end": "2026-06-17"
@@ -33,6 +33,20 @@
   },
   "events": [
     {
+      "id": "00URb00000Qpiw5MAB",
+      "category": "installation",
+      "resource": "Crew 3",
+      "subject": "Crew 3",
+      "label": "Crew 3 | Miguel W/16",
+      "location": "Miguel W/16",
+      "start": "2026-06-17T00:00:00.000+0000",
+      "end": "2026-06-17T00:00:00.000+0000",
+      "is_all_day": true,
+      "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
       "id": "00URb00000QeNNOMA3",
       "category": "service",
       "resource": "Juan",
@@ -47,15 +61,29 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Qpiw5MAB",
-      "category": "installation",
-      "resource": "Crew 3",
-      "subject": "Crew 3",
-      "label": "Crew 3 | Miguel W/16",
-      "location": "Miguel W/16",
-      "start": "2026-06-17T00:00:00.000+0000",
-      "end": "2026-06-17T00:00:00.000+0000",
-      "is_all_day": true,
+      "id": "00URb00000QrGu5MAF",
+      "category": "sales",
+      "resource": "Johnny Van Wyk",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Laura Moniz-",
+      "location": null,
+      "start": "2026-06-17T08:00:00.000+0000",
+      "end": "2026-06-17T08:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Laura Moniz-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000PZls6MAD",
+      "category": "time_off",
+      "resource": "Steven McIntire",
+      "subject": "Standard Time Off",
+      "label": "Standard Time Off | COSTCO",
+      "location": "COSTCO",
+      "start": "2026-06-17T15:00:00.000+0000",
+      "end": "2026-06-18T03:00:00.000+0000",
+      "is_all_day": false,
       "contact_name": "",
       "related_name": "",
       "event_type": null
@@ -75,17 +103,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000PZls6MAD",
-      "category": "time_off",
-      "resource": "Steven McIntire",
-      "subject": "Standard Time Off",
-      "label": "Standard Time Off | COSTCO",
-      "location": "COSTCO",
-      "start": "2026-06-17T15:00:00.000+0000",
-      "end": "2026-06-18T03:00:00.000+0000",
+      "id": "00URb00000QopBdMAJ",
+      "category": "installation",
+      "resource": "4 Seasons Greens",
+      "subject": "4 Seasons Greens",
+      "label": "4 Seasons Greens | Adam Bienenstock- BY | Pleasanton, 1056 Pacific Fescue, 15' aluminum edge, removal, base, sand",
+      "location": "Pleasanton, 1056 Pacific Fescue, 15' aluminum edge, removal, base, sand",
+      "start": "2026-06-17T15:30:00.000+0000",
+      "end": "2026-06-17T22:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "",
+      "related_name": "Adam Bienenstock- BY",
       "event_type": null
     },
     {
@@ -103,20 +131,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QopBdMAJ",
-      "category": "installation",
-      "resource": "4 Seasons Greens",
-      "subject": "4 Seasons Greens",
-      "label": "4 Seasons Greens | Adam Bienenstock- BY | Pleasanton, 1056 Pacific Fescue, 15' aluminum edge, removal, base, sand",
-      "location": "Pleasanton, 1056 Pacific Fescue, 15' aluminum edge, removal, base, sand",
-      "start": "2026-06-17T15:30:00.000+0000",
-      "end": "2026-06-17T22:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Adam Bienenstock- BY",
-      "event_type": null
-    },
-    {
       "id": "00URb00000QlygDMAR",
       "category": "time_off",
       "resource": "Clayton Johnson",
@@ -128,6 +142,20 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QigJ8MAJ",
+      "category": "sales",
+      "resource": "Tim Duggan",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Mike Schneider | los altos",
+      "location": "los altos",
+      "start": "2026-06-17T17:00:00.000+0000",
+      "end": "2026-06-17T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Mike Schneider",
+      "related_name": "MIKE SCHNEIDER-",
       "event_type": null
     },
     {
@@ -145,32 +173,18 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QoNoxMAF",
+      "id": "00URb00000QiKTtMAN",
       "category": "sales",
-      "resource": "Ray Richards",
-      "subject": "Customer Meeting",
-      "label": "Customer Meeting | John Quinlan | Novato",
-      "location": "Novato",
-      "start": "2026-06-17T17:00:00.000+0000",
-      "end": "2026-06-17T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "John Quinlan",
-      "related_name": "",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000OSbIKMA1",
-      "category": "service",
-      "resource": "Service/C5",
-      "subject": "Service/C5",
-      "label": "Service/C5 | 17816 | Foster City assessment",
-      "location": "Foster City assessment",
+      "resource": "Sherrie Feinstein",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Carol Atkeson- | Hillsborough",
+      "location": "Hillsborough",
       "start": "2026-06-17T17:00:00.000+0000",
       "end": "2026-06-17T19:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "17816",
-      "event_type": "Assessment"
+      "related_name": "Carol Atkeson-",
+      "event_type": null
     },
     {
       "id": "00URb00000NyxsvMAB",
@@ -201,32 +215,32 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QiKTtMAN",
+      "id": "00URb00000QoNoxMAF",
       "category": "sales",
-      "resource": "Sherrie Feinstein",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Carol Atkeson- | Hillsborough",
-      "location": "Hillsborough",
+      "resource": "Ray Richards",
+      "subject": "Customer Meeting",
+      "label": "Customer Meeting | John Quinlan | Novato",
+      "location": "Novato",
+      "start": "2026-06-17T17:00:00.000+0000",
+      "end": "2026-06-17T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "John Quinlan",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000OSbIKMA1",
+      "category": "service",
+      "resource": "Service/C5",
+      "subject": "Service/C5",
+      "label": "Service/C5 | 17816 | Foster City assessment",
+      "location": "Foster City assessment",
       "start": "2026-06-17T17:00:00.000+0000",
       "end": "2026-06-17T19:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "Carol Atkeson-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QigJ8MAJ",
-      "category": "sales",
-      "resource": "Tim Duggan",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Mike Schneider | los altos",
-      "location": "los altos",
-      "start": "2026-06-17T17:00:00.000+0000",
-      "end": "2026-06-17T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Mike Schneider",
-      "related_name": "MIKE SCHNEIDER-",
-      "event_type": null
+      "related_name": "17816",
+      "event_type": "Assessment"
     },
     {
       "id": "00URb00000QpqDiMAJ",
@@ -327,17 +341,17 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QoUwnMAF",
+      "id": "00URb00000QopA3MAJ",
       "category": "sales",
-      "resource": "Sheldon Santos",
+      "resource": "Sherrie Feinstein",
       "subject": "Self Generated",
-      "label": "Self Generated | Jeff Groen\u00a0 | Ripon",
-      "location": "Ripon",
+      "label": "Self Generated | Menlo Park",
+      "location": "Menlo Park",
       "start": "2026-06-17T20:00:00.000+0000",
-      "end": "2026-06-17T22:00:00.000+0000",
+      "end": "2026-06-17T21:30:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Jeff Groen\u00a0",
-      "related_name": "Jeff Groen-",
+      "contact_name": "",
+      "related_name": "",
       "event_type": null
     },
     {
@@ -355,6 +369,20 @@
       "event_type": "Service"
     },
     {
+      "id": "00URb00000QoUwnMAF",
+      "category": "sales",
+      "resource": "Sheldon Santos",
+      "subject": "Self Generated",
+      "label": "Self Generated | Jeff Groen\u00a0 | Ripon",
+      "location": "Ripon",
+      "start": "2026-06-17T20:00:00.000+0000",
+      "end": "2026-06-17T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Jeff Groen\u00a0",
+      "related_name": "Jeff Groen-",
+      "event_type": null
+    },
+    {
       "id": "00URb00000QUtxlMAD",
       "category": "sales",
       "resource": "Anthony Hall",
@@ -366,20 +394,6 @@
       "is_all_day": false,
       "contact_name": "Rosalyn Raymundo",
       "related_name": "Rosalyn Raymundo-Costco-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QopA3MAJ",
-      "category": "sales",
-      "resource": "Sherrie Feinstein",
-      "subject": "Self Generated",
-      "label": "Self Generated | Menlo Park",
-      "location": "Menlo Park",
-      "start": "2026-06-17T20:00:00.000+0000",
-      "end": "2026-06-17T21:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
       "event_type": null
     },
     {
@@ -397,20 +411,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QojxRMAR",
-      "category": "time_off",
-      "resource": "Sherrie Feinstein",
-      "subject": "Off",
-      "label": "Off | Menlo Park",
-      "location": "Menlo Park",
-      "start": "2026-06-17T22:00:00.000+0000",
-      "end": "2026-06-18T01:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000QjnVRMAZ",
       "category": "sales",
       "resource": "Call Center",
@@ -421,6 +421,20 @@
       "end": "2026-06-18T00:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "Sean Campbell",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QojxRMAR",
+      "category": "time_off",
+      "resource": "Sherrie Feinstein",
+      "subject": "Off",
+      "label": "Off | Menlo Park",
+      "location": "Menlo Park",
+      "start": "2026-06-17T22:00:00.000+0000",
+      "end": "2026-06-18T01:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
       "related_name": "",
       "event_type": null
     },
