@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-17T00:20:20.191184Z",
+  "generated": "2026-06-17T00:25:20.069490Z",
   "date_range": {
     "start": "2026-06-17",
     "end": "2026-06-17"
@@ -131,17 +131,31 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QigJ8MAJ",
-      "category": "sales",
-      "resource": "Tim Duggan",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Mike Schneider | los altos",
-      "location": "los altos",
+      "id": "00URb00000OSbIKMA1",
+      "category": "service",
+      "resource": "Service/C5",
+      "subject": "Service/C5",
+      "label": "Service/C5 | 17816 | Foster City assessment",
+      "location": "Foster City assessment",
       "start": "2026-06-17T17:00:00.000+0000",
       "end": "2026-06-17T19:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Mike Schneider",
-      "related_name": "MIKE SCHNEIDER-",
+      "contact_name": "",
+      "related_name": "17816",
+      "event_type": "Assessment"
+    },
+    {
+      "id": "00URb00000QdOczMAF",
+      "category": "sales",
+      "resource": "Anthony Hall",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Donna Pappas | Concord-Anthony-Costco",
+      "location": "Concord-Anthony-Costco",
+      "start": "2026-06-17T17:00:00.000+0000",
+      "end": "2026-06-17T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Donna Pappas",
+      "related_name": "Donna Pappas-Costco-",
       "event_type": null
     },
     {
@@ -159,6 +173,20 @@
       "event_type": null
     },
     {
+      "id": "00URb00000NyxsvMAB",
+      "category": "service",
+      "resource": "Service/C3",
+      "subject": "Service/C3",
+      "label": "Service/C3 | 17767 | Santa Cruz",
+      "location": "Santa Cruz",
+      "start": "2026-06-17T17:00:00.000+0000",
+      "end": "2026-06-17T20:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "17767",
+      "event_type": "Service"
+    },
+    {
       "id": "00URb00000Qmu4AMAR",
       "category": "sales",
       "resource": "Mike Wells",
@@ -171,34 +199,6 @@
       "contact_name": "Jamie Besaw",
       "related_name": "Jamie Besaw-",
       "event_type": null
-    },
-    {
-      "id": "00URb00000QdOczMAF",
-      "category": "sales",
-      "resource": "Anthony Hall",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Donna Pappas | Concord-Anthony-Costco",
-      "location": "Concord-Anthony-Costco",
-      "start": "2026-06-17T17:00:00.000+0000",
-      "end": "2026-06-17T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Donna Pappas",
-      "related_name": "Donna Pappas-Costco-",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000OSbIKMA1",
-      "category": "service",
-      "resource": "Service/C5",
-      "subject": "Service/C5",
-      "label": "Service/C5 | 17816 | Foster City assessment",
-      "location": "Foster City assessment",
-      "start": "2026-06-17T17:00:00.000+0000",
-      "end": "2026-06-17T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17816",
-      "event_type": "Assessment"
     },
     {
       "id": "00URb00000QiKTtMAN",
@@ -215,31 +215,31 @@
       "event_type": null
     },
     {
-      "id": "00URb00000NyxsvMAB",
-      "category": "service",
-      "resource": "Service/C3",
-      "subject": "Service/C3",
-      "label": "Service/C3 | 17767 | Santa Cruz",
-      "location": "Santa Cruz",
+      "id": "00URb00000QigJ8MAJ",
+      "category": "sales",
+      "resource": "Tim Duggan",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Mike Schneider | los altos",
+      "location": "los altos",
       "start": "2026-06-17T17:00:00.000+0000",
-      "end": "2026-06-17T20:00:00.000+0000",
+      "end": "2026-06-17T19:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17767",
-      "event_type": "Service"
+      "contact_name": "Mike Schneider",
+      "related_name": "MIKE SCHNEIDER-",
+      "event_type": null
     },
     {
-      "id": "00URb00000Qpl2nMAB",
+      "id": "00URb00000QpqDiMAJ",
       "category": "sales",
-      "resource": "Johnny Van Wyk",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Rose Blandino | Fremont",
-      "location": "Fremont",
-      "start": "2026-06-17T18:00:00.000+0000",
-      "end": "2026-06-17T20:00:00.000+0000",
+      "resource": "Sheldon Santos",
+      "subject": "Customer Meeting",
+      "label": "Customer Meeting | Mallory Kelley- | Lodi",
+      "location": "Lodi",
+      "start": "2026-06-17T17:30:00.000+0000",
+      "end": "2026-06-17T18:30:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Rose Blandino",
-      "related_name": "Rose Blandino-",
+      "contact_name": "",
+      "related_name": "Mallory Kelley-",
       "event_type": null
     },
     {
@@ -254,6 +254,20 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000Qpl2nMAB",
+      "category": "sales",
+      "resource": "Johnny Van Wyk",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Rose Blandino | Fremont",
+      "location": "Fremont",
+      "start": "2026-06-17T18:00:00.000+0000",
+      "end": "2026-06-17T20:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Rose Blandino",
+      "related_name": "Rose Blandino-",
       "event_type": null
     },
     {
@@ -299,20 +313,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QopA3MAJ",
-      "category": "sales",
-      "resource": "Sherrie Feinstein",
-      "subject": "Self Generated",
-      "label": "Self Generated | Menlo Park",
-      "location": "Menlo Park",
-      "start": "2026-06-17T20:00:00.000+0000",
-      "end": "2026-06-17T21:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000PWR1tMAH",
       "category": "service",
       "resource": "Service/C3",
@@ -325,20 +325,6 @@
       "contact_name": "",
       "related_name": "17911",
       "event_type": "Service"
-    },
-    {
-      "id": "00URb00000QUtxlMAD",
-      "category": "sales",
-      "resource": "Anthony Hall",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Rosalyn Raymundo | Danville-Costco-Anthony",
-      "location": "Danville-Costco-Anthony",
-      "start": "2026-06-17T20:00:00.000+0000",
-      "end": "2026-06-17T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Rosalyn Raymundo",
-      "related_name": "Rosalyn Raymundo-Costco-",
-      "event_type": null
     },
     {
       "id": "00URb00000QoUwnMAF",
@@ -355,16 +341,30 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QjnVRMAZ",
+      "id": "00URb00000QUtxlMAD",
       "category": "sales",
-      "resource": "Call Center",
+      "resource": "Anthony Hall",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Sean Campbell | Mill Valley",
-      "location": "Mill Valley",
-      "start": "2026-06-17T22:00:00.000+0000",
-      "end": "2026-06-18T00:00:00.000+0000",
+      "label": "Sales Presentation | Rosalyn Raymundo | Danville-Costco-Anthony",
+      "location": "Danville-Costco-Anthony",
+      "start": "2026-06-17T20:00:00.000+0000",
+      "end": "2026-06-17T22:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Sean Campbell",
+      "contact_name": "Rosalyn Raymundo",
+      "related_name": "Rosalyn Raymundo-Costco-",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QopA3MAJ",
+      "category": "sales",
+      "resource": "Sherrie Feinstein",
+      "subject": "Self Generated",
+      "label": "Self Generated | Menlo Park",
+      "location": "Menlo Park",
+      "start": "2026-06-17T20:00:00.000+0000",
+      "end": "2026-06-17T21:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
       "related_name": "",
       "event_type": null
     },
@@ -393,6 +393,20 @@
       "end": "2026-06-18T01:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
+      "related_name": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QjnVRMAZ",
+      "category": "sales",
+      "resource": "Call Center",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Sean Campbell | Mill Valley",
+      "location": "Mill Valley",
+      "start": "2026-06-17T22:00:00.000+0000",
+      "end": "2026-06-18T00:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Sean Campbell",
       "related_name": "",
       "event_type": null
     },
