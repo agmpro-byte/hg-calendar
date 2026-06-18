@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-18T23:00:25.177341Z",
+  "generated": "2026-06-18T23:05:20.473935Z",
   "date_range": {
     "start": "2026-06-18",
     "end": "2026-06-18"
@@ -48,6 +48,8 @@
       "is_all_day": true,
       "contact_name": "",
       "related_name": "",
+      "whoId": "",
+      "whatId": "",
       "event_type": null
     },
     {
@@ -62,6 +64,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
+      "whoId": "",
+      "whatId": "",
       "event_type": null
     },
     {
@@ -76,6 +80,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
+      "whoId": "",
+      "whatId": "",
       "event_type": null
     },
     {
@@ -90,6 +96,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
+      "whoId": "",
+      "whatId": "",
       "event_type": null
     },
     {
@@ -104,6 +112,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
+      "whoId": "",
+      "whatId": "",
       "event_type": null
     },
     {
@@ -118,6 +128,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
+      "whoId": "",
+      "whatId": "",
       "event_type": null
     },
     {
@@ -132,6 +144,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Quentus Cumby- BY",
+      "whoId": "",
+      "whatId": "0063700000DldLtAAJ",
       "event_type": null
     },
     {
@@ -146,6 +160,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Thurma Reynolds- FY",
+      "whoId": "",
+      "whatId": "006Rb00000ZiHaYIAV",
       "event_type": null
     },
     {
@@ -160,6 +176,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Ruben Vera- Back Yard",
+      "whoId": "",
+      "whatId": "006Rb00000aNPInIAO",
       "event_type": null
     },
     {
@@ -174,6 +192,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Brittany Lewis- BY",
+      "whoId": "",
+      "whatId": "006Rb00000aYb0QIAS",
       "event_type": null
     },
     {
@@ -188,6 +208,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "18025",
+      "whoId": "",
+      "whatId": "a0LRb00000DH5yHMAT",
       "event_type": null
     },
     {
@@ -202,6 +224,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Roy Robinson- BY",
+      "whoId": "",
+      "whatId": "006Rb00000Z5U69IAF",
       "event_type": null
     },
     {
@@ -216,6 +240,8 @@
       "is_all_day": false,
       "contact_name": "Larry Anthony\u00a0",
       "related_name": "Larry Anthony\u00a0-",
+      "whoId": "003Rb00000dlMRfIAM",
+      "whatId": "006Rb00000aqE3sIAE",
       "event_type": null
     },
     {
@@ -230,6 +256,8 @@
       "is_all_day": false,
       "contact_name": "Kristina Webster",
       "related_name": "Kristina Webster-Costco-",
+      "whoId": "003Rb00000dRhC7IAK",
+      "whatId": "006Rb00000aZ4nBIAS",
       "event_type": null
     },
     {
@@ -244,6 +272,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "17949",
+      "whoId": "",
+      "whatId": "a0LRb00000CkQa7MAF",
       "event_type": "Assessment"
     },
     {
@@ -258,6 +288,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "17977",
+      "whoId": "",
+      "whatId": "a0LRb00000CvnwLMAR",
       "event_type": "Assessment"
     },
     {
@@ -272,6 +304,8 @@
       "is_all_day": false,
       "contact_name": "Tom Fernandez",
       "related_name": "Tom Fernandez-Costco-",
+      "whoId": "003Rb00000dk6qNIAQ",
+      "whatId": "006Rb00000apGKXIA2",
       "event_type": null
     },
     {
@@ -286,6 +320,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
+      "whoId": "",
+      "whatId": "",
       "event_type": null
     },
     {
@@ -300,6 +336,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "17787",
+      "whoId": "",
+      "whatId": "a0LRb00000Bg0BlMAJ",
       "event_type": "Service"
     },
     {
@@ -314,6 +352,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Susan Sullivan",
+      "whoId": "",
+      "whatId": "006Rb00000ajqIfIAI",
       "event_type": null
     },
     {
@@ -328,6 +368,8 @@
       "is_all_day": false,
       "contact_name": "Terry Iverson",
       "related_name": "",
+      "whoId": "003Rb00000ZnbYXIAZ",
+      "whatId": "",
       "event_type": null
     },
     {
@@ -342,6 +384,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "17980",
+      "whoId": "",
+      "whatId": "a0LRb00000CwyrJMAR",
       "event_type": "Assessment"
     },
     {
@@ -356,6 +400,8 @@
       "is_all_day": false,
       "contact_name": "Vivian Wu",
       "related_name": "Vivian Wu-Costco-",
+      "whoId": "003Rb00000dkAZ0IAM",
+      "whatId": "006Rb00000ap7h5IAA",
       "event_type": null
     },
     {
@@ -370,6 +416,8 @@
       "is_all_day": false,
       "contact_name": "Thomas Frazier",
       "related_name": "Thomas Frazier-",
+      "whoId": "003Rb00000dkFIXIA2",
+      "whatId": "006Rb00000apHuvIAE",
       "event_type": null
     },
     {
@@ -384,6 +432,8 @@
       "is_all_day": false,
       "contact_name": "Mike Jenschke",
       "related_name": "",
+      "whoId": "003Rb00000amvYkIAI",
+      "whatId": "",
       "event_type": null
     },
     {
@@ -398,6 +448,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "17487",
+      "whoId": "",
+      "whatId": "a0LRb000009eFcfMAE",
       "event_type": "Service"
     },
     {
@@ -412,6 +464,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "18029",
+      "whoId": "",
+      "whatId": "a0LRb00000DHO6TMAX",
       "event_type": "Assessment"
     },
     {
@@ -426,6 +480,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "17910",
+      "whoId": "",
+      "whatId": "a0LRb00000CWL8rMAH",
       "event_type": "Assessment"
     },
     {
@@ -440,6 +496,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "18011",
+      "whoId": "",
+      "whatId": "a0LRb00000DAnUbMAL",
       "event_type": "Assessment"
     },
     {
@@ -454,6 +512,8 @@
       "is_all_day": false,
       "contact_name": "Nicole Bailey",
       "related_name": "",
+      "whoId": "003Rb00000YaaXdIAJ",
+      "whatId": "",
       "event_type": null
     },
     {
@@ -468,6 +528,8 @@
       "is_all_day": false,
       "contact_name": "Peter Calvin",
       "related_name": "Peter Calvin-",
+      "whoId": "003Rb00000dkAXOIA2",
+      "whatId": "006Rb00000apCaIIAU",
       "event_type": null
     },
     {
@@ -482,6 +544,8 @@
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Susan Frank",
+      "whoId": "",
+      "whatId": "006Rb00000ajfofIAA",
       "event_type": null
     },
     {
@@ -496,6 +560,8 @@
       "is_all_day": false,
       "contact_name": "Joe Ruck",
       "related_name": "Joe Ruck-Costco-",
+      "whoId": "003Rb00000djhHXIAY",
+      "whatId": "006Rb00000aoxucIAA",
       "event_type": null
     },
     {
@@ -510,6 +576,8 @@
       "is_all_day": false,
       "contact_name": "Sam Javad",
       "related_name": "Sam Javad-",
+      "whoId": "003Rb00000dlAKEIA2",
+      "whatId": "006Rb00000aq2E0IAI",
       "event_type": null
     }
   ]
