@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-19T16:15:19.890819Z",
+  "generated": "2026-06-19T16:20:20.074957Z",
   "date_range": {
     "start": "2026-06-19",
     "end": "2026-06-19"
@@ -131,6 +131,22 @@
       "event_type": null
     },
     {
+      "id": "00URb00000Qvn3RMAR",
+      "category": "sales",
+      "resource": "Mike Wells",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Rob Montgomery-",
+      "location": null,
+      "start": "2026-06-19T08:00:00.000+0000",
+      "end": "2026-06-19T08:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Rob Montgomery-",
+      "whoId": "",
+      "whatId": "006Rb00000ZuhirIAB",
+      "event_type": null
+    },
+    {
       "id": "00URb00000QsSQ9MAN",
       "category": "sales",
       "resource": "Tim Duggan",
@@ -211,22 +227,6 @@
       "event_type": "Service"
     },
     {
-      "id": "00URb00000QUav8MAD",
-      "category": "sales",
-      "resource": "Anthony Hall",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Matthew Yee | San Mateo-Anthony-Costco",
-      "location": "San Mateo-Anthony-Costco",
-      "start": "2026-06-19T17:00:00.000+0000",
-      "end": "2026-06-19T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Matthew Yee",
-      "related_name": "Matthew Yee-Costco-",
-      "whoId": "003Rb00000dnSW9IAM",
-      "whatId": "006Rb00000as0O6IAI",
-      "event_type": null
-    },
-    {
       "id": "00URb00000Qaj2uMAB",
       "category": "sales",
       "resource": "Steven McIntire",
@@ -240,22 +240,6 @@
       "related_name": "Stephanie Firestone-Costco-",
       "whoId": "003Rb00000doWHaIAM",
       "whatId": "006Rb00000assLFIAY",
-      "event_type": null
-    },
-    {
-      "id": "00URb00000QovSMMAZ",
-      "category": "sales",
-      "resource": "Tim Duggan",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Archana Sankar | Palo Alto",
-      "location": "Palo Alto",
-      "start": "2026-06-19T17:00:00.000+0000",
-      "end": "2026-06-19T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Archana Sankar",
-      "related_name": "Archana Sankar-",
-      "whoId": "003Rb00000doVNAIA2",
-      "whatId": "006Rb00000atD3AIAU",
       "event_type": null
     },
     {
@@ -304,6 +288,22 @@
       "related_name": "Monica Ruiz-",
       "whoId": "003Rb00000do8YbIAI",
       "whatId": "006Rb00000asZQfIAM",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QUav8MAD",
+      "category": "sales",
+      "resource": "Anthony Hall",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Matthew Yee | San Mateo-Anthony-Costco",
+      "location": "San Mateo-Anthony-Costco",
+      "start": "2026-06-19T17:00:00.000+0000",
+      "end": "2026-06-19T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Matthew Yee",
+      "related_name": "Matthew Yee-Costco-",
+      "whoId": "003Rb00000dnSW9IAM",
+      "whatId": "006Rb00000as0O6IAI",
       "event_type": null
     },
     {
@@ -371,6 +371,22 @@
       "event_type": "Service"
     },
     {
+      "id": "00URb00000QumfnMAB",
+      "category": "sales",
+      "resource": "Mike Wells",
+      "subject": "Wrap-Up",
+      "label": "Wrap-Up | Antioch",
+      "location": "Antioch",
+      "start": "2026-06-19T17:00:00.000+0000",
+      "end": "2026-06-19T18:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "whoId": "",
+      "whatId": "",
+      "event_type": null
+    },
+    {
       "id": "00URb00000OGz9mMAD",
       "category": "service",
       "resource": "Service/C5",
@@ -387,19 +403,19 @@
       "event_type": "Service"
     },
     {
-      "id": "00URb00000QumfnMAB",
+      "id": "00URb00000QovSMMAZ",
       "category": "sales",
-      "resource": "Mike Wells",
-      "subject": "Wrap-Up",
-      "label": "Wrap-Up | Antioch",
-      "location": "Antioch",
+      "resource": "Tim Duggan",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Archana Sankar | Palo Alto",
+      "location": "Palo Alto",
       "start": "2026-06-19T17:00:00.000+0000",
-      "end": "2026-06-19T18:00:00.000+0000",
+      "end": "2026-06-19T19:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "whoId": "",
-      "whatId": "",
+      "contact_name": "Archana Sankar",
+      "related_name": "Archana Sankar-",
+      "whoId": "003Rb00000doVNAIA2",
+      "whatId": "006Rb00000atD3AIAU",
       "event_type": null
     },
     {
@@ -515,22 +531,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QnGxXMAV",
-      "category": "sales",
-      "resource": "Clayton Johnson",
-      "subject": "Wrap-Up",
-      "label": "Wrap-Up | Sandra Andrade- BY | Hollister",
-      "location": "Hollister",
-      "start": "2026-06-19T22:00:00.000+0000",
-      "end": "2026-06-19T22:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Sandra Andrade- BY",
-      "whoId": "",
-      "whatId": "006Rb00000ZcwJlIAJ",
-      "event_type": null
-    },
-    {
       "id": "00URb00000HL6E6MAL",
       "category": "time_off",
       "resource": "Tim Duggan",
@@ -544,6 +544,22 @@
       "related_name": "",
       "whoId": "",
       "whatId": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000QnGxXMAV",
+      "category": "sales",
+      "resource": "Clayton Johnson",
+      "subject": "Wrap-Up",
+      "label": "Wrap-Up | Sandra Andrade- BY | Hollister",
+      "location": "Hollister",
+      "start": "2026-06-19T22:00:00.000+0000",
+      "end": "2026-06-19T22:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Sandra Andrade- BY",
+      "whoId": "",
+      "whatId": "006Rb00000ZcwJlIAJ",
       "event_type": null
     },
     {
