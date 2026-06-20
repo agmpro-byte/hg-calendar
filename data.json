@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-20T22:10:19.007935Z",
+  "generated": "2026-06-20T22:15:18.435889Z",
   "date_range": {
     "start": "2026-06-20",
     "end": "2026-06-20"
@@ -46,13 +46,13 @@
       "category": "sales",
       "resource": "Anthony Hall",
       "subject": "Sold Presentation",
-      "label": "Sold Presentation | William Foy-Costco-",
+      "label": "Sold Presentation | William Foy-  Pavers",
       "location": null,
       "start": "2026-06-20T08:00:00.000+0000",
       "end": "2026-06-20T08:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
-      "related_name": "William Foy-Costco-",
+      "related_name": "William Foy-  Pavers",
       "whoId": "",
       "whatId": "006Rb00000av7stIAA",
       "agmContactId": "",
@@ -154,7 +154,7 @@
       "end": "2026-06-20T19:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "William Foy",
-      "related_name": "William Foy-Costco-",
+      "related_name": "William Foy-  Pavers",
       "whoId": "003Rb00000dr2JnIAI",
       "whatId": "006Rb00000av7stIAA",
       "agmContactId": "",
