@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-20T20:15:19.353422Z",
+  "generated": "2026-06-20T20:20:19.849690Z",
   "date_range": {
     "start": "2026-06-20",
     "end": "2026-06-20"
@@ -352,13 +352,13 @@
       "category": "sales",
       "resource": "Amber Bandanza",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Rebecca Bond | San Jose",
+      "label": "Sales Presentation | Jeffrey and Rebecca Bond | San Jose",
       "location": "San Jose",
       "start": "2026-06-20T20:00:00.000+0000",
       "end": "2026-06-20T22:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Rebecca Bond",
-      "related_name": "Rebecca Bond-",
+      "contact_name": "Jeffrey and Rebecca Bond",
+      "related_name": "Jeffrey and Rebecca Bond-",
       "whoId": "003Rb00000dr8Z4IAI",
       "whatId": "006Rb00000avCVxIAM",
       "agmContactId": "",
