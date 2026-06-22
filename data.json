@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-22T17:45:20.587779Z",
+  "generated": "2026-06-22T17:50:21.290759Z",
   "date_range": {
     "start": "2026-06-22",
     "end": "2026-06-22"
@@ -405,7 +405,7 @@
       "label": "Creww 16 | 17908 | Berkely - Black Pine Circle School - Tune Up/Infill",
       "location": "Berkely - Black Pine Circle School - Tune Up/Infill",
       "start": "2026-06-22T17:00:00.000+0000",
-      "end": "2026-06-23T23:00:00.000+0000",
+      "end": "2026-06-22T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "17908",
