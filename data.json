@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-23T14:55:19.175184Z",
+  "generated": "2026-06-23T15:00:36.460797Z",
   "date_range": {
     "start": "2026-06-23",
     "end": "2026-06-23"
@@ -330,7 +330,7 @@
       "label": "Wrap-Up | Hayward",
       "location": "Hayward",
       "start": "2026-06-23T18:30:00.000+0000",
-      "end": "2026-06-23T19:00:00.000+0000",
+      "end": "2026-06-23T19:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
@@ -449,7 +449,7 @@
       "label": "Wrap-Up | Santa Clara",
       "location": "Santa Clara",
       "start": "2026-06-23T20:30:00.000+0000",
-      "end": "2026-06-23T21:00:00.000+0000",
+      "end": "2026-06-23T22:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
