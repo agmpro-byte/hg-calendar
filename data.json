@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-23T20:40:19.891110Z",
+  "generated": "2026-06-23T20:45:19.666107Z",
   "date_range": {
     "start": "2026-06-23",
     "end": "2026-06-23"
@@ -99,6 +99,23 @@
       "related_name": "Meg Koshe-",
       "whoId": "",
       "whatId": "006Rb00000acTcAIAU",
+      "agmContactId": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000R1t2yMAB",
+      "category": "sales",
+      "resource": "Sheldon Santos",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Maria Carrera-",
+      "location": null,
+      "start": "2026-06-23T08:00:00.000+0000",
+      "end": "2026-06-23T08:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Maria Carrera-",
+      "whoId": "",
+      "whatId": "006Rb00000b1LTKIA2",
       "agmContactId": "",
       "event_type": null
     },
@@ -341,23 +358,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000R0YwbMAF",
-      "category": "sales",
-      "resource": "Mike Wells",
-      "subject": "Customer Meeting",
-      "label": "Customer Meeting | Berkeley",
-      "location": "Berkeley",
-      "start": "2026-06-23T19:00:00.000+0000",
-      "end": "2026-06-23T20:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "whoId": "",
-      "whatId": "",
-      "agmContactId": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000Qg2ZXMAZ",
       "category": "sales",
       "resource": "Steven McIntire",
@@ -371,6 +371,23 @@
       "related_name": "Sam Thompson-Costco-",
       "whoId": "003Rb00000dvINIIA2",
       "whatId": "006Rb00000az0SzIAI",
+      "agmContactId": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000R0YwbMAF",
+      "category": "sales",
+      "resource": "Mike Wells",
+      "subject": "Customer Meeting",
+      "label": "Customer Meeting | Berkeley",
+      "location": "Berkeley",
+      "start": "2026-06-23T19:00:00.000+0000",
+      "end": "2026-06-23T20:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "whoId": "",
+      "whatId": "",
       "agmContactId": "",
       "event_type": null
     },
