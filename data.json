@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-24T17:25:35.019021Z",
+  "generated": "2026-06-24T17:30:21.092286Z",
   "date_range": {
     "start": "2026-06-24",
     "end": "2026-06-24"
@@ -23,7 +23,8 @@
       "Bedrock Construction",
       "Green Vision North Bay",
       "Prestige Turf",
-      "Sheldons Landscaping"
+      "Sheldons Landscaping",
+      "Sheldons Landscaping 2"
     ],
     "service": [
       "Crew 3",
@@ -102,6 +103,23 @@
       "event_type": null
     },
     {
+      "id": "00URb00000Qw38GMAR",
+      "category": "time_off",
+      "resource": "Chris Loeswick",
+      "subject": "Off",
+      "label": "Off | Costco",
+      "location": "Costco",
+      "start": "2026-06-24T15:00:00.000+0000",
+      "end": "2026-06-25T04:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "whoId": "",
+      "whatId": "",
+      "agmContactId": "",
+      "event_type": null
+    },
+    {
       "id": "00URb00000PlbAbMAJ",
       "category": "sales",
       "resource": "Chris Loeswick",
@@ -136,23 +154,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000Qw38GMAR",
-      "category": "time_off",
-      "resource": "Chris Loeswick",
-      "subject": "Off",
-      "label": "Off | Costco",
-      "location": "Costco",
-      "start": "2026-06-24T15:00:00.000+0000",
-      "end": "2026-06-25T04:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "whoId": "",
-      "whatId": "",
-      "agmContactId": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000R2MePMAV",
       "category": "installation",
       "resource": "Green Vision North Bay",
@@ -166,6 +167,23 @@
       "related_name": "Sharon Arnone- FY",
       "whoId": "",
       "whatId": "006Rb00000aT1X3IAK",
+      "agmContactId": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000R3vYaMAJ",
+      "category": "installation",
+      "resource": "Sheldons Landscaping 2",
+      "subject": "Sheldons Landscaping 2",
+      "label": "Sheldons Landscaping 2 | Sam Harris-Back Yard-Phase 2 | Granite Bay, Multiple Putting greens and Sand traps with turf, 1278 PPG, 343 White PL929, 1437 Coronado, 1031 Coronado pet, gg, Partial removal, 10 cups, flags, sticks, hole covers, Putting Green Sand, Regular sand, 460 ft steel edge, 3 Inch Base, 100 sq",
+      "location": "Granite Bay, Multiple Putting greens and Sand traps with turf, 1278 PPG, 343 White PL929, 1437 Coronado, 1031 Coronado pet, gg, Partial removal, 10 cups, flags, sticks, hole covers, Putting Green Sand, Regular sand, 460 ft steel edge, 3 Inch Base, 100 sq",
+      "start": "2026-06-24T15:30:00.000+0000",
+      "end": "2026-07-03T00:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Sam Harris-Back Yard-Phase 2",
+      "whoId": "",
+      "whatId": "006Rb00000TKumvIAD",
       "agmContactId": "",
       "event_type": null
     },
@@ -340,23 +358,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000R28ZqMAJ",
-      "category": "sales",
-      "resource": "Sheldon Santos",
-      "subject": "Self Generated",
-      "label": "Self Generated | Kathi Vaughn\u00a0 | Lodi",
-      "location": "Lodi",
-      "start": "2026-06-24T17:30:00.000+0000",
-      "end": "2026-06-24T19:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Kathi Vaughn\u00a0",
-      "related_name": "Kathi Vaughn\u00a0-",
-      "whoId": "003Rb00000e0yy1IAA",
-      "whatId": "006Rb00000b2dnAIAQ",
-      "agmContactId": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000QopZpMAJ",
       "category": "sales",
       "resource": "Anthony Hall",
@@ -370,6 +371,23 @@
       "related_name": "Samari Benjamin-Costco-",
       "whoId": "003Rb00000dzNPTIA2",
       "whatId": "006Rb00000b1xAPIAY",
+      "agmContactId": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000R28ZqMAJ",
+      "category": "sales",
+      "resource": "Sheldon Santos",
+      "subject": "Self Generated",
+      "label": "Self Generated | Kathi Vaughn\u00a0 | Lodi",
+      "location": "Lodi",
+      "start": "2026-06-24T17:30:00.000+0000",
+      "end": "2026-06-24T19:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Kathi Vaughn\u00a0",
+      "related_name": "Kathi Vaughn\u00a0-",
+      "whoId": "003Rb00000e0yy1IAA",
+      "whatId": "006Rb00000b2dnAIAQ",
       "agmContactId": "",
       "event_type": null
     },
@@ -408,23 +426,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000R1jErMAJ",
-      "category": "sales",
-      "resource": "Mike Wells",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Dave Bedros | Concord",
-      "location": "Concord",
-      "start": "2026-06-24T21:00:00.000+0000",
-      "end": "2026-06-24T23:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Dave Bedros",
-      "related_name": "Dave Bedros-",
-      "whoId": "003Rb00000dzzUkIAI",
-      "whatId": "006Rb00000b1yeMIAQ",
-      "agmContactId": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000Qrb2TMAR",
       "category": "sales",
       "resource": "Anthony Hall",
@@ -438,6 +439,23 @@
       "related_name": "Veny Zivnustka-Costco-",
       "whoId": "003Rb00000dzbKNIAY",
       "whatId": "006Rb00000b1mYNIAY",
+      "agmContactId": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000R1jErMAJ",
+      "category": "sales",
+      "resource": "Mike Wells",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Dave Bedros | Concord",
+      "location": "Concord",
+      "start": "2026-06-24T21:00:00.000+0000",
+      "end": "2026-06-24T23:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Dave Bedros",
+      "related_name": "Dave Bedros-",
+      "whoId": "003Rb00000dzzUkIAI",
+      "whatId": "006Rb00000b1yeMIAQ",
       "agmContactId": "",
       "event_type": null
     },
