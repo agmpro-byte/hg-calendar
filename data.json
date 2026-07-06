@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06T20:00:25.226728Z",
+  "generated": "2026-07-06T20:05:19.914645Z",
   "date_range": {
     "start": "2026-07-06",
     "end": "2026-07-06"
@@ -602,23 +602,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000QAelBMAT",
-      "category": "sales",
-      "resource": "Chris Loeswick",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Max Ma | Belmont-Chris-Costco",
-      "location": "Belmont-Chris-Costco",
-      "start": "2026-07-06T20:00:00.000+0000",
-      "end": "2026-07-06T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Max Ma",
-      "related_name": "Max Ma-Costco-",
-      "whoId": "003Rb00000ePoklIAC",
-      "whatId": "006Rb00000bNtMhIAK",
-      "agmContactId": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000P0qZjMAJ",
       "category": "service",
       "resource": "Service/C5",
@@ -634,6 +617,23 @@
       "whatId": "a0LRb00000CD7mMMAT",
       "agmContactId": "",
       "event_type": "Service"
+    },
+    {
+      "id": "00URb00000QAelBMAT",
+      "category": "sales",
+      "resource": "Chris Loeswick",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Max Ma | Belmont-Chris-Costco",
+      "location": "Belmont-Chris-Costco",
+      "start": "2026-07-06T20:00:00.000+0000",
+      "end": "2026-07-06T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Max Ma",
+      "related_name": "Max Ma-Costco-",
+      "whoId": "003Rb00000ePoklIAC",
+      "whatId": "006Rb00000bNtMhIAK",
+      "agmContactId": "",
+      "event_type": null
     },
     {
       "id": "00URb00000QmAKiMAN",
@@ -666,6 +666,23 @@
       "related_name": "Lily Brown-",
       "whoId": "003Rb00000eQrhdIAC",
       "whatId": "006Rb00000bOraXIAS",
+      "agmContactId": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000RQxw9MAD",
+      "category": "sales",
+      "resource": "Anthony Hall",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Jack Mans | Vallejo-Anthony-Costco",
+      "location": "Vallejo-Anthony-Costco",
+      "start": "2026-07-06T21:00:00.000+0000",
+      "end": "2026-07-06T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Jack Mans",
+      "related_name": "",
+      "whoId": "00QRb00000YQ2XHMA1",
+      "whatId": "",
       "agmContactId": "",
       "event_type": null
     },
