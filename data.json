@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06T19:40:19.712907Z",
+  "generated": "2026-07-06T19:45:20.890447Z",
   "date_range": {
     "start": "2026-07-06",
     "end": "2026-07-06"
@@ -687,23 +687,6 @@
       "event_type": null
     },
     {
-      "id": "00URb00000RLungMAD",
-      "category": "sales",
-      "resource": "Tim Duggan",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Rachael Tauber | San Francisco",
-      "location": "San Francisco",
-      "start": "2026-07-06T22:00:00.000+0000",
-      "end": "2026-07-07T00:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Rachael Tauber",
-      "related_name": "HG Lead - Paid Search-",
-      "whoId": "003Rb00000eQHhNIAW",
-      "whatId": "006Rb00000bOdffIAC",
-      "agmContactId": "",
-      "event_type": null
-    },
-    {
       "id": "00URb00000R6qE6MAJ",
       "category": "sales",
       "resource": "Steven McIntire",
@@ -717,6 +700,23 @@
       "related_name": "Barbara McBride-Costco-",
       "whoId": "003Rb00000ePxU5IAK",
       "whatId": "006Rb00000bO2kvIAC",
+      "agmContactId": "",
+      "event_type": null
+    },
+    {
+      "id": "00URb00000RLungMAD",
+      "category": "sales",
+      "resource": "Tim Duggan",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Rachael Tauber | San Francisco",
+      "location": "San Francisco",
+      "start": "2026-07-06T22:30:00.000+0000",
+      "end": "2026-07-07T00:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Rachael Tauber",
+      "related_name": "Rachael Tauber",
+      "whoId": "003Rb00000eQHhNIAW",
+      "whatId": "006Rb00000bOdffIAC",
       "agmContactId": "",
       "event_type": null
     },
