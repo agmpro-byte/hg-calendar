@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06T22:15:18.985670Z",
+  "generated": "2026-07-06T22:20:19.740581Z",
   "date_range": {
     "start": "2026-07-06",
     "end": "2026-07-06"
@@ -54,8 +54,9 @@
       "related_name": "",
       "whoId": "",
       "whatId": "",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000RPS1cMAH",
@@ -71,8 +72,9 @@
       "related_name": "Linda Sarver- BY",
       "whoId": "",
       "whatId": "006Rb00000b38DRIAY",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000RQpddMAD",
@@ -88,8 +90,9 @@
       "related_name": "Jeff Weatherly",
       "whoId": "",
       "whatId": "006Rb00000anMXJIA2",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000RQoJNMA1",
@@ -105,8 +108,9 @@
       "related_name": "Steve and Joanna Auch-",
       "whoId": "",
       "whatId": "006Rb00000auyspIAA",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000RBrClMAL",
@@ -122,8 +126,9 @@
       "related_name": "",
       "whoId": "",
       "whatId": "",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000RFtxWMAT",
@@ -139,8 +144,9 @@
       "related_name": "Judy Deaton- BY",
       "whoId": "",
       "whatId": "006Rb00000ZwYoMIAV",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000P12RYMAZ",
@@ -156,8 +162,9 @@
       "related_name": "",
       "whoId": "",
       "whatId": "",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000P1DgIMAV",
@@ -173,8 +180,9 @@
       "related_name": "",
       "whoId": "",
       "whatId": "",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000P1IpeMAF",
@@ -190,8 +198,9 @@
       "related_name": "",
       "whoId": "",
       "whatId": "",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000P1KhmMAF",
@@ -207,8 +216,9 @@
       "related_name": "",
       "whoId": "",
       "whatId": "",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000P0l0xMAB",
@@ -224,8 +234,9 @@
       "related_name": "",
       "whoId": "",
       "whatId": "",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000P15XVMAZ",
@@ -241,8 +252,9 @@
       "related_name": "",
       "whoId": "",
       "whatId": "",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000RLzLvMAL",
@@ -258,8 +270,9 @@
       "related_name": "James Monroe ES - DIR#20250601018",
       "whoId": "",
       "whatId": "006Rb00000XIdJIIA1",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000RD3lJMAT",
@@ -275,8 +288,9 @@
       "related_name": "Natalie Pedersoli- BY",
       "whoId": "",
       "whatId": "006Rb00000azorBIAQ",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000RLywAMAT",
@@ -292,8 +306,9 @@
       "related_name": "Sam Harris-Back Yard-Phase 2",
       "whoId": "",
       "whatId": "006Rb00000TKumvIAD",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000R7ZPiMAN",
@@ -309,8 +324,9 @@
       "related_name": "",
       "whoId": "",
       "whatId": "",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000RA5V7MAL",
@@ -326,8 +342,9 @@
       "related_name": "Anna Hertel- BY",
       "whoId": "",
       "whatId": "006Rb00000ZiHFVIA3",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000RCb13MAD",
@@ -343,8 +360,9 @@
       "related_name": "Ryan Banderas- BY",
       "whoId": "",
       "whatId": "006Rb00000afPNZIA2",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000REOSpMAP",
@@ -360,8 +378,9 @@
       "related_name": "Diana Cragle-Front Yard",
       "whoId": "",
       "whatId": "006Rb00000ZHk5WIAT",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000R7krNMAR",
@@ -377,8 +396,9 @@
       "related_name": "David Wrone- BY",
       "whoId": "",
       "whatId": "006Rb00000ZBACnIAP",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000RJzczMAD",
@@ -394,8 +414,9 @@
       "related_name": "Fairlands ES -Sausal",
       "whoId": "",
       "whatId": "006Rb00000akVvLIAU",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000RJofwMAD",
@@ -411,8 +432,9 @@
       "related_name": "Castlemont ES - Kindergarten playground Modernization",
       "whoId": "",
       "whatId": "006Rb00000Zeq5PIAR",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000RHJ3VMAX",
@@ -428,8 +450,9 @@
       "related_name": "David Boehmer- BY",
       "whoId": "",
       "whatId": "006Rb00000b1zAbIAI",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000OWXRHMA5",
@@ -445,8 +468,9 @@
       "related_name": "17822",
       "whoId": "",
       "whatId": "a0LRb00000BtOy1MAF",
-      "agmContactId": "",
-      "event_type": "Service"
+      "event_type": "Service",
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000OhZnvMAF",
@@ -462,8 +486,9 @@
       "related_name": "17835",
       "whoId": "",
       "whatId": "a0LRb00000C0RR7MAN",
-      "agmContactId": "",
-      "event_type": "Assessment"
+      "event_type": "Assessment",
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000QasULMAZ",
@@ -479,8 +504,9 @@
       "related_name": "18000",
       "whoId": "",
       "whatId": "a0LRb00000D5yCBMAZ",
-      "agmContactId": "",
-      "event_type": "Service"
+      "event_type": "Service",
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000Qe6xOMAR",
@@ -496,8 +522,9 @@
       "related_name": "Ellen Lim-Costco-",
       "whoId": "003Rb00000ePv97IAC",
       "whatId": "006Rb00000bO397IAC",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "(415) 713-0976",
+      "who_email": "el88884@aol.com"
     },
     {
       "id": "00URb00000R6pBaMAJ",
@@ -513,8 +540,9 @@
       "related_name": "Chris Aschero-Costco-",
       "whoId": "003Rb00000ePhcIIAS",
       "whatId": "006Rb00000bNzgcIAC",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "(925) 890-5969",
+      "who_email": "nugglechris@gmail.com"
     },
     {
       "id": "00URb00000R9hnnMAB",
@@ -530,8 +558,9 @@
       "related_name": "Jitesh Bole-Costco-",
       "whoId": "003Rb00000ePlzCIAS",
       "whatId": "006Rb00000bNiKpIAK",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "(510) 585-5420",
+      "who_email": "jitesh_bole@yahoo.com"
     },
     {
       "id": "00URb00000RMctVMAT",
@@ -547,8 +576,9 @@
       "related_name": "",
       "whoId": "",
       "whatId": "",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000RAhs9MAD",
@@ -564,8 +594,9 @@
       "related_name": "Chris Aschero-",
       "whoId": "003Rb00000eBeUZIA0",
       "whatId": "006Rb00000bBvAYIA0",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": "mugglechris@gmail.com"
     },
     {
       "id": "00URb00000R9s85MAB",
@@ -581,8 +612,9 @@
       "related_name": "Steve Medina-",
       "whoId": "003Rb00000ePukjIAC",
       "whatId": "006Rb00000bNzALIA0",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": "t2blastu@yahoo.com"
     },
     {
       "id": "00URb00000R9p2AMAR",
@@ -598,8 +630,9 @@
       "related_name": "Suling Chen-Costco-",
       "whoId": "003Rb00000ePrzlIAC",
       "whatId": "006Rb00000bNVkBIAW",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "(510) 320-8170",
+      "who_email": "suling11241@gmail.com"
     },
     {
       "id": "00URb00000QAelBMAT",
@@ -615,8 +648,9 @@
       "related_name": "Max Ma-Costco-",
       "whoId": "003Rb00000ePoklIAC",
       "whatId": "006Rb00000bNtMhIAK",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "(978) 856-9089",
+      "who_email": "xx.ma0710@gmail.com"
     },
     {
       "id": "00URb00000P0qZjMAJ",
@@ -632,8 +666,9 @@
       "related_name": "17856",
       "whoId": "",
       "whatId": "a0LRb00000CD7mMMAT",
-      "agmContactId": "",
-      "event_type": "Service"
+      "event_type": "Service",
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000QmAKiMAN",
@@ -649,8 +684,9 @@
       "related_name": "18015",
       "whoId": "",
       "whatId": "a0LRb00000DDjCjMAL",
-      "agmContactId": "",
-      "event_type": "Assessment"
+      "event_type": "Assessment",
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000RMN4rMAH",
@@ -666,8 +702,9 @@
       "related_name": "Lily Brown-",
       "whoId": "003Rb00000eQrhdIAC",
       "whatId": "006Rb00000bOraXIAS",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000R7rZVMAZ",
@@ -683,8 +720,9 @@
       "related_name": "Pervinder Sudan-Costco-",
       "whoId": "003Rb00000eQMAmIAO",
       "whatId": "006Rb00000bOPWKIA4",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "(408) 594-9330",
+      "who_email": ""
     },
     {
       "id": "00URb00000R6qE6MAJ",
@@ -700,8 +738,9 @@
       "related_name": "Barbara McBride-Costco-",
       "whoId": "003Rb00000ePxU5IAK",
       "whatId": "006Rb00000bO2kvIAC",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "(925) 570-0849",
+      "who_email": ""
     },
     {
       "id": "00URb00000RLungMAD",
@@ -717,8 +756,9 @@
       "related_name": "Rachael Tauber",
       "whoId": "003Rb00000eQHhNIAW",
       "whatId": "006Rb00000bOdffIAC",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "+14156023668",
+      "who_email": "rachaeltauber@yahoo.com"
     },
     {
       "id": "00URb00000RHJOTMA5",
@@ -734,8 +774,9 @@
       "related_name": "Francisco Martinez-",
       "whoId": "003Rb00000ePUDRIA4",
       "whatId": "006Rb00000bNykXIAS",
-      "agmContactId": "",
-      "event_type": null
+      "event_type": null,
+      "who_phone": "",
+      "who_email": "fmmartinez260@gmail.com"
     }
   ]
 }
