@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07T17:20:20.132689Z",
+  "generated": "2026-07-07T17:25:20.864506Z",
   "date_range": {
     "start": "2026-07-07",
     "end": "2026-07-07"
@@ -29,6 +29,24 @@
     ]
   },
   "events": [
+    {
+      "id": "00URb00000RTPWXMA5",
+      "category": "sales",
+      "resource": "Chris Loeswick",
+      "subject": "Sold Presentation",
+      "label": "Sold Presentation | Rodney Lim",
+      "location": null,
+      "start": "2026-07-07T08:00:00.000+0000",
+      "end": "2026-07-07T08:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Rodney Lim",
+      "whoId": "",
+      "whatId": "006Rb00000ZeKOtIAN",
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
+    },
     {
       "id": "00URb00000RSPtjMAH",
       "category": "service",
@@ -84,24 +102,6 @@
       "who_email": ""
     },
     {
-      "id": "00URb00000QzhXJMAZ",
-      "category": "sales",
-      "resource": "Steven McIntire",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Brandon Tran | 211 Angelina Way Vallejo CA 94589",
-      "location": "211 Angelina Way Vallejo CA 94589",
-      "start": "2026-07-07T17:00:00.000+0000",
-      "end": "2026-07-07T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Brandon Tran",
-      "related_name": "Brandon Tran-",
-      "whoId": "003Rb00000dw3S9IAI",
-      "whatId": "006Rb00000azmpNIAQ",
-      "event_type": null,
-      "who_phone": "(707) 333-5225",
-      "who_email": ""
-    },
-    {
       "id": "00URb00000R2ljFMAR",
       "category": "service",
       "resource": "Service/C5",
@@ -138,22 +138,22 @@
       "who_email": "edna.hoo88@gmail.com"
     },
     {
-      "id": "00URb00000RFlWxMAL",
-      "category": "sales",
-      "resource": "Amber Bandanza",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Douglas Charest | Saratoga",
-      "location": "Saratoga",
+      "id": "00URb00000NqsK1MAJ",
+      "category": "service",
+      "resource": "Service/C3",
+      "subject": "Service/C3",
+      "label": "Service/C3 | 17237 | Cupertino-Sridhar Prativadi- Weed Treatment and Removal",
+      "location": "Cupertino-Sridhar Prativadi- Weed Treatment and Removal",
       "start": "2026-07-07T17:00:00.000+0000",
-      "end": "2026-07-07T19:00:00.000+0000",
+      "end": "2026-07-07T22:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Douglas Charest",
-      "related_name": "Douglas Charest-",
-      "whoId": "003Rb00000eWsMSIA0",
-      "whatId": "006Rb00000bU3RRIA0",
-      "event_type": null,
-      "who_phone": "+16692706257",
-      "who_email": "dcharest@youralpine.com"
+      "contact_name": "",
+      "related_name": "17237",
+      "whoId": "",
+      "whatId": "a0LRb0000082Mz7MAE",
+      "event_type": "Service",
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000QgigsMAB",
@@ -192,22 +192,40 @@
       "who_email": ""
     },
     {
-      "id": "00URb00000NqsK1MAJ",
-      "category": "service",
-      "resource": "Service/C3",
-      "subject": "Service/C3",
-      "label": "Service/C3 | 17237 | Cupertino-Sridhar Prativadi- Weed Treatment and Removal",
-      "location": "Cupertino-Sridhar Prativadi- Weed Treatment and Removal",
+      "id": "00URb00000QzhXJMAZ",
+      "category": "sales",
+      "resource": "Steven McIntire",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Brandon Tran | 211 Angelina Way Vallejo CA 94589",
+      "location": "211 Angelina Way Vallejo CA 94589",
       "start": "2026-07-07T17:00:00.000+0000",
-      "end": "2026-07-07T22:00:00.000+0000",
+      "end": "2026-07-07T19:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "",
-      "related_name": "17237",
-      "whoId": "",
-      "whatId": "a0LRb0000082Mz7MAE",
-      "event_type": "Service",
-      "who_phone": "",
+      "contact_name": "Brandon Tran",
+      "related_name": "Brandon Tran-",
+      "whoId": "003Rb00000dw3S9IAI",
+      "whatId": "006Rb00000azmpNIAQ",
+      "event_type": null,
+      "who_phone": "(707) 333-5225",
       "who_email": ""
+    },
+    {
+      "id": "00URb00000RFlWxMAL",
+      "category": "sales",
+      "resource": "Amber Bandanza",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Douglas Charest | Saratoga",
+      "location": "Saratoga",
+      "start": "2026-07-07T17:00:00.000+0000",
+      "end": "2026-07-07T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Douglas Charest",
+      "related_name": "Douglas Charest-",
+      "whoId": "003Rb00000eWsMSIA0",
+      "whatId": "006Rb00000bU3RRIA0",
+      "event_type": null,
+      "who_phone": "+16692706257",
+      "who_email": "dcharest@youralpine.com"
     },
     {
       "id": "00URb00000RH8UjMAL",
@@ -318,24 +336,6 @@
       "who_email": ""
     },
     {
-      "id": "00URb00000RIx26MAD",
-      "category": "sales",
-      "resource": "Amber Bandanza",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Vish Upadhyay | Morgan Hill",
-      "location": "Morgan Hill",
-      "start": "2026-07-07T20:00:00.000+0000",
-      "end": "2026-07-07T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Vish Upadhyay",
-      "whoId": "",
-      "whatId": "006Rb00000bLAOrIAO",
-      "event_type": null,
-      "who_phone": "",
-      "who_email": ""
-    },
-    {
       "id": "00URb00000R9Q2CMAV",
       "category": "sales",
       "resource": "Brian Todd",
@@ -354,22 +354,22 @@
       "who_email": "madhavi_bhamidpati@gmail.com"
     },
     {
-      "id": "00URb00000R7dDCMAZ",
+      "id": "00URb00000RIx26MAD",
       "category": "sales",
-      "resource": "Chris Loeswick",
+      "resource": "Amber Bandanza",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Faye Reyes | Pacifica-Costco",
-      "location": "Pacifica-Costco",
+      "label": "Sales Presentation | Vish Upadhyay | Morgan Hill",
+      "location": "Morgan Hill",
       "start": "2026-07-07T20:00:00.000+0000",
       "end": "2026-07-07T22:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Faye Reyes",
-      "related_name": "Faye Reyes-Costco-",
-      "whoId": "003Rb00000eXKyxIAG",
-      "whatId": "006Rb00000bULMhIAO",
+      "contact_name": "",
+      "related_name": "Vish Upadhyay",
+      "whoId": "",
+      "whatId": "006Rb00000bLAOrIAO",
       "event_type": null,
-      "who_phone": "(408) 206-0459",
-      "who_email": "faye.reyes@gmail.com"
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000QtKomMAF",
@@ -388,6 +388,24 @@
       "event_type": "Assessment",
       "who_phone": "",
       "who_email": ""
+    },
+    {
+      "id": "00URb00000R7dDCMAZ",
+      "category": "sales",
+      "resource": "Chris Loeswick",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Faye Reyes | Pacifica-Costco",
+      "location": "Pacifica-Costco",
+      "start": "2026-07-07T20:00:00.000+0000",
+      "end": "2026-07-07T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Faye Reyes",
+      "related_name": "Faye Reyes-Costco-",
+      "whoId": "003Rb00000eXKyxIAG",
+      "whatId": "006Rb00000bULMhIAO",
+      "event_type": null,
+      "who_phone": "(408) 206-0459",
+      "who_email": "faye.reyes@gmail.com"
     },
     {
       "id": "00URb00000RHEdJMAX",
@@ -426,24 +444,6 @@
       "who_email": ""
     },
     {
-      "id": "00URb00000RQ5qvMAD",
-      "category": "sales",
-      "resource": "Tim Duggan",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Rosaline Vasquez | Los Gatos",
-      "location": "Los Gatos",
-      "start": "2026-07-07T22:00:00.000+0000",
-      "end": "2026-07-08T00:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Rosaline Vasquez",
-      "related_name": "Rosaline Vasquez-",
-      "whoId": "003Rb00000eXKCDIA4",
-      "whatId": "006Rb00000bUMPBIA4",
-      "event_type": null,
-      "who_phone": "",
-      "who_email": "rosaline.vasquez@verizon.net"
-    },
-    {
       "id": "00URb00000RGFBgMAP",
       "category": "sales",
       "resource": "Steven McIntire",
@@ -460,6 +460,24 @@
       "event_type": null,
       "who_phone": "",
       "who_email": "jusman15@yahoo.com"
+    },
+    {
+      "id": "00URb00000RQ5qvMAD",
+      "category": "sales",
+      "resource": "Tim Duggan",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Rosaline Vasquez | Los Gatos",
+      "location": "Los Gatos",
+      "start": "2026-07-07T22:00:00.000+0000",
+      "end": "2026-07-08T00:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Rosaline Vasquez",
+      "related_name": "Rosaline Vasquez-",
+      "whoId": "003Rb00000eXKCDIA4",
+      "whatId": "006Rb00000bUMPBIA4",
+      "event_type": null,
+      "who_phone": "",
+      "who_email": "rosaline.vasquez@verizon.net"
     },
     {
       "id": "00URb00000RQ7r7MAD",
@@ -480,24 +498,6 @@
       "who_email": "thomasjefferson84@gmail.com"
     },
     {
-      "id": "00URb00000RFvg0MAD",
-      "category": "sales",
-      "resource": "Chris Loeswick",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Frank Adam | Pacifica-Costco-Chris",
-      "location": "Pacifica-Costco-Chris",
-      "start": "2026-07-07T23:00:00.000+0000",
-      "end": "2026-07-08T01:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Frank Adam",
-      "related_name": "Frank Adam-Costco-",
-      "whoId": "003Rb00000eWoDyIAK",
-      "whatId": "006Rb00000bULbBIAW",
-      "event_type": null,
-      "who_phone": "(415) 385-8216",
-      "who_email": "frank@frankadam.com"
-    },
-    {
       "id": "00URb00000REMh3MAH",
       "category": "sales",
       "resource": "Anthony Hall",
@@ -514,6 +514,24 @@
       "event_type": null,
       "who_phone": "(925) 519-2676",
       "who_email": "m.carreon@comcast.net"
+    },
+    {
+      "id": "00URb00000RFvg0MAD",
+      "category": "sales",
+      "resource": "Chris Loeswick",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Frank Adam | Pacifica-Costco-Chris",
+      "location": "Pacifica-Costco-Chris",
+      "start": "2026-07-07T23:00:00.000+0000",
+      "end": "2026-07-08T01:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Frank Adam",
+      "related_name": "Frank Adam-Costco-",
+      "whoId": "003Rb00000eWoDyIAK",
+      "whatId": "006Rb00000bULbBIAW",
+      "event_type": null,
+      "who_phone": "(415) 385-8216",
+      "who_email": "frank@frankadam.com"
     }
   ]
 }
