@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07T21:45:21.093339Z",
+  "generated": "2026-07-07T21:50:19.708622Z",
   "date_range": {
     "start": "2026-07-07",
     "end": "2026-07-07"
@@ -80,24 +80,6 @@
       "whoId": "",
       "whatId": "006Rb00000a9dILIAY",
       "event_type": null,
-      "who_phone": "",
-      "who_email": ""
-    },
-    {
-      "id": "00URb00000R2ljFMAR",
-      "category": "service",
-      "resource": "Service/C5",
-      "subject": "Service/C5",
-      "label": "Service/C5 | 18043 | Santa Rosa",
-      "location": "Santa Rosa",
-      "start": "2026-07-07T17:00:00.000+0000",
-      "end": "2026-07-07T20:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "18043",
-      "whoId": "",
-      "whatId": "a0LRb00000DNvm5MAD",
-      "event_type": "Service",
       "who_phone": "",
       "who_email": ""
     },
@@ -192,6 +174,24 @@
       "who_email": ""
     },
     {
+      "id": "00URb00000R2ljFMAR",
+      "category": "service",
+      "resource": "Service/C5",
+      "subject": "Service/C5",
+      "label": "Service/C5 | 18043 | Santa Rosa",
+      "location": "Santa Rosa",
+      "start": "2026-07-07T17:00:00.000+0000",
+      "end": "2026-07-07T20:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "18043",
+      "whoId": "",
+      "whatId": "a0LRb00000DNvm5MAD",
+      "event_type": "Service",
+      "who_phone": "",
+      "who_email": ""
+    },
+    {
       "id": "00URb00000RFlWxMAL",
       "category": "sales",
       "resource": "Amber Bandanza",
@@ -264,24 +264,6 @@
       "who_email": "steve@flagpolepros.com"
     },
     {
-      "id": "00URb00000RM053MAD",
-      "category": "sales",
-      "resource": "Tim Duggan",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Roger Luo | Burlingame",
-      "location": "Burlingame",
-      "start": "2026-07-07T18:00:00.000+0000",
-      "end": "2026-07-07T20:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Roger Luo",
-      "related_name": "Roger Luo-",
-      "whoId": "003Rb00000eWcZZIA0",
-      "whatId": "006Rb00000bTwMiIAK",
-      "event_type": null,
-      "who_phone": "",
-      "who_email": "luoj.roger@gmail.com"
-    },
-    {
       "id": "00URb00000RGbyXMAT",
       "category": "sales",
       "resource": "Mike Wells",
@@ -300,6 +282,24 @@
       "who_email": "alexandra.cram.ross@gmail.com"
     },
     {
+      "id": "00URb00000RM053MAD",
+      "category": "sales",
+      "resource": "Tim Duggan",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Roger Luo | Burlingame",
+      "location": "Burlingame",
+      "start": "2026-07-07T18:00:00.000+0000",
+      "end": "2026-07-07T20:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Roger Luo",
+      "related_name": "Roger Luo-",
+      "whoId": "003Rb00000eWcZZIA0",
+      "whatId": "006Rb00000bTwMiIAK",
+      "event_type": null,
+      "who_phone": "",
+      "who_email": "luoj.roger@gmail.com"
+    },
+    {
       "id": "00URb00000Qu7r3MAB",
       "category": "sales",
       "resource": "Anthony Hall",
@@ -315,6 +315,24 @@
       "whatId": "006Rb00000bU5pnIAC",
       "event_type": null,
       "who_phone": "(510) 812-1149",
+      "who_email": ""
+    },
+    {
+      "id": "00URb00000RIx26MAD",
+      "category": "sales",
+      "resource": "Amber Bandanza",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Vish Upadhyay | Morgan Hill",
+      "location": "Morgan Hill",
+      "start": "2026-07-07T20:00:00.000+0000",
+      "end": "2026-07-07T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Vish Upadhyay",
+      "whoId": "",
+      "whatId": "006Rb00000bLAOrIAO",
+      "event_type": null,
+      "who_phone": "",
       "who_email": ""
     },
     {
@@ -336,22 +354,22 @@
       "who_email": "madhavi_bhamidpati@gmail.com"
     },
     {
-      "id": "00URb00000RIx26MAD",
+      "id": "00URb00000R7dDCMAZ",
       "category": "sales",
-      "resource": "Amber Bandanza",
+      "resource": "Chris Loeswick",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Vish Upadhyay | Morgan Hill",
-      "location": "Morgan Hill",
+      "label": "Sales Presentation | Faye Reyes | Pacifica-Costco",
+      "location": "Pacifica-Costco",
       "start": "2026-07-07T20:00:00.000+0000",
       "end": "2026-07-07T22:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Vish Upadhyay",
-      "whoId": "",
-      "whatId": "006Rb00000bLAOrIAO",
+      "contact_name": "Faye Reyes",
+      "related_name": "Faye Reyes-Costco-",
+      "whoId": "003Rb00000eXKyxIAG",
+      "whatId": "006Rb00000bULMhIAO",
       "event_type": null,
-      "who_phone": "",
-      "who_email": ""
+      "who_phone": "(408) 206-0459",
+      "who_email": "faye.reyes@gmail.com"
     },
     {
       "id": "00URb00000QtKomMAF",
@@ -372,22 +390,22 @@
       "who_email": ""
     },
     {
-      "id": "00URb00000R7dDCMAZ",
+      "id": "00URb00000QuImTMAV",
       "category": "sales",
-      "resource": "Chris Loeswick",
+      "resource": "Mike Wells",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Faye Reyes | Pacifica-Costco",
-      "location": "Pacifica-Costco",
-      "start": "2026-07-07T20:00:00.000+0000",
-      "end": "2026-07-07T22:00:00.000+0000",
+      "label": "Sales Presentation | Alvin Burns | Oakland",
+      "location": "Oakland",
+      "start": "2026-07-07T21:00:00.000+0000",
+      "end": "2026-07-07T23:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Faye Reyes",
-      "related_name": "Faye Reyes-Costco-",
-      "whoId": "003Rb00000eXKyxIAG",
-      "whatId": "006Rb00000bULMhIAO",
+      "contact_name": "",
+      "related_name": "Alvin Burns",
+      "whoId": "",
+      "whatId": "006Rb00000arNg6IAE",
       "event_type": null,
-      "who_phone": "(408) 206-0459",
-      "who_email": "faye.reyes@gmail.com"
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000RHEdJMAX",
@@ -406,24 +424,6 @@
       "event_type": null,
       "who_phone": "",
       "who_email": "jdseidenseld@gmail.com"
-    },
-    {
-      "id": "00URb00000QuImTMAV",
-      "category": "sales",
-      "resource": "Mike Wells",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Alvin Burns | Oakland",
-      "location": "Oakland",
-      "start": "2026-07-07T21:00:00.000+0000",
-      "end": "2026-07-07T23:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Alvin Burns",
-      "whoId": "",
-      "whatId": "006Rb00000arNg6IAE",
-      "event_type": null,
-      "who_phone": "",
-      "who_email": ""
     },
     {
       "id": "00URb00000RGFBgMAP",
@@ -462,24 +462,6 @@
       "who_email": "rosaline.vasquez@verizon.net"
     },
     {
-      "id": "00URb00000RQ7r7MAD",
-      "category": "sales",
-      "resource": "Amber Bandanza",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Thomas Morrison | Santa Clara",
-      "location": "Santa Clara",
-      "start": "2026-07-07T23:00:00.000+0000",
-      "end": "2026-07-08T01:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Thomas Morrison",
-      "related_name": "Thomas Morrison-",
-      "whoId": "003Rb00000eWhHMIA0",
-      "whatId": "006Rb00000bUEWUIA4",
-      "event_type": null,
-      "who_phone": "",
-      "who_email": "thomasjefferson84@gmail.com"
-    },
-    {
       "id": "00URb00000REMh3MAH",
       "category": "sales",
       "resource": "Anthony Hall",
@@ -496,6 +478,24 @@
       "event_type": null,
       "who_phone": "(925) 519-2676",
       "who_email": "m.carreon@comcast.net"
+    },
+    {
+      "id": "00URb00000RQ7r7MAD",
+      "category": "sales",
+      "resource": "Amber Bandanza",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Thomas Morrison | Santa Clara",
+      "location": "Santa Clara",
+      "start": "2026-07-07T23:00:00.000+0000",
+      "end": "2026-07-08T01:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Thomas Morrison",
+      "related_name": "Thomas Morrison-",
+      "whoId": "003Rb00000eWhHMIA0",
+      "whatId": "006Rb00000bUEWUIA4",
+      "event_type": null,
+      "who_phone": "",
+      "who_email": "thomasjefferson84@gmail.com"
     },
     {
       "id": "00URb00000RFvg0MAD",
