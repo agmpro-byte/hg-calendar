@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T21:50:21.717728Z",
+  "generated": "2026-07-10T21:55:19.524727Z",
   "date_range": {
     "start": "2026-07-10",
     "end": "2026-07-10"
@@ -65,6 +65,24 @@
       "who_email": "dinhanhtrung@gmail.com"
     },
     {
+      "id": "00URb00000RDOprMAH",
+      "category": "time_off",
+      "resource": "Amber Bandanza",
+      "subject": "Off",
+      "label": "Off | Gilroy",
+      "location": "Gilroy",
+      "start": "2026-07-10T15:00:00.000+0000",
+      "end": "2026-07-11T03:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "whoId": "",
+      "whatId": "",
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
+    },
+    {
       "id": "00URb00000QuXn7MAF",
       "category": "time_off",
       "resource": "Chris Loeswick",
@@ -83,13 +101,13 @@
       "who_email": ""
     },
     {
-      "id": "00URb00000RDOprMAH",
+      "id": "00URb00000RbFeuMAF",
       "category": "time_off",
-      "resource": "Amber Bandanza",
+      "resource": "Chris Loeswick",
       "subject": "Off",
-      "label": "Off | Gilroy",
-      "location": "Gilroy",
-      "start": "2026-07-10T15:00:00.000+0000",
+      "label": "Off | El Granada",
+      "location": "El Granada",
+      "start": "2026-07-10T16:00:00.000+0000",
       "end": "2026-07-11T03:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
@@ -132,24 +150,6 @@
       "related_name": "Kim Dollens- SY",
       "whoId": "",
       "whatId": "006Rb00000b2hUzIAI",
-      "event_type": null,
-      "who_phone": "",
-      "who_email": ""
-    },
-    {
-      "id": "00URb00000RbFeuMAF",
-      "category": "time_off",
-      "resource": "Chris Loeswick",
-      "subject": "Off",
-      "label": "Off | El Granada",
-      "location": "El Granada",
-      "start": "2026-07-10T16:00:00.000+0000",
-      "end": "2026-07-11T03:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "whoId": "",
-      "whatId": "",
       "event_type": null,
       "who_phone": "",
       "who_email": ""
@@ -371,24 +371,6 @@
       "who_email": "jawickes1@gmail.com"
     },
     {
-      "id": "00URb00000Qjvj7MAB",
-      "category": "service",
-      "resource": "Service/C3",
-      "subject": "Service/C3",
-      "label": "Service/C3 | 18013 | Santa Rosa",
-      "location": "Santa Rosa",
-      "start": "2026-07-10T19:30:00.000+0000",
-      "end": "2026-07-10T22:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "18013",
-      "whoId": "",
-      "whatId": "a0LRb00000DBuSPMA1",
-      "event_type": "Service",
-      "who_phone": "",
-      "who_email": ""
-    },
-    {
       "id": "00URb00000RWoF6MAL",
       "category": "sales",
       "resource": "Tim Duggan",
@@ -405,6 +387,24 @@
       "event_type": null,
       "who_phone": "",
       "who_email": "daohori@sbcglobal.net"
+    },
+    {
+      "id": "00URb00000Qjvj7MAB",
+      "category": "service",
+      "resource": "Service/C3",
+      "subject": "Service/C3",
+      "label": "Service/C3 | 18013 | Santa Rosa",
+      "location": "Santa Rosa",
+      "start": "2026-07-10T19:30:00.000+0000",
+      "end": "2026-07-10T22:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "18013",
+      "whoId": "",
+      "whatId": "a0LRb00000DBuSPMA1",
+      "event_type": "Service",
+      "who_phone": "",
+      "who_email": ""
     },
     {
       "id": "00URb00000RTd01MAD",
@@ -425,24 +425,6 @@
       "who_email": "hmi.archer@icloud.com"
     },
     {
-      "id": "00URb00000RUVWfMAP",
-      "category": "sales",
-      "resource": "Johnny Van Wyk",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Austin Ai | San Jose",
-      "location": "San Jose",
-      "start": "2026-07-10T20:00:00.000+0000",
-      "end": "2026-07-10T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Austin Ai",
-      "related_name": "Austin Ai-",
-      "whoId": "003Rb00000ejC7dIAE",
-      "whatId": "006Rb00000bcwYjIAI",
-      "event_type": null,
-      "who_phone": "",
-      "who_email": "austinjose103307@gmail.com"
-    },
-    {
       "id": "00URb00000PMyn7MAD",
       "category": "service",
       "resource": "Service/C5",
@@ -459,6 +441,24 @@
       "event_type": "Assessment",
       "who_phone": "",
       "who_email": ""
+    },
+    {
+      "id": "00URb00000RUVWfMAP",
+      "category": "sales",
+      "resource": "Johnny Van Wyk",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Austin Ai | San Jose",
+      "location": "San Jose",
+      "start": "2026-07-10T20:00:00.000+0000",
+      "end": "2026-07-10T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Austin Ai",
+      "related_name": "Austin Ai-",
+      "whoId": "003Rb00000ejC7dIAE",
+      "whatId": "006Rb00000bcwYjIAI",
+      "event_type": null,
+      "who_phone": "",
+      "who_email": "austinjose103307@gmail.com"
     },
     {
       "id": "00URb00000RGFwSMAX",
