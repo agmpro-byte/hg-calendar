@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T15:50:20.856294Z",
+  "generated": "2026-07-17T15:55:20.037433Z",
   "date_range": {
     "start": "2026-07-17",
     "end": "2026-07-17"
@@ -378,8 +378,8 @@
       "category": "sales",
       "resource": "Steven McIntire",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Maria Solano | San Jose-Costco",
-      "location": "San Jose-Costco",
+      "label": "Sales Presentation | Maria Solano | Holister-Costco",
+      "location": "Holister-Costco",
       "start": "2026-07-17T20:00:00.000+0000",
       "end": "2026-07-17T22:00:00.000+0000",
       "is_all_day": false,
