@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-22T04:45:18.752992Z",
+  "generated": "2026-07-22T04:50:20.087730Z",
   "date_range": {
     "start": "2026-07-22",
     "end": "2026-07-22"
@@ -305,13 +305,13 @@
       "category": "sales",
       "resource": "Tim Duggan",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Gayle Colliver | Campbell",
+      "label": "Sales Presentation | Gail Colliver | Campbell",
       "location": "Campbell",
       "start": "2026-07-22T18:00:00.000+0000",
       "end": "2026-07-22T20:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Gayle Colliver",
-      "related_name": "Gayle Colliver-",
+      "contact_name": "Gail Colliver",
+      "related_name": "Gail Colliver-",
       "whoId": "003Rb00000fEOpGIAW",
       "whatId": "006Rb00000c2kKDIAY",
       "event_type": null,
