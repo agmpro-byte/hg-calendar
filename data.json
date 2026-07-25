@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-25T01:30:20.859763Z",
+  "generated": "2026-07-25T01:35:19.183130Z",
   "date_range": {
     "start": "2026-07-25",
     "end": "2026-07-25"
@@ -40,6 +40,24 @@
       "who_email": "du.carl2009@gmail.com"
     },
     {
+      "id": "00URb00000S3P8DMAV",
+      "category": "time_off",
+      "resource": "Chris Loeswick",
+      "subject": "Off",
+      "label": "Off | san francisco",
+      "location": "san francisco",
+      "start": "2026-07-25T14:00:00.000+0000",
+      "end": "2026-07-25T22:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "whoId": "",
+      "whatId": "",
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
+    },
+    {
       "id": "00URb00000RCX45MAH",
       "category": "time_off",
       "resource": "Sherrie Feinstein",
@@ -58,14 +76,14 @@
       "who_email": ""
     },
     {
-      "id": "00URb00000RtlGUMAZ",
-      "category": "time_off",
-      "resource": "Tim Duggan",
-      "subject": "Off",
-      "label": "Off | off",
-      "location": "off",
+      "id": "00URb00000RypmTMAR",
+      "category": "sales",
+      "resource": "Steven McIntire",
+      "subject": "Follow Up",
+      "label": "Follow Up | 967 Ocho Rios Dr Danville",
+      "location": "967 Ocho Rios Dr Danville",
       "start": "2026-07-25T16:00:00.000+0000",
-      "end": "2026-07-26T01:00:00.000+0000",
+      "end": "2026-07-25T18:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
@@ -76,14 +94,14 @@
       "who_email": ""
     },
     {
-      "id": "00URb00000RypmTMAR",
-      "category": "sales",
-      "resource": "Steven McIntire",
-      "subject": "Follow Up",
-      "label": "Follow Up | 967 Ocho Rios Dr Danville",
-      "location": "967 Ocho Rios Dr Danville",
+      "id": "00URb00000RtlGUMAZ",
+      "category": "time_off",
+      "resource": "Tim Duggan",
+      "subject": "Off",
+      "label": "Off | off",
+      "location": "off",
       "start": "2026-07-25T16:00:00.000+0000",
-      "end": "2026-07-25T18:00:00.000+0000",
+      "end": "2026-07-26T01:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
@@ -202,6 +220,24 @@
       "who_email": "ani123.aniruddha@gmail.com"
     },
     {
+      "id": "00URb00000RKtwsMAD",
+      "category": "sales",
+      "resource": "Anthony Hall",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Timothy Lai | San Jose-Costco-Anthony Hall",
+      "location": "San Jose-Costco-Anthony Hall",
+      "start": "2026-07-25T20:00:00.000+0000",
+      "end": "2026-07-25T22:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Timothy Lai",
+      "related_name": "Timothy Lai-Costco-",
+      "whoId": "003Rb00000fNuLHIA0",
+      "whatId": "006Rb00000cAbrfIAC",
+      "event_type": null,
+      "who_phone": "(415) 816-6328",
+      "who_email": "timothy.e.lai@gmail.com"
+    },
+    {
       "id": "00URb00000QjrKXMAZ",
       "category": "sales",
       "resource": "Call Center",
@@ -238,24 +274,6 @@
       "who_email": "lindadavis10@gmail.com"
     },
     {
-      "id": "00URb00000RKtwsMAD",
-      "category": "sales",
-      "resource": "Anthony Hall",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Timothy Lai | San Jose-Costco-Anthony Hall",
-      "location": "San Jose-Costco-Anthony Hall",
-      "start": "2026-07-25T20:00:00.000+0000",
-      "end": "2026-07-25T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Timothy Lai",
-      "related_name": "Timothy Lai-Costco-",
-      "whoId": "003Rb00000fNuLHIA0",
-      "whatId": "006Rb00000cAbrfIAC",
-      "event_type": null,
-      "who_phone": "(415) 816-6328",
-      "who_email": "timothy.e.lai@gmail.com"
-    },
-    {
       "id": "00URb00000HLGwXMAX",
       "category": "time_off",
       "resource": "Tim Duggan",
@@ -287,24 +305,6 @@
       "related_name": "Kim Pfeiffer\u00a0-",
       "whoId": "003Rb00000fAxvGIAS",
       "whatId": "006Rb00000bzdS9IAI",
-      "event_type": null,
-      "who_phone": "",
-      "who_email": ""
-    },
-    {
-      "id": "00URb00000Rw6K8MAJ",
-      "category": "time_off",
-      "resource": "Johnny Van Wyk",
-      "subject": "Off",
-      "label": "Off | San Jose",
-      "location": "San Jose",
-      "start": "2026-07-25T23:00:00.000+0000",
-      "end": "2026-07-26T03:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "whoId": "",
-      "whatId": "",
       "event_type": null,
       "who_phone": "",
       "who_email": ""
@@ -344,6 +344,24 @@
       "event_type": null,
       "who_phone": "(650) 504-3592",
       "who_email": "geetadevjani@yahoo.com"
+    },
+    {
+      "id": "00URb00000Rw6K8MAJ",
+      "category": "time_off",
+      "resource": "Johnny Van Wyk",
+      "subject": "Off",
+      "label": "Off | San Jose",
+      "location": "San Jose",
+      "start": "2026-07-25T23:00:00.000+0000",
+      "end": "2026-07-26T03:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "",
+      "whoId": "",
+      "whatId": "",
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
     }
   ]
 }
