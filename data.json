@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T06:45:19.784531Z",
+  "generated": "2026-07-27T06:50:18.929916Z",
   "date_range": {
     "start": "2026-07-27",
     "end": "2026-07-27"
@@ -443,7 +443,7 @@
       "label": "Sales Presentation | Peiha Gu | San Jose-Costco-Anthony Hall",
       "location": "San Jose-Costco-Anthony Hall",
       "start": "2026-07-27T17:00:00.000+0000",
-      "end": "2026-07-27T19:00:00.000+0000",
+      "end": "2026-07-27T19:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "Peiha Gu",
       "related_name": "Peiha Gu-Costco-",
@@ -587,7 +587,7 @@
       "label": "Wrap-Up | Enyeart blower",
       "location": "Enyeart blower",
       "start": "2026-07-27T20:15:00.000+0000",
-      "end": "2026-07-27T20:20:00.000+0000",
+      "end": "2026-07-27T21:20:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
@@ -605,7 +605,7 @@
       "label": "Sales Presentation | Charles Clay | Vallejo-Anthony-Costco",
       "location": "Vallejo-Anthony-Costco",
       "start": "2026-07-27T20:30:00.000+0000",
-      "end": "2026-07-27T22:00:00.000+0000",
+      "end": "2026-07-27T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "Charles Clay",
       "related_name": "Charles Clay-Costco-",
