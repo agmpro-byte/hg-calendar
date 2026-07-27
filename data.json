@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T06:40:18.846995Z",
+  "generated": "2026-07-27T06:45:19.784531Z",
   "date_range": {
     "start": "2026-07-27",
     "end": "2026-07-27"
@@ -551,7 +551,7 @@
       "label": "Sales Presentation | Janice Shavalia | Manteca",
       "location": "Manteca",
       "start": "2026-07-27T20:00:00.000+0000",
-      "end": "2026-07-27T22:00:00.000+0000",
+      "end": "2026-07-27T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "Janice Shavalia",
       "related_name": "",
