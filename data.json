@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T19:40:20.137200Z",
+  "generated": "2026-07-27T19:45:20.918841Z",
   "date_range": {
     "start": "2026-07-27",
     "end": "2026-07-27"
@@ -245,7 +245,7 @@
       "label": "Bedrock Construction | Amal Georges-Costco- FY | San Jose - 1008 sqft, removal, base, steel, foundation heritage, sand",
       "location": "San Jose - 1008 sqft, removal, base, steel, foundation heritage, sand",
       "start": "2026-07-27T15:30:00.000+0000",
-      "end": "2026-07-28T23:00:00.000+0000",
+      "end": "2026-07-28T20:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Amal Georges-Costco- FY",
@@ -299,7 +299,7 @@
       "label": "Prestige Turf | Brandon Colin-Costco- FY | Mantea - 638 sqft, removal, base, K9 park Olive, sand, aluminum, steel,",
       "location": "Mantea - 638 sqft, removal, base, K9 park Olive, sand, aluminum, steel,",
       "start": "2026-07-27T15:30:00.000+0000",
-      "end": "2026-07-29T23:00:00.000+0000",
+      "end": "2026-07-27T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Brandon Colin-Costco- FY",
