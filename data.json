@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T16:35:20.670217Z",
+  "generated": "2026-07-29T16:40:20.238033Z",
   "date_range": {
     "start": "2026-07-29",
     "end": "2026-07-29"
@@ -204,7 +204,7 @@
       "label": "Prestige Turf | Brendon Vogel-FY | Napa - 761 sqft, no removal, no base, Coronado , camofill",
       "location": "Napa - 761 sqft, no removal, no base, Coronado , camofill",
       "start": "2026-07-29T15:30:00.000+0000",
-      "end": "2026-07-30T23:30:00.000+0000",
+      "end": "2026-07-29T23:30:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Brendon Vogel-FY",
@@ -240,7 +240,7 @@
       "label": "Bedrock Construction | Susan Frank- BY | Mountain View - 541 sqft, removal, base, Coronado, air drain, camofill, aluminum ,gg",
       "location": "Mountain View - 541 sqft, removal, base, Coronado, air drain, camofill, aluminum ,gg",
       "start": "2026-07-29T16:00:00.000+0000",
-      "end": "2026-07-30T23:00:00.000+0000",
+      "end": "2026-07-29T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Susan Frank- BY",
