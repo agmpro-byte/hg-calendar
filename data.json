@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30T17:05:20.357559Z",
+  "generated": "2026-07-30T17:10:19.644387Z",
   "date_range": {
     "start": "2026-07-30",
     "end": "2026-07-30"
@@ -206,7 +206,7 @@
       "label": "Bedrock Construction | Kevin and Tiffany Wolf- BY | Menlo Park - 1018 sqft, remove existing turf, coronado, wonderfill",
       "location": "Menlo Park - 1018 sqft, remove existing turf, coronado, wonderfill",
       "start": "2026-07-30T15:30:00.000+0000",
-      "end": "2026-07-31T23:00:00.000+0000",
+      "end": "2026-07-30T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Kevin and Tiffany Wolf- BY",
@@ -242,7 +242,7 @@
       "label": "Creww 16 | GARRITT BLANZ- Costco | San Francisco - 192 sqft, base, summer rye, optifill",
       "location": "San Francisco - 192 sqft, base, summer rye, optifill",
       "start": "2026-07-30T16:00:00.000+0000",
-      "end": "2026-07-31T23:00:00.000+0000",
+      "end": "2026-07-30T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "GARRITT BLANZ- Costco",
