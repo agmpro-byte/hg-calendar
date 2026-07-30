@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30T20:20:20.941205Z",
+  "generated": "2026-07-30T20:25:18.728050Z",
   "date_range": {
     "start": "2026-07-30",
     "end": "2026-07-30"
@@ -440,7 +440,7 @@
       "label": "Follow Up | follow up Andy Burlingame",
       "location": "follow up Andy Burlingame",
       "start": "2026-07-30T17:00:00.000+0000",
-      "end": "2026-07-30T17:45:00.000+0000",
+      "end": "2026-07-30T18:15:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "",
