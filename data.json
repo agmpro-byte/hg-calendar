@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31T15:25:20.590993Z",
+  "generated": "2026-07-31T15:30:20.835492Z",
   "date_range": {
     "start": "2026-07-31",
     "end": "2026-07-31"
@@ -306,8 +306,8 @@
       "category": "sales",
       "resource": "Sherrie Feinstein",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Anne McGee | BRISBANE CA 94710",
-      "location": "BRISBANE CA 94710",
+      "label": "Sales Presentation | Anne McGee | 1290 Dana Ave Palo Alto CA 94301",
+      "location": "1290 Dana Ave Palo Alto CA 94301",
       "start": "2026-07-31T20:00:00.000+0000",
       "end": "2026-07-31T22:00:00.000+0000",
       "is_all_day": false,
