@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04T17:50:22.271900Z",
+  "generated": "2026-08-04T17:55:25.938307Z",
   "date_range": {
     "start": "2026-08-04",
     "end": "2026-08-04"
@@ -521,8 +521,8 @@
       "category": "sales",
       "resource": "Ray Richards",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Michael Antongiovanni | Novato",
-      "location": "Novato",
+      "label": "Sales Presentation | Michael Antongiovanni | 708 Glenhill Court Novato California 94947",
+      "location": "708 Glenhill Court Novato California 94947",
       "start": "2026-08-04T23:00:00.000+0000",
       "end": "2026-08-05T01:00:00.000+0000",
       "is_all_day": false,
