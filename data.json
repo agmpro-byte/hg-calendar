@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04T17:55:25.938307Z",
+  "generated": "2026-08-04T18:00:38.031730Z",
   "date_range": {
     "start": "2026-08-04",
     "end": "2026-08-04"
@@ -215,8 +215,8 @@
       "category": "sales",
       "resource": "Brian Todd",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Rodney Furtado | Tracy",
-      "location": "Tracy",
+      "label": "Sales Presentation | Rodney Furtado | 2059 Gines Ln Tracy CA",
+      "location": "2059 Gines Ln Tracy CA",
       "start": "2026-08-04T17:00:00.000+0000",
       "end": "2026-08-04T19:00:00.000+0000",
       "is_all_day": false,
@@ -233,8 +233,8 @@
       "category": "sales",
       "resource": "Amber Bandanza",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Shane O'Neal | Santa Cruz - amber",
-      "location": "Santa Cruz - amber",
+      "label": "Sales Presentation | Shane O'Neal | 1240 Graham Hill Road Santa Cruz 95060",
+      "location": "1240 Graham Hill Road Santa Cruz 95060",
       "start": "2026-08-04T17:00:00.000+0000",
       "end": "2026-08-04T19:00:00.000+0000",
       "is_all_day": false,
