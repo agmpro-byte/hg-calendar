@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-06T13:15:19.928512Z",
+  "generated": "2026-08-06T13:20:22.726110Z",
   "date_range": {
     "start": "2026-08-06",
     "end": "2026-08-06"
@@ -634,8 +634,8 @@
       "category": "sales",
       "resource": "Steven McIntire",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Sandra Browne | Concord-Steven McI-Costco",
-      "location": "Concord-Steven McI-Costco",
+      "label": "Sales Presentation | Sandra Browne | 4403 Corkwood Ct. Concord CA 94521",
+      "location": "4403 Corkwood Ct. Concord CA 94521",
       "start": "2026-08-06T22:00:00.000+0000",
       "end": "2026-08-07T00:00:00.000+0000",
       "is_all_day": false,
