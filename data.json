@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-06T14:10:42.055710Z",
+  "generated": "2026-08-06T14:15:31.497939Z",
   "date_range": {
     "start": "2026-08-06",
     "end": "2026-08-06"
@@ -43,7 +43,7 @@
       "label": "Bedrock Construction | REQUESTED OFF",
       "location": "REQUESTED OFF",
       "start": "2026-08-06T00:00:00.000+0000",
-      "end": "2026-08-06T00:00:00.000+0000",
+      "end": "2026-08-07T00:00:00.000+0000",
       "is_all_day": true,
       "contact_name": "",
       "related_name": "",
