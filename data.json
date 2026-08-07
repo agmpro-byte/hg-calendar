@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-07T21:15:20.177172Z",
+  "generated": "2026-08-07T21:20:19.027647Z",
   "date_range": {
     "start": "2026-08-07",
     "end": "2026-08-07"
@@ -463,7 +463,7 @@
     {
       "id": "00URb00000SFk5dMAD",
       "category": "sales",
-      "resource": "Anthony Hall",
+      "resource": "Call Center",
       "subject": "Sales Presentation",
       "label": "Sales Presentation | Daniel Romero | 100 Carnival Ct Vallejo CA 94589",
       "location": "100 Carnival Ct Vallejo CA 94589",
