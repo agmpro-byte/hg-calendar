@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-08T13:15:20.500824Z",
+  "generated": "2026-08-08T13:20:19.564271Z",
   "date_range": {
     "start": "2026-08-08",
     "end": "2026-08-08"
@@ -170,8 +170,8 @@
       "category": "sales",
       "resource": "Ray Richards",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Stephen Stark | Carmichael",
-      "location": "Carmichael",
+      "label": "Sales Presentation | Stephen Stark | 6904 Landis Ave Carmichael CA 95608",
+      "location": "6904 Landis Ave Carmichael CA 95608",
       "start": "2026-08-08T18:00:00.000+0000",
       "end": "2026-08-08T20:00:00.000+0000",
       "is_all_day": false,
