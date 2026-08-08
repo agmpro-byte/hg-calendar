@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-08T05:25:21.354442Z",
+  "generated": "2026-08-08T05:30:22.226897Z",
   "date_range": {
     "start": "2026-08-08",
     "end": "2026-08-08"
@@ -206,8 +206,8 @@
       "category": "sales",
       "resource": "Tim Duggan",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Naichi Liu-Costco- | San Mateo - Costco",
-      "location": "San Mateo - Costco",
+      "label": "Sales Presentation | Naichi Liu-Costco- | San Mateo - Costco FY",
+      "location": "San Mateo - Costco FY",
       "start": "2026-08-08T21:30:00.000+0000",
       "end": "2026-08-08T23:00:00.000+0000",
       "is_all_day": false,
