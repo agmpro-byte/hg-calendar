@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10T15:40:22.640332Z",
+  "generated": "2026-08-10T15:45:19.916762Z",
   "date_range": {
     "start": "2026-08-10",
     "end": "2026-08-10"
@@ -636,8 +636,8 @@
       "category": "sales",
       "resource": "Chris Loeswick",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Elle Parkmann | 369 Abbott ave Daly City CA 94112",
-      "location": "369 Abbott ave Daly City CA 94112",
+      "label": "Sales Presentation | Elle Parkmann | 329 Abbott ave Daly City CA 94112",
+      "location": "329 Abbott ave Daly City CA 94112",
       "start": "2026-08-10T22:00:00.000+0000",
       "end": "2026-08-11T00:00:00.000+0000",
       "is_all_day": false,
