@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T18:20:24.044953Z",
+  "generated": "2026-08-14T18:25:18.907808Z",
   "date_range": {
     "start": "2026-08-14",
     "end": "2026-08-14"
@@ -416,12 +416,12 @@
       "category": "sales",
       "resource": "Amber Bandanza",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Brenda Versteeg | 16755 San Dimas Ln Morgan Hill CA 95037",
+      "label": "Sales Presentation | Brenda and Lucien Versteeg Versteeg | 16755 San Dimas Ln Morgan Hill CA 95037",
       "location": "16755 San Dimas Ln Morgan Hill CA 95037",
       "start": "2026-08-14T17:00:00.000+0000",
       "end": "2026-08-14T19:00:00.000+0000",
       "is_all_day": false,
-      "contact_name": "Brenda Versteeg",
+      "contact_name": "Brenda and Lucien Versteeg Versteeg",
       "related_name": "Brenda Versteeg-",
       "whoId": "003Rb00000gDtmVIAS",
       "whatId": "006Rb00000csVCDIA2",
