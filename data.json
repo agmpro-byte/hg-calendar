@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T18:25:18.907808Z",
+  "generated": "2026-08-14T18:30:26.095263Z",
   "date_range": {
     "start": "2026-08-14",
     "end": "2026-08-14"
@@ -422,7 +422,7 @@
       "end": "2026-08-14T19:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "Brenda and Lucien Versteeg Versteeg",
-      "related_name": "Brenda Versteeg-",
+      "related_name": "Brenda and Lucien Versteeg-",
       "whoId": "003Rb00000gDtmVIAS",
       "whatId": "006Rb00000csVCDIA2",
       "event_type": null,
