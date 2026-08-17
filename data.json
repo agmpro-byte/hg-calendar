@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T15:15:20.727518Z",
+  "generated": "2026-08-17T15:35:18.671293Z",
   "date_range": {
     "start": "2026-08-17",
     "end": "2026-08-17"
@@ -9,6 +9,7 @@
       "Amber Bandanza",
       "Anthony Hall",
       "Brian Todd",
+      "Call Center",
       "Chris Loeswick",
       "John Throne",
       "Johnny Van Wyk",
@@ -17,7 +18,6 @@
       "Sheldon Santos",
       "Sherrie Feinstein",
       "Steve Meadows",
-      "Steven McIntire",
       "Tim Duggan"
     ],
     "installation": [
@@ -618,7 +618,7 @@
     {
       "id": "00URb00000SMU8zMAH",
       "category": "sales",
-      "resource": "Steven McIntire",
+      "resource": "Call Center",
       "subject": "Sales Presentation",
       "label": "Sales Presentation | Fatana Mushtari | 4598 Duckhawk Circle Rancho Cordova CA 95742",
       "location": "4598 Duckhawk Circle Rancho Cordova CA 95742",
