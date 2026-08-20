@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T19:50:19.414429Z",
+  "generated": "2026-08-20T19:55:21.859789Z",
   "date_range": {
     "start": "2026-08-20",
     "end": "2026-08-20"
@@ -147,7 +147,7 @@
       "label": "Prestige Turf | Jim and Barbara MacLean- circle | Piedmont - 530 sqft, removal, base, weed barrier, summer rye, optifill",
       "location": "Piedmont - 530 sqft, removal, base, weed barrier, summer rye, optifill",
       "start": "2026-08-20T15:30:00.000+0000",
-      "end": "2026-08-21T23:00:00.000+0000",
+      "end": "2026-08-20T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Jim and Barbara MacLean- circle",
@@ -183,7 +183,7 @@
       "label": "Crew 3 | Jacek Sobczyk-Costco- BY | San Jose - 130 sqft, removal, base, meraki mania apple, sand, steel, extra labor",
       "location": "San Jose - 130 sqft, removal, base, meraki mania apple, sand, steel, extra labor",
       "start": "2026-08-20T15:30:00.000+0000",
-      "end": "2026-08-21T23:00:00.000+0000",
+      "end": "2026-08-20T23:00:00.000+0000",
       "is_all_day": false,
       "contact_name": "",
       "related_name": "Jacek Sobczyk-Costco- BY",
