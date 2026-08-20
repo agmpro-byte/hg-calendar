@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T19:00:30.234197Z",
+  "generated": "2026-08-20T19:05:20.199987Z",
   "date_range": {
     "start": "2026-08-20",
     "end": "2026-08-20"
@@ -486,8 +486,8 @@
       "category": "sales",
       "resource": "Steven McIntire",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Cliff Johnston | SANTA ROSA CA 95403",
-      "location": "SANTA ROSA CA 95403",
+      "label": "Sales Presentation | Cliff Johnston | Rohnert Park",
+      "location": "Rohnert Park",
       "start": "2026-08-20T21:00:00.000+0000",
       "end": "2026-08-20T23:00:00.000+0000",
       "is_all_day": false,
