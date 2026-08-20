@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T20:40:19.547882Z",
+  "generated": "2026-08-20T20:45:20.699701Z",
   "date_range": {
     "start": "2026-08-20",
     "end": "2026-08-20"
@@ -9,6 +9,7 @@
       "Amber Bandanza",
       "Anthony Hall",
       "Brian Todd",
+      "Call Center",
       "Chris Loeswick",
       "Clayton Johnson",
       "Mike Wells",
@@ -340,7 +341,7 @@
     {
       "id": "00URb00000ShDJdMAN",
       "category": "sales",
-      "resource": "Brian Todd",
+      "resource": "Call Center",
       "subject": "Sales Presentation",
       "label": "Sales Presentation | Satwinder Bagri | 662 Summer Ln Tracy CA 95376",
       "location": "662 Summer Ln Tracy CA 95376",
