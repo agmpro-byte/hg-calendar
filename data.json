@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T16:40:19.667016Z",
+  "generated": "2026-08-21T16:45:19.914558Z",
   "date_range": {
     "start": "2026-08-21",
     "end": "2026-08-21"
@@ -199,8 +199,8 @@
       "category": "sales",
       "resource": "Steven McIntire",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Galen Dea | Alameda",
-      "location": "Alameda",
+      "label": "Sales Presentation | Galen Dea | 165 Shannon Cir Alameda 94502-7755",
+      "location": "165 Shannon Cir Alameda 94502-7755",
       "start": "2026-08-21T17:00:00.000+0000",
       "end": "2026-08-21T19:00:00.000+0000",
       "is_all_day": false,
