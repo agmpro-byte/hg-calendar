@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T18:25:19.829551Z",
+  "generated": "2026-08-21T18:30:26.104286Z",
   "date_range": {
     "start": "2026-08-21",
     "end": "2026-08-21"
@@ -339,6 +339,24 @@
       "who_email": ""
     },
     {
+      "id": "00URb00000So6uvMAB",
+      "category": "sales",
+      "resource": "Brian Todd",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Mohammed Balmane | 618 Flagstone Drive Stockton CA 95206",
+      "location": "618 Flagstone Drive Stockton CA 95206",
+      "start": "2026-08-21T19:00:00.000+0000",
+      "end": "2026-08-21T21:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Mohammed Balmane",
+      "related_name": "Mohammed Balmane-Costco-",
+      "whoId": "003Rb00000gWcoLIAS",
+      "whatId": "006Rb00000d7xCzIAI",
+      "event_type": null,
+      "who_phone": "(408) 367-9227",
+      "who_email": "mbalmane88@gmail.com"
+    },
+    {
       "id": "00URb00000SqrXzMAJ",
       "category": "sales",
       "resource": "Mike Wells",
@@ -391,24 +409,6 @@
       "event_type": null,
       "who_phone": "",
       "who_email": "daniel.h.kim@me.com"
-    },
-    {
-      "id": "00URb00000So6uvMAB",
-      "category": "sales",
-      "resource": "Brian Todd",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Mohammed Balmane | 618 Flagstone Drive Stockton CA 95206",
-      "location": "618 Flagstone Drive Stockton CA 95206",
-      "start": "2026-08-21T20:00:00.000+0000",
-      "end": "2026-08-21T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Mohammed Balmane",
-      "related_name": "Mohammed Balmane-Costco-",
-      "whoId": "003Rb00000gWcoLIAS",
-      "whatId": "006Rb00000d7xCzIAI",
-      "event_type": null,
-      "who_phone": "(408) 367-9227",
-      "who_email": "mbalmane88@gmail.com"
     },
     {
       "id": "00URb00000SdKBeMAN",
