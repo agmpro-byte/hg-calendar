@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T17:00:30.223542Z",
+  "generated": "2026-08-25T17:05:21.125327Z",
   "date_range": {
     "start": "2026-08-25",
     "end": "2026-08-25"
@@ -13,7 +13,6 @@
       "Johnny Van Wyk",
       "Mike Wells",
       "Ray Richards",
-      "Sheldon Santos",
       "Sherrie Feinstein",
       "Steven McIntire",
       "Tim Duggan"
@@ -230,7 +229,7 @@
     {
       "id": "00URb00000Su7czMAB",
       "category": "sales",
-      "resource": "Sheldon Santos",
+      "resource": "Call Center",
       "subject": "Sales Presentation",
       "label": "Sales Presentation | Danielle Nieblas | 1436 Montclair Dr, Modesto, CA 95350",
       "location": "1436 Montclair Dr, Modesto, CA 95350",
