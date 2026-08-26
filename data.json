@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-26T14:10:19.952094Z",
+  "generated": "2026-08-26T14:15:20.042513Z",
   "date_range": {
     "start": "2026-08-26",
     "end": "2026-08-26"
@@ -447,24 +447,6 @@
       "event_type": null,
       "who_phone": "(650) 520-5259",
       "who_email": "svkyankees@yahoo.com"
-    },
-    {
-      "id": "00URb00000SyrxOMAR",
-      "category": "sales",
-      "resource": "Johnny Van Wyk",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | 5808 Trowbridge Way San Jose CA 95138",
-      "location": "5808 Trowbridge Way San Jose CA 95138",
-      "start": "2026-08-26T20:00:00.000+0000",
-      "end": "2026-08-26T22:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "",
-      "whoId": "",
-      "whatId": "",
-      "event_type": null,
-      "who_phone": "",
-      "who_email": ""
     },
     {
       "id": "00URb00000SWQ5hMAH",
