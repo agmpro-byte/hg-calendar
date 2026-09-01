@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-01T00:45:19.089114Z",
+  "generated": "2026-09-01T00:50:21.404057Z",
   "date_range": {
     "start": "2026-09-01",
     "end": "2026-09-01"
@@ -30,24 +30,6 @@
     ]
   },
   "events": [
-    {
-      "id": "00URb00000TARkbMAH",
-      "category": "sales",
-      "resource": "Anthony Hall",
-      "subject": "Customer Meeting",
-      "label": "Customer Meeting | Kelvin Thomas | Pittsburg-Costco-Anthony Hall",
-      "location": "Pittsburg-Costco-Anthony Hall",
-      "start": "2026-09-01T01:00:00.000+0000",
-      "end": "2026-09-01T02:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Kelvin Thomas",
-      "related_name": "",
-      "whoId": "0031S00001Fv8DjQAJ",
-      "whatId": "",
-      "event_type": null,
-      "who_phone": "",
-      "who_email": "kelvinthomas@charter.net"
-    },
     {
       "id": "00URb00000T5FH6MAN",
       "category": "sales",
@@ -103,24 +85,6 @@
       "who_email": ""
     },
     {
-      "id": "00URb00000T9LULMA3",
-      "category": "installation",
-      "resource": "Green Vision-Ernesto",
-      "subject": "Green Vision-Ernesto",
-      "label": "Green Vision-Ernesto | Felicia Radu-Costco- | FREMONT - 630 SQ FT,REMOVAL,BASE,FOUNDATIONS FREEDOM,GOPHER GUARD,SAND",
-      "location": "FREMONT - 630 SQ FT,REMOVAL,BASE,FOUNDATIONS FREEDOM,GOPHER GUARD,SAND",
-      "start": "2026-09-01T15:30:00.000+0000",
-      "end": "2026-09-02T23:30:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "",
-      "related_name": "Felicia Radu-Costco-",
-      "whoId": "",
-      "whatId": "006Rb00000bHJPAIA4",
-      "event_type": null,
-      "who_phone": "",
-      "who_email": ""
-    },
-    {
       "id": "00URb00000T9QtpMAF",
       "category": "installation",
       "resource": "Prestige Turf",
@@ -134,6 +98,24 @@
       "related_name": "Savrice Rocchiccioli-",
       "whoId": "",
       "whatId": "006Rb00000bkx9RIAQ",
+      "event_type": null,
+      "who_phone": "",
+      "who_email": ""
+    },
+    {
+      "id": "00URb00000T9LULMA3",
+      "category": "installation",
+      "resource": "Green Vision-Ernesto",
+      "subject": "Green Vision-Ernesto",
+      "label": "Green Vision-Ernesto | Felicia Radu-Costco- | FREMONT - 630 SQ FT,REMOVAL,BASE,FOUNDATIONS FREEDOM,GOPHER GUARD,SAND",
+      "location": "FREMONT - 630 SQ FT,REMOVAL,BASE,FOUNDATIONS FREEDOM,GOPHER GUARD,SAND",
+      "start": "2026-09-01T15:30:00.000+0000",
+      "end": "2026-09-02T23:30:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "",
+      "related_name": "Felicia Radu-Costco-",
+      "whoId": "",
+      "whatId": "006Rb00000bHJPAIA4",
       "event_type": null,
       "who_phone": "",
       "who_email": ""
@@ -155,6 +137,24 @@
       "event_type": null,
       "who_phone": "",
       "who_email": ""
+    },
+    {
+      "id": "00URb00000T1VQxMAN",
+      "category": "sales",
+      "resource": "Mike Wells",
+      "subject": "Sales Presentation",
+      "label": "Sales Presentation | Walter Mendoza | 4031 Peregrine Way Pleasanton CA 94566",
+      "location": "4031 Peregrine Way Pleasanton CA 94566",
+      "start": "2026-09-01T17:00:00.000+0000",
+      "end": "2026-09-01T19:00:00.000+0000",
+      "is_all_day": false,
+      "contact_name": "Walter Mendoza",
+      "related_name": "Walter Mendoza-",
+      "whoId": "003Rb00000gle3WIAQ",
+      "whatId": "006Rb00000dLNRNIA4",
+      "event_type": null,
+      "who_phone": "+15108753824",
+      "who_email": "waltermendoza904@gmail.com"
     },
     {
       "id": "00URb00000TAIz3MAH",
@@ -263,24 +263,6 @@
       "event_type": "Service",
       "who_phone": "",
       "who_email": ""
-    },
-    {
-      "id": "00URb00000T1VQxMAN",
-      "category": "sales",
-      "resource": "Mike Wells",
-      "subject": "Sales Presentation",
-      "label": "Sales Presentation | Walter Mendoza | 4031 Peregrine Way Pleasanton CA 94566",
-      "location": "4031 Peregrine Way Pleasanton CA 94566",
-      "start": "2026-09-01T17:00:00.000+0000",
-      "end": "2026-09-01T19:00:00.000+0000",
-      "is_all_day": false,
-      "contact_name": "Walter Mendoza",
-      "related_name": "Walter Mendoza-",
-      "whoId": "003Rb00000gle3WIAQ",
-      "whatId": "006Rb00000dLNRNIA4",
-      "event_type": null,
-      "who_phone": "+15108753824",
-      "who_email": "waltermendoza904@gmail.com"
     },
     {
       "id": "00URb00000T3wZqMAJ",
