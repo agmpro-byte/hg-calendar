@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T00:20:20.724898Z",
+  "generated": "2026-09-03T00:25:19.395946Z",
   "date_range": {
     "start": "2026-09-03",
     "end": "2026-09-03"
@@ -399,8 +399,8 @@
       "category": "sales",
       "resource": "Johnny Van Wyk",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Eric Schou | 1510 lupton ave San Jose  CA 95125",
-      "location": "1510 lupton ave San Jose  CA 95125",
+      "label": "Sales Presentation | Eric Schou | San Jose",
+      "location": "San Jose",
       "start": "2026-09-03T19:00:00.000+0000",
       "end": "2026-09-03T21:00:00.000+0000",
       "is_all_day": false,
@@ -489,8 +489,8 @@
       "category": "sales",
       "resource": "Johnny Van Wyk",
       "subject": "Sales Presentation",
-      "label": "Sales Presentation | Jeanny Ho | 580 Bellwood Dr Santa Clara CA 95054",
-      "location": "580 Bellwood Dr Santa Clara CA 95054",
+      "label": "Sales Presentation | Jeanny Ho | Santa Clara",
+      "location": "Santa Clara",
       "start": "2026-09-03T21:30:00.000+0000",
       "end": "2026-09-03T23:30:00.000+0000",
       "is_all_day": false,
