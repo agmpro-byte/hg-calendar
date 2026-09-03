@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T21:20:22.641002Z",
+  "generated": "2026-09-03T21:25:21.888887Z",
   "date_range": {
     "start": "2026-09-03",
     "end": "2026-09-03"
@@ -8,6 +8,7 @@
     "sales": [
       "Amber Bandanza",
       "Anthony Hall",
+      "Call Center",
       "Chris Loeswick",
       "Clayton Johnson",
       "Johnny Van Wyk",
@@ -560,7 +561,7 @@
     {
       "id": "00URb00000T5ZSfMAN",
       "category": "sales",
-      "resource": "Steven McIntire",
+      "resource": "Call Center",
       "subject": "Sales Presentation",
       "label": "Sales Presentation | Dan Heenan | Danville-Costco-Steve McIntire",
       "location": "Danville-Costco-Steve McIntire",
